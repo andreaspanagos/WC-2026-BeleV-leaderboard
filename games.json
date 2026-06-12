@@ -1,0 +1,4232 @@
+{
+  "meta": {
+    "lastRefresh": "2026-06-12 20:33",
+    "maxPoints": 729,
+    "participants": 7
+  },
+  "players": [
+    "Lilla K",
+    "Fillefire",
+    "Nora",
+    "Matias",
+    "Andreas",
+    "Jonathan",
+    "Charlotta"
+  ],
+  "groups": [
+    {
+      "group": "A",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Mexico",
+          "count": 6,
+          "pct": 86,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Korea Republic",
+          "count": 1,
+          "pct": 14,
+          "players": [
+            "Andreas"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-11 21:00",
+          "home": "Mexico",
+          "away": "South Africa",
+          "played": true,
+          "actual": {
+            "hg": 2,
+            "ag": 0
+          },
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 43,
+              "pts": 3,
+              "players": [
+                "Lilla K",
+                "Nora",
+                "Matias"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 29,
+              "pts": 1,
+              "players": [
+                "Fillefire",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": 1,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": 1,
+              "players": [
+                "Charlotta"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-12 04:00",
+          "home": "Korea Republic",
+          "away": "Czechia",
+          "played": true,
+          "actual": {
+            "hg": 2,
+            "ag": 1
+          },
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 29,
+              "pts": 1,
+              "players": [
+                "Lilla K",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": 0,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": 0,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": 1,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": 3,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": 1,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-17 18:00",
+          "home": "Czechia",
+          "away": "South Africa",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 03:00",
+          "home": "Mexico",
+          "away": "Korea Republic",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 03:00",
+          "home": "Czechia",
+          "away": "Mexico",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 03:00",
+          "home": "South Africa",
+          "away": "Korea Republic",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire",
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Switzerland",
+          "count": 7,
+          "pct": 100,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias",
+            "Andreas",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-12 21:00",
+          "home": "Canada",
+          "away": "Bosnia & Herzegovina",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-13 21:00",
+          "home": "Qatar",
+          "away": "Switzerland",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire",
+                "Nora",
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-18 21:00",
+          "home": "Switzerland",
+          "away": "Bosnia & Herzegovina",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire",
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 00:00",
+          "home": "Canada",
+          "away": "Qatar",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-24 21:00",
+          "home": "Switzerland",
+          "away": "Canada",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora",
+                "Andreas",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-24 21:00",
+          "home": "Bosnia & Herzegovina",
+          "away": "Qatar",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Brazil",
+          "count": 7,
+          "pct": 100,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias",
+            "Andreas",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-14 00:00",
+          "home": "Brazil",
+          "away": "Morocco",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "3–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "4–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-14 03:00",
+          "home": "Haiti",
+          "away": "Scotland",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 21:00",
+          "home": "Scotland",
+          "away": "Morocco",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-20 03:00",
+          "home": "Brazil",
+          "away": "Haiti",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Matias"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "5–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "5–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 00:00",
+          "home": "Scotland",
+          "away": "Brazil",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 00:00",
+          "home": "Morocco",
+          "away": "Haiti",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Turkey",
+          "count": 5,
+          "pct": 71,
+          "players": [
+            "Fillefire",
+            "Matias",
+            "Andreas",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Australia",
+          "count": 1,
+          "pct": 14,
+          "players": [
+            "Lilla K"
+          ],
+          "correct": null
+        },
+        {
+          "team": "USA",
+          "count": 1,
+          "pct": 14,
+          "players": [
+            "Nora"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-13 03:00",
+          "home": "USA",
+          "away": "Paraguay",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-13 06:00",
+          "home": "Australia",
+          "away": "Turkey",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 21:00",
+          "home": "USA",
+          "away": "Australia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora",
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 06:00",
+          "home": "Turkey",
+          "away": "Paraguay",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 04:00",
+          "home": "Turkey",
+          "away": "USA",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 04:00",
+          "home": "Paraguay",
+          "away": "Australia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Germany",
+          "count": 7,
+          "pct": 100,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias",
+            "Andreas",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-14 19:00",
+          "home": "Germany",
+          "away": "Curaçao",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–0",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "5–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-15 01:00",
+          "home": "Côte d'Ivoire",
+          "away": "Ecuador",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-20 22:00",
+          "home": "Germany",
+          "away": "Côte d'Ivoire",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-21 01:59",
+          "home": "Ecuador",
+          "away": "Curaçao",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Matias"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 22:00",
+          "home": "Curaçao",
+          "away": "Côte d'Ivoire",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 22:00",
+          "home": "Ecuador",
+          "away": "Germany",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Matias",
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Netherlands",
+          "count": 4,
+          "pct": 57,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Japan",
+          "count": 2,
+          "pct": 29,
+          "players": [
+            "Andreas",
+            "Jonathan"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Tunisia",
+          "count": 1,
+          "pct": 14,
+          "players": [
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-14 22:00",
+          "home": "Netherlands",
+          "away": "Japan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-15 04:00",
+          "home": "Sweden",
+          "away": "Tunisia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-20 19:00",
+          "home": "Netherlands",
+          "away": "Sweden",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–1",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire",
+                "Nora",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-20 06:00",
+          "home": "Tunisia",
+          "away": "Japan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 01:00",
+          "home": "Japan",
+          "away": "Sweden",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 01:00",
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Belgium",
+          "count": 7,
+          "pct": 100,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias",
+            "Andreas",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-15 21:00",
+          "home": "Belgium",
+          "away": "Egypt",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-16 03:00",
+          "home": "Iran",
+          "away": "New Zealand",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-21 21:00",
+          "home": "Belgium",
+          "away": "Iran",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-22 03:00",
+          "home": "New Zealand",
+          "away": "Egypt",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 04:59",
+          "home": "Egypt",
+          "away": "Iran",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 04:59",
+          "home": "New Zealand",
+          "away": "Belgium",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Spain",
+          "count": 7,
+          "pct": 100,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias",
+            "Andreas",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-15 18:00",
+          "home": "Spain",
+          "away": "Cabo Verde",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "4–0",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-16 00:00",
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–3",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Matias"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-21 18:00",
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–0",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora",
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-22 00:00",
+          "home": "Uruguay",
+          "away": "Cabo Verde",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Matias",
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 01:59",
+          "home": "Cabo Verde",
+          "away": "Saudi Arabia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–0",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 01:59",
+          "home": "Uruguay",
+          "away": "Spain",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–4",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "France",
+          "count": 5,
+          "pct": 71,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias",
+            "Jonathan"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Norway",
+          "count": 2,
+          "pct": 29,
+          "players": [
+            "Andreas",
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-16 21:00",
+          "home": "France",
+          "away": "Senegal",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "5–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-17 00:00",
+          "home": "Iraq",
+          "away": "Norway",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-22 22:59",
+          "home": "France",
+          "away": "Iraq",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Andreas",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-23 01:59",
+          "home": "Norway",
+          "away": "Senegal",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–2",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 21:00",
+          "home": "Norway",
+          "away": "France",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–3",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 21:00",
+          "home": "Senegal",
+          "away": "Iraq",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Argentina",
+          "count": 7,
+          "pct": 100,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias",
+            "Andreas",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-17 03:00",
+          "home": "Argentina",
+          "away": "Algeria",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Matias",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-16 06:00",
+          "home": "Austria",
+          "away": "Jordan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-22 19:00",
+          "home": "Argentina",
+          "away": "Austria",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "4–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-23 04:59",
+          "home": "Jordan",
+          "away": "Algeria",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-28 04:00",
+          "home": "Algeria",
+          "away": "Austria",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-28 04:00",
+          "home": "Jordan",
+          "away": "Argentina",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Portugal",
+          "count": 7,
+          "pct": 100,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Matias",
+            "Andreas",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-17 19:00",
+          "home": "Portugal",
+          "away": "Congo DR",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-18 04:00",
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-23 19:00",
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora",
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-24 04:00",
+          "home": "Colombia",
+          "away": "Congo DR",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 4,
+              "pct": 57,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Fillefire",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-28 01:30",
+          "home": "Colombia",
+          "away": "Portugal",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-28 01:30",
+          "home": "Congo DR",
+          "away": "Uzbekistan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Matias"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "England",
+          "count": 4,
+          "pct": 57,
+          "players": [
+            "Lilla K",
+            "Fillefire",
+            "Nora",
+            "Andreas"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Croatia",
+          "count": 3,
+          "pct": 43,
+          "players": [
+            "Matias",
+            "Jonathan",
+            "Charlotta"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-17 22:00",
+          "home": "England",
+          "away": "Croatia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-18 01:00",
+          "home": "Ghana",
+          "away": "Panama",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–0",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Matias",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-23 22:00",
+          "home": "England",
+          "away": "Ghana",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-24 01:00",
+          "home": "Panama",
+          "away": "Croatia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 5,
+              "pct": 71,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Nora",
+                "Matias",
+                "Jonathan",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Andreas"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Lilla K"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 22:59",
+          "home": "Panama",
+          "away": "England",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 3,
+              "pct": 43,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Nora"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "1–4",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 22:59",
+          "home": "Croatia",
+          "away": "Ghana",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Charlotta"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 29,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Matias"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Jonathan"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Nora"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 14,
+              "pts": null,
+              "players": [
+                "Fillefire"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    }
+  ]
+}

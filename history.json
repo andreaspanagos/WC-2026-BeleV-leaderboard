@@ -1,0 +1,37 @@
+{
+  "days": [
+    {
+      "date": "2026-06-12",
+      "standings": {
+        "Fillefire": {
+          "rank": 1,
+          "total": 4
+        },
+        "Lilla K": {
+          "rank": 1,
+          "total": 4
+        },
+        "Nora": {
+          "rank": 1,
+          "total": 4
+        },
+        "Matias": {
+          "rank": 4,
+          "total": 3
+        },
+        "Andreas": {
+          "rank": 5,
+          "total": 2
+        },
+        "Jonathan": {
+          "rank": 5,
+          "total": 2
+        },
+        "Charlotta": {
+          "rank": 7,
+          "total": 1
+        }
+      }
+    }
+  ]
+}
