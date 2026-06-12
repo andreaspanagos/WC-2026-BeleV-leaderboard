@@ -1,15 +1,15 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 21:26",
+    "lastRefresh": "2026-06-12 23:23",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 6
+    "maxAvailable": 9
   },
   "players": [
     "Lilla K",
-    "Fillefire",
     "Nora",
     "Matias",
+    "Fillefire",
     "Andreas",
     "Jonathan",
     "Lina",
@@ -799,8 +799,8 @@
       },
       "championPct": 38,
       "championBy": [
-        "Fillefire",
         "Matias",
+        "Fillefire",
         "Lina"
       ]
     },
@@ -1315,8 +1315,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Fillefire",
             "Nora",
+            "Fillefire",
             "Andreas"
           ],
           "hit": null
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "5",
+      "current": "7",
       "status": "provisional",
       "answers": [
         {
@@ -1464,8 +1464,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Fillefire",
-            "Matias"
+            "Matias",
+            "Fillefire"
           ],
           "hit": null
         },
@@ -1845,9 +1845,9 @@
           "pct": 100,
           "players": [
             "Lilla K",
-            "Fillefire",
             "Nora",
             "Matias",
+            "Fillefire",
             "Andreas",
             "Jonathan",
             "Lina",
@@ -1869,9 +1869,9 @@
           "count": 7,
           "pct": 88,
           "players": [
-            "Fillefire",
             "Nora",
             "Matias",
+            "Fillefire",
             "Andreas",
             "Jonathan",
             "Lina",
@@ -1960,8 +1960,8 @@
           "pct": 75,
           "players": [
             "Lilla K",
-            "Fillefire",
             "Matias",
+            "Fillefire",
             "Andreas",
             "Jonathan",
             "Charlotta"
@@ -2001,8 +2001,8 @@
           "pct": 62,
           "players": [
             "Lilla K",
-            "Fillefire",
             "Nora",
+            "Fillefire",
             "Lina",
             "Charlotta"
           ],

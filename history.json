@@ -3,21 +3,21 @@
     {
       "date": "2026-06-12",
       "standings": {
-        "Fillefire": {
+        "Nora": {
           "rank": 1,
+          "total": 7
+        },
+        "Fillefire": {
+          "rank": 2,
           "total": 4
         },
         "Lilla K": {
-          "rank": 1,
-          "total": 4
-        },
-        "Nora": {
-          "rank": 1,
+          "rank": 2,
           "total": 4
         },
         "Matias": {
-          "rank": 4,
-          "total": 3
+          "rank": 2,
+          "total": 4
         },
         "Andreas": {
           "rank": 5,

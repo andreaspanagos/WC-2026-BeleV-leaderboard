@@ -1,13 +1,24 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 21:26",
+    "lastRefresh": "2026-06-12 23:23",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 6
+    "maxAvailable": 9
   },
   "rows": [
     {
       "rank": 1,
+      "player": "Nora",
+      "group": 7,
+      "ko": 0,
+      "bonus": 0,
+      "total": 7,
+      "prevRank": 3,
+      "pointsToday": 3,
+      "pctMax": 0.7778
+    },
+    {
+      "rank": 2,
       "player": "Fillefire",
       "group": 4,
       "ko": 0,
@@ -15,10 +26,10 @@
       "total": 4,
       "prevRank": 2,
       "pointsToday": 0,
-      "pctMax": 0.6667
+      "pctMax": 0.4444
     },
     {
-      "rank": 1,
+      "rank": 2,
       "player": "Lilla K",
       "group": 4,
       "ko": 0,
@@ -26,29 +37,18 @@
       "total": 4,
       "prevRank": 1,
       "pointsToday": -5,
-      "pctMax": 0.6667
+      "pctMax": 0.4444
     },
     {
-      "rank": 1,
-      "player": "Nora",
+      "rank": 2,
+      "player": "Matias",
       "group": 4,
       "ko": 0,
       "bonus": 0,
       "total": 4,
-      "prevRank": 3,
-      "pointsToday": 0,
-      "pctMax": 0.6667
-    },
-    {
-      "rank": 4,
-      "player": "Matias",
-      "group": 3,
-      "ko": 0,
-      "bonus": 0,
-      "total": 3,
       "prevRank": 4,
-      "pointsToday": 0,
-      "pctMax": 0.5
+      "pointsToday": 1,
+      "pctMax": 0.4444
     },
     {
       "rank": 5,
@@ -59,7 +59,7 @@
       "total": 2,
       "prevRank": 5,
       "pointsToday": 0,
-      "pctMax": 0.3333
+      "pctMax": 0.2222
     },
     {
       "rank": 5,
@@ -70,7 +70,7 @@
       "total": 2,
       "prevRank": 6,
       "pointsToday": 0,
-      "pctMax": 0.3333
+      "pctMax": 0.2222
     },
     {
       "rank": 5,
@@ -81,7 +81,7 @@
       "total": 2,
       "prevRank": null,
       "pointsToday": 0,
-      "pctMax": 0.3333
+      "pctMax": 0.2222
     },
     {
       "rank": 8,
@@ -92,7 +92,7 @@
       "total": 1,
       "prevRank": 7,
       "pointsToday": 0,
-      "pctMax": 0.1667
+      "pctMax": 0.1111
     }
   ]
 }
