@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 20:33",
+    "lastRefresh": "2026-06-12 21:26",
     "maxPoints": 729,
-    "participants": 7
+    "participants": 8
   },
   "players": [
     "Lilla K",
@@ -11,6 +11,7 @@
     "Matias",
     "Andreas",
     "Jonathan",
+    "Lina",
     "Charlotta"
   ],
   "groups": [
@@ -21,14 +22,15 @@
       "winnerPicks": [
         {
           "team": "Mexico",
-          "count": 6,
-          "pct": 86,
+          "count": 7,
+          "pct": 88,
           "players": [
             "Lilla K",
             "Fillefire",
             "Nora",
             "Matias",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "correct": null
@@ -36,7 +38,7 @@
         {
           "team": "Korea Republic",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Andreas"
           ],
@@ -57,7 +59,7 @@
             {
               "score": "2–0",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": 3,
               "players": [
                 "Lilla K",
@@ -68,7 +70,7 @@
             {
               "score": "3–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": 1,
               "players": [
                 "Fillefire",
@@ -78,7 +80,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": 1,
               "players": [
                 "Jonathan"
@@ -87,10 +89,19 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": 1,
               "players": [
                 "Charlotta"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 12,
+              "pts": 1,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -109,7 +120,7 @@
             {
               "score": "1–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": 1,
               "players": [
                 "Lilla K",
@@ -117,9 +128,19 @@
               ]
             },
             {
+              "score": "2–0",
+              "count": 2,
+              "pct": 25,
+              "pts": 1,
+              "players": [
+                "Nora",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": 0,
               "players": [
                 "Charlotta"
@@ -128,25 +149,16 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": 0,
               "players": [
                 "Matias"
               ]
             },
             {
-              "score": "2–0",
-              "count": 1,
-              "pct": 14,
-              "pts": 1,
-              "players": [
-                "Nora"
-              ]
-            },
-            {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": 3,
               "players": [
                 "Fillefire"
@@ -155,7 +167,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": 1,
               "players": [
                 "Andreas"
@@ -174,7 +186,7 @@
             {
               "score": "1–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -184,7 +196,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -192,27 +204,28 @@
               ]
             },
             {
+              "score": "2–0",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
               ]
             },
             {
-              "score": "2–0",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Fillefire"
-              ]
-            },
-            {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -231,7 +244,7 @@
             {
               "score": "2–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -241,7 +254,7 @@
             {
               "score": "2–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Jonathan",
@@ -249,9 +262,19 @@
               ]
             },
             {
+              "score": "3–2",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Lina"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -260,19 +283,10 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
-              ]
-            },
-            {
-              "score": "3–2",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Fillefire"
               ]
             }
           ],
@@ -288,7 +302,7 @@
             {
               "score": "0–2",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Nora",
@@ -297,9 +311,19 @@
               ]
             },
             {
+              "score": "1–2",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -308,25 +332,16 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
               ]
             },
             {
-              "score": "1–2",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Lilla K"
-              ]
-            },
-            {
               "score": "2–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -345,7 +360,7 @@
             {
               "score": "0–1",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -354,9 +369,19 @@
               ]
             },
             {
+              "score": "0–3",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Lina"
+              ]
+            },
+            {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Jonathan",
@@ -366,19 +391,10 @@
             {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
-              ]
-            },
-            {
-              "score": "0–3",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Andreas"
               ]
             }
           ],
@@ -393,7 +409,7 @@
       "winnerPicks": [
         {
           "team": "Switzerland",
-          "count": 7,
+          "count": 8,
           "pct": 100,
           "players": [
             "Lilla K",
@@ -402,6 +418,7 @@
             "Matias",
             "Andreas",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "correct": null
@@ -416,27 +433,28 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "0–1",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Jonathan",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
               ]
             },
             {
-              "score": "0–1",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Jonathan"
-              ]
-            },
-            {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -445,7 +463,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -454,7 +472,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -463,7 +481,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -472,7 +490,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -490,20 +508,21 @@
           "scorelines": [
             {
               "score": "0–2",
-              "count": 4,
-              "pct": 57,
+              "count": 5,
+              "pct": 62,
               "pts": null,
               "players": [
                 "Lilla K",
                 "Fillefire",
                 "Nora",
-                "Matias"
+                "Matias",
+                "Lina"
               ]
             },
             {
               "score": "0–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -512,7 +531,7 @@
             {
               "score": "0–4",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -521,7 +540,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -539,19 +558,20 @@
           "scorelines": [
             {
               "score": "2–1",
-              "count": 3,
-              "pct": 43,
+              "count": 4,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lilla K",
                 "Fillefire",
-                "Nora"
+                "Nora",
+                "Lina"
               ]
             },
             {
               "score": "1–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -561,7 +581,7 @@
             {
               "score": "3–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -570,7 +590,7 @@
             {
               "score": "4–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -588,18 +608,19 @@
           "scorelines": [
             {
               "score": "1–0",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Nora",
-                "Jonathan"
+                "Jonathan",
+                "Lina"
               ]
             },
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -609,7 +630,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -618,7 +639,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -627,7 +648,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -646,7 +667,7 @@
             {
               "score": "2–1",
               "count": 4,
-              "pct": 57,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -658,7 +679,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -666,9 +687,18 @@
               ]
             },
             {
+              "score": "2–0",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "4–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -687,7 +717,7 @@
             {
               "score": "1–1",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -698,7 +728,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -707,7 +737,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -716,7 +746,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -725,10 +755,19 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -744,7 +783,7 @@
         {
           "team": "Brazil",
           "count": 7,
-          "pct": 100,
+          "pct": 88,
           "players": [
             "Lilla K",
             "Fillefire",
@@ -753,6 +792,15 @@
             "Andreas",
             "Jonathan",
             "Charlotta"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Morocco",
+          "count": 1,
+          "pct": 12,
+          "players": [
+            "Lina"
           ],
           "correct": null
         }
@@ -768,7 +816,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -777,7 +825,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -786,7 +834,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -795,16 +843,25 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
               ]
             },
             {
+              "score": "2–4",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "3–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -813,7 +870,7 @@
             {
               "score": "3–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -822,7 +879,7 @@
             {
               "score": "4–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -840,19 +897,20 @@
           "scorelines": [
             {
               "score": "0–1",
-              "count": 3,
-              "pct": 43,
+              "count": 4,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Andreas",
                 "Jonathan",
+                "Lina",
                 "Charlotta"
               ]
             },
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -862,7 +920,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -871,7 +929,7 @@
             {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -889,19 +947,20 @@
           "scorelines": [
             {
               "score": "1–2",
-              "count": 3,
-              "pct": 43,
+              "count": 4,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lilla K",
                 "Nora",
+                "Lina",
                 "Charlotta"
               ]
             },
             {
               "score": "1–3",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -911,7 +970,7 @@
             {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -920,7 +979,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -938,18 +997,19 @@
           "scorelines": [
             {
               "score": "3–0",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
-                "Matias"
+                "Matias",
+                "Lina"
               ]
             },
             {
               "score": "4–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -959,7 +1019,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -968,7 +1028,7 @@
             {
               "score": "5–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -977,7 +1037,7 @@
             {
               "score": "5–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -996,7 +1056,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -1006,7 +1066,7 @@
             {
               "score": "1–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -1014,9 +1074,19 @@
               ]
             },
             {
+              "score": "1–3",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -1025,19 +1095,10 @@
             {
               "score": "0–4",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
-              ]
-            },
-            {
-              "score": "1–3",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Andreas"
               ]
             }
           ],
@@ -1053,7 +1114,7 @@
             {
               "score": "2–0",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -1063,18 +1124,19 @@
             },
             {
               "score": "3–0",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Fillefire",
-                "Andreas"
+                "Andreas",
+                "Lina"
               ]
             },
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -1083,7 +1145,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -1101,13 +1163,14 @@
       "winnerPicks": [
         {
           "team": "Turkey",
-          "count": 5,
-          "pct": 71,
+          "count": 6,
+          "pct": 75,
           "players": [
             "Fillefire",
             "Matias",
             "Andreas",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "correct": null
@@ -1115,7 +1178,7 @@
         {
           "team": "Australia",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Lilla K"
           ],
@@ -1124,7 +1187,7 @@
         {
           "team": "USA",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Nora"
           ],
@@ -1142,7 +1205,7 @@
             {
               "score": "1–1",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Matias",
@@ -1153,7 +1216,7 @@
             {
               "score": "2–0",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -1164,10 +1227,19 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -1181,9 +1253,19 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "0–2",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Lina"
+              ]
+            },
+            {
               "score": "1–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Jonathan",
@@ -1191,18 +1273,9 @@
               ]
             },
             {
-              "score": "0–2",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Matias"
-              ]
-            },
-            {
               "score": "0–4",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -1211,7 +1284,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -1220,7 +1293,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -1229,7 +1302,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -1248,7 +1321,7 @@
             {
               "score": "2–0",
               "count": 4,
-              "pct": 57,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -1259,18 +1332,19 @@
             },
             {
               "score": "1–1",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
-                "Jonathan"
+                "Jonathan",
+                "Lina"
               ]
             },
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -1289,7 +1363,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -1297,9 +1371,19 @@
               ]
             },
             {
+              "score": "3–2",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Lina"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -1308,7 +1392,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -1317,7 +1401,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -1326,19 +1410,10 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
-              ]
-            },
-            {
-              "score": "3–2",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Fillefire"
               ]
             }
           ],
@@ -1353,18 +1428,19 @@
           "scorelines": [
             {
               "score": "2–1",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Fillefire",
+                "Lina",
                 "Charlotta"
               ]
             },
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -1373,7 +1449,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -1382,7 +1458,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -1391,7 +1467,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -1400,7 +1476,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -1419,7 +1495,7 @@
             {
               "score": "1–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -1427,9 +1503,19 @@
               ]
             },
             {
+              "score": "2–1",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Lina"
+              ]
+            },
+            {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -1438,25 +1524,16 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
               ]
             },
             {
-              "score": "2–1",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Nora"
-              ]
-            },
-            {
               "score": "2–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -1465,7 +1542,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -1483,7 +1560,7 @@
       "winnerPicks": [
         {
           "team": "Germany",
-          "count": 7,
+          "count": 8,
           "pct": 100,
           "players": [
             "Lilla K",
@@ -1492,6 +1569,7 @@
             "Matias",
             "Andreas",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "correct": null
@@ -1507,19 +1585,20 @@
           "scorelines": [
             {
               "score": "3–0",
-              "count": 3,
-              "pct": 43,
+              "count": 4,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lilla K",
                 "Nora",
+                "Lina",
                 "Charlotta"
               ]
             },
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -1528,7 +1607,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -1537,7 +1616,7 @@
             {
               "score": "4–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -1546,7 +1625,7 @@
             {
               "score": "5–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -1565,7 +1644,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -1575,7 +1654,7 @@
             {
               "score": "2–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -1585,7 +1664,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -1594,16 +1673,25 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
               ]
             },
             {
+              "score": "2–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "2–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -1622,7 +1710,7 @@
             {
               "score": "2–1",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -1633,7 +1721,7 @@
             {
               "score": "2–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -1643,7 +1731,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -1652,10 +1740,19 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -1669,9 +1766,20 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "3–0",
+              "count": 3,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Lina",
+                "Charlotta"
+              ]
+            },
+            {
               "score": "2–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -1679,19 +1787,9 @@
               ]
             },
             {
-              "score": "3–0",
-              "count": 2,
-              "pct": 29,
-              "pts": null,
-              "players": [
-                "Andreas",
-                "Charlotta"
-              ]
-            },
-            {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -1700,7 +1798,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -1709,7 +1807,7 @@
             {
               "score": "4–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -1728,7 +1826,7 @@
             {
               "score": "0–2",
               "count": 4,
-              "pct": 57,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -1738,9 +1836,19 @@
               ]
             },
             {
+              "score": "1–2",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Andreas",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -1749,19 +1857,10 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
-              ]
-            },
-            {
-              "score": "1–2",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Andreas"
               ]
             }
           ],
@@ -1777,7 +1876,7 @@
             {
               "score": "1–1",
               "count": 4,
-              "pct": 57,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -1789,7 +1888,7 @@
             {
               "score": "0–3",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -1799,10 +1898,19 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -1817,20 +1925,21 @@
       "winnerPicks": [
         {
           "team": "Netherlands",
-          "count": 4,
-          "pct": 57,
+          "count": 5,
+          "pct": 62,
           "players": [
             "Lilla K",
             "Fillefire",
             "Nora",
-            "Matias"
+            "Matias",
+            "Lina"
           ],
           "correct": null
         },
         {
           "team": "Japan",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Andreas",
             "Jonathan"
@@ -1840,7 +1949,7 @@
         {
           "team": "Tunisia",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Charlotta"
           ],
@@ -1858,7 +1967,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -1868,7 +1977,7 @@
             {
               "score": "3–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -1878,7 +1987,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -1887,7 +1996,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -1896,10 +2005,19 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
+              ]
+            },
+            {
+              "score": "4–3",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -1914,19 +2032,20 @@
           "scorelines": [
             {
               "score": "2–1",
-              "count": 3,
-              "pct": 43,
+              "count": 4,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lilla K",
                 "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Lina"
               ]
             },
             {
               "score": "1–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -1936,7 +2055,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -1945,7 +2064,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -1963,20 +2082,21 @@
           "scorelines": [
             {
               "score": "3–1",
-              "count": 4,
-              "pct": 57,
+              "count": 5,
+              "pct": 62,
               "pts": null,
               "players": [
                 "Lilla K",
                 "Fillefire",
                 "Nora",
-                "Andreas"
+                "Andreas",
+                "Lina"
               ]
             },
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -1985,7 +2105,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -1994,7 +2114,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -2011,9 +2131,20 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "1–2",
+              "count": 3,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Matias",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -2021,19 +2152,9 @@
               ]
             },
             {
-              "score": "1–2",
-              "count": 2,
-              "pct": 29,
-              "pts": null,
-              "players": [
-                "Lilla K",
-                "Matias"
-              ]
-            },
-            {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -2042,7 +2163,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -2051,7 +2172,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -2068,9 +2189,20 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "1–2",
+              "count": 3,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Lina",
+                "Charlotta"
+              ]
+            },
+            {
               "score": "2–1",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -2079,19 +2211,9 @@
               ]
             },
             {
-              "score": "1–2",
-              "count": 2,
-              "pct": 29,
-              "pts": null,
-              "players": [
-                "Matias",
-                "Charlotta"
-              ]
-            },
-            {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -2100,7 +2222,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -2119,7 +2241,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -2129,7 +2251,7 @@
             {
               "score": "0–3",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -2137,9 +2259,19 @@
               ]
             },
             {
+              "score": "1–3",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Lina"
+              ]
+            },
+            {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -2148,19 +2280,10 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
-              ]
-            },
-            {
-              "score": "1–3",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Fillefire"
               ]
             }
           ],
@@ -2175,7 +2298,7 @@
       "winnerPicks": [
         {
           "team": "Belgium",
-          "count": 7,
+          "count": 8,
           "pct": 100,
           "players": [
             "Lilla K",
@@ -2184,6 +2307,7 @@
             "Matias",
             "Andreas",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "correct": null
@@ -2198,9 +2322,19 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "1–0",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Lina",
+                "Charlotta"
+              ]
+            },
+            {
               "score": "2–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -2210,7 +2344,7 @@
             {
               "score": "3–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -2218,18 +2352,9 @@
               ]
             },
             {
-              "score": "1–0",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Charlotta"
-              ]
-            },
-            {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -2238,7 +2363,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -2257,7 +2382,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -2267,7 +2392,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -2277,7 +2402,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -2286,7 +2411,7 @@
             {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -2295,10 +2420,19 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -2314,7 +2448,7 @@
             {
               "score": "2–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -2324,7 +2458,7 @@
             {
               "score": "3–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -2334,7 +2468,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -2343,16 +2477,25 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
               ]
             },
             {
+              "score": "4–0",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "4–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -2370,18 +2513,19 @@
           "scorelines": [
             {
               "score": "0–1",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Andreas",
-                "Jonathan"
+                "Jonathan",
+                "Lina"
               ]
             },
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -2391,7 +2535,7 @@
             {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -2400,7 +2544,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -2409,7 +2553,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -2428,7 +2572,7 @@
             {
               "score": "2–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -2438,7 +2582,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -2447,7 +2591,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -2456,16 +2600,25 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
               ]
             },
             {
+              "score": "1–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -2474,7 +2627,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -2492,19 +2645,20 @@
           "scorelines": [
             {
               "score": "0–2",
-              "count": 3,
-              "pct": 43,
+              "count": 4,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Nora",
                 "Jonathan",
+                "Lina",
                 "Charlotta"
               ]
             },
             {
               "score": "0–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -2513,7 +2667,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -2522,7 +2676,7 @@
             {
               "score": "0–4",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -2531,7 +2685,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -2549,7 +2703,7 @@
       "winnerPicks": [
         {
           "team": "Spain",
-          "count": 7,
+          "count": 8,
           "pct": 100,
           "players": [
             "Lilla K",
@@ -2558,6 +2712,7 @@
             "Matias",
             "Andreas",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "correct": null
@@ -2574,7 +2729,7 @@
             {
               "score": "4–0",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -2585,7 +2740,7 @@
             {
               "score": "2–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -2594,17 +2749,18 @@
             },
             {
               "score": "3–0",
-              "count": 1,
-              "pct": 14,
+              "count": 2,
+              "pct": 25,
               "pts": null,
               "players": [
-                "Matias"
+                "Matias",
+                "Lina"
               ]
             },
             {
               "score": "4–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -2622,19 +2778,20 @@
           "scorelines": [
             {
               "score": "1–3",
-              "count": 3,
-              "pct": 43,
+              "count": 4,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Fillefire",
                 "Andreas",
+                "Lina",
                 "Charlotta"
               ]
             },
             {
               "score": "0–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -2644,7 +2801,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -2664,7 +2821,7 @@
             {
               "score": "3–0",
               "count": 4,
-              "pct": 57,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -2674,27 +2831,28 @@
               ]
             },
             {
+              "score": "2–0",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Lina"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
               ]
             },
             {
-              "score": "2–0",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Matias"
-              ]
-            },
-            {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -2712,20 +2870,21 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 4,
-              "pct": 57,
+              "count": 5,
+              "pct": 62,
               "pts": null,
               "players": [
                 "Fillefire",
                 "Matias",
                 "Andreas",
+                "Lina",
                 "Charlotta"
               ]
             },
             {
               "score": "0–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -2734,7 +2893,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -2743,7 +2902,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -2762,7 +2921,7 @@
             {
               "score": "0–0",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -2772,18 +2931,19 @@
             },
             {
               "score": "0–1",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Nora",
-                "Matias"
+                "Matias",
+                "Lina"
               ]
             },
             {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -2792,7 +2952,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -2810,19 +2970,20 @@
           "scorelines": [
             {
               "score": "1–2",
-              "count": 3,
-              "pct": 43,
+              "count": 4,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lilla K",
                 "Jonathan",
+                "Lina",
                 "Charlotta"
               ]
             },
             {
               "score": "2–4",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -2832,7 +2993,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -2841,7 +3002,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -2859,21 +3020,22 @@
       "winnerPicks": [
         {
           "team": "France",
-          "count": 5,
-          "pct": 71,
+          "count": 6,
+          "pct": 75,
           "players": [
             "Lilla K",
             "Fillefire",
             "Nora",
             "Matias",
-            "Jonathan"
+            "Jonathan",
+            "Lina"
           ],
           "correct": null
         },
         {
           "team": "Norway",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Andreas",
             "Charlotta"
@@ -2892,7 +3054,7 @@
             {
               "score": "3–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -2902,7 +3064,7 @@
             {
               "score": "3–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -2912,7 +3074,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -2921,16 +3083,25 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
               ]
             },
             {
+              "score": "4–0",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "5–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -2948,18 +3119,19 @@
           "scorelines": [
             {
               "score": "0–2",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
-                "Nora"
+                "Nora",
+                "Lina"
               ]
             },
             {
               "score": "0–3",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -2969,7 +3141,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -2978,7 +3150,7 @@
             {
               "score": "0–4",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -2987,7 +3159,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -3006,7 +3178,7 @@
             {
               "score": "2–0",
               "count": 4,
-              "pct": 57,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Matias",
@@ -3018,7 +3190,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -3027,16 +3199,25 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
               ]
             },
             {
+              "score": "3–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "4–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -3055,7 +3236,7 @@
             {
               "score": "2–2",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -3064,9 +3245,19 @@
               ]
             },
             {
+              "score": "2–1",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Matias",
+                "Lina"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -3075,25 +3266,16 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
               ]
             },
             {
-              "score": "2–1",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Matias"
-              ]
-            },
-            {
               "score": "4–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -3112,7 +3294,7 @@
             {
               "score": "1–3",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -3122,7 +3304,7 @@
             {
               "score": "2–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Andreas",
@@ -3132,7 +3314,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -3141,16 +3323,25 @@
             {
               "score": "2–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
               ]
             },
             {
+              "score": "2–4",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "3–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -3169,7 +3360,7 @@
             {
               "score": "1–0",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Nora",
@@ -3178,27 +3369,28 @@
               ]
             },
             {
+              "score": "1–1",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Jonathan",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
               ]
             },
             {
-              "score": "1–1",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Jonathan"
-              ]
-            },
-            {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -3207,7 +3399,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -3225,7 +3417,7 @@
       "winnerPicks": [
         {
           "team": "Argentina",
-          "count": 7,
+          "count": 8,
           "pct": 100,
           "players": [
             "Lilla K",
@@ -3234,6 +3426,7 @@
             "Matias",
             "Andreas",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "correct": null
@@ -3250,7 +3443,7 @@
             {
               "score": "2–0",
               "count": 4,
-              "pct": 57,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Nora",
@@ -3262,7 +3455,7 @@
             {
               "score": "3–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -3272,10 +3465,19 @@
             {
               "score": "4–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
+              ]
+            },
+            {
+              "score": "5–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -3291,7 +3493,7 @@
             {
               "score": "1–0",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Matias",
@@ -3302,7 +3504,7 @@
             {
               "score": "2–0",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -3313,10 +3515,19 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -3332,7 +3543,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Jonathan",
@@ -3342,7 +3553,7 @@
             {
               "score": "2–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -3352,16 +3563,25 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
               ]
             },
             {
+              "score": "3–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "3–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -3370,7 +3590,7 @@
             {
               "score": "4–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -3388,18 +3608,19 @@
           "scorelines": [
             {
               "score": "0–1",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Fillefire",
-                "Matias"
+                "Matias",
+                "Lina"
               ]
             },
             {
               "score": "0–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Jonathan",
@@ -3409,7 +3630,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -3419,7 +3640,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -3438,7 +3659,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -3446,9 +3667,19 @@
               ]
             },
             {
+              "score": "1–2",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Lilla K",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -3457,7 +3688,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -3466,25 +3697,16 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
               ]
             },
             {
-              "score": "1–2",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Lilla K"
-              ]
-            },
-            {
               "score": "1–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -3503,7 +3725,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -3513,7 +3735,7 @@
             {
               "score": "0–3",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -3523,7 +3745,7 @@
             {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -3532,7 +3754,7 @@
             {
               "score": "0–4",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -3541,10 +3763,19 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
+              ]
+            },
+            {
+              "score": "1–4",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -3559,7 +3790,7 @@
       "winnerPicks": [
         {
           "team": "Portugal",
-          "count": 7,
+          "count": 8,
           "pct": 100,
           "players": [
             "Lilla K",
@@ -3568,6 +3799,7 @@
             "Matias",
             "Andreas",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "correct": null
@@ -3583,19 +3815,20 @@
           "scorelines": [
             {
               "score": "3–1",
-              "count": 3,
-              "pct": 43,
+              "count": 4,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lilla K",
                 "Fillefire",
+                "Lina",
                 "Charlotta"
               ]
             },
             {
               "score": "2–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Andreas",
@@ -3605,7 +3838,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -3614,7 +3847,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -3633,7 +3866,7 @@
             {
               "score": "0–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -3643,7 +3876,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -3653,7 +3886,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -3663,10 +3896,19 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -3682,7 +3924,7 @@
             {
               "score": "2–0",
               "count": 4,
-              "pct": 57,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -3693,18 +3935,19 @@
             },
             {
               "score": "4–0",
-              "count": 2,
-              "pct": 29,
+              "count": 3,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Fillefire",
-                "Andreas"
+                "Andreas",
+                "Lina"
               ]
             },
             {
               "score": "3–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -3723,7 +3966,7 @@
             {
               "score": "1–1",
               "count": 4,
-              "pct": 57,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -3734,17 +3977,18 @@
             },
             {
               "score": "1–0",
-              "count": 1,
-              "pct": 14,
+              "count": 2,
+              "pct": 25,
               "pts": null,
               "players": [
-                "Matias"
+                "Matias",
+                "Lina"
               ]
             },
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -3753,7 +3997,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -3772,7 +4016,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Nora",
@@ -3780,9 +4024,19 @@
               ]
             },
             {
+              "score": "1–3",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Fillefire",
+                "Lina"
+              ]
+            },
+            {
               "score": "0–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -3791,7 +4045,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -3800,25 +4054,16 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
               ]
             },
             {
-              "score": "1–3",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Fillefire"
-              ]
-            },
-            {
               "score": "2–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -3837,7 +4082,7 @@
             {
               "score": "1–1",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -3846,9 +4091,18 @@
               ]
             },
             {
+              "score": "1–0",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -3857,7 +4111,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -3866,7 +4120,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Matias"
@@ -3875,7 +4129,7 @@
             {
               "score": "3–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -3893,20 +4147,21 @@
       "winnerPicks": [
         {
           "team": "England",
-          "count": 4,
-          "pct": 57,
+          "count": 5,
+          "pct": 62,
           "players": [
             "Lilla K",
             "Fillefire",
             "Nora",
-            "Andreas"
+            "Andreas",
+            "Lina"
           ],
           "correct": null
         },
         {
           "team": "Croatia",
           "count": 3,
-          "pct": 43,
+          "pct": 38,
           "players": [
             "Matias",
             "Jonathan",
@@ -3926,7 +4181,7 @@
             {
               "score": "1–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -3936,7 +4191,7 @@
             {
               "score": "2–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -3946,7 +4201,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -3955,7 +4210,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
@@ -3964,10 +4219,19 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -3983,7 +4247,7 @@
             {
               "score": "0–0",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -3994,7 +4258,7 @@
             {
               "score": "1–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -4004,7 +4268,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -4013,10 +4277,19 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],
@@ -4032,7 +4305,7 @@
             {
               "score": "2–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Matias",
@@ -4040,9 +4313,19 @@
               ]
             },
             {
+              "score": "3–0",
+              "count": 2,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Nora",
+                "Lina"
+              ]
+            },
+            {
               "score": "4–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -4052,7 +4335,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Charlotta"
@@ -4061,19 +4344,10 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
-              ]
-            },
-            {
-              "score": "3–0",
-              "count": 1,
-              "pct": 14,
-              "pts": null,
-              "players": [
-                "Nora"
               ]
             }
           ],
@@ -4089,7 +4363,7 @@
             {
               "score": "0–2",
               "count": 5,
-              "pct": 71,
+              "pct": 62,
               "pts": null,
               "players": [
                 "Fillefire",
@@ -4101,17 +4375,18 @@
             },
             {
               "score": "0–3",
-              "count": 1,
-              "pct": 14,
+              "count": 2,
+              "pct": 25,
               "pts": null,
               "players": [
-                "Andreas"
+                "Andreas",
+                "Lina"
               ]
             },
             {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lilla K"
@@ -4130,7 +4405,7 @@
             {
               "score": "0–1",
               "count": 3,
-              "pct": 43,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Matias",
@@ -4141,7 +4416,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -4149,9 +4424,18 @@
               ]
             },
             {
+              "score": "0–3",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
+              ]
+            },
+            {
               "score": "1–2",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -4160,7 +4444,7 @@
             {
               "score": "1–4",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
@@ -4179,7 +4463,7 @@
             {
               "score": "2–0",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Andreas",
@@ -4189,7 +4473,7 @@
             {
               "score": "2–1",
               "count": 2,
-              "pct": 29,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lilla K",
@@ -4199,7 +4483,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan"
@@ -4208,7 +4492,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Nora"
@@ -4217,10 +4501,19 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 14,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fillefire"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 1,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Lina"
               ]
             }
           ],

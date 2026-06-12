@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 20:33",
+    "lastRefresh": "2026-06-12 21:26",
     "maxPoints": 729,
-    "participants": 7,
+    "participants": 8,
     "maxAvailable": 6
   },
   "players": [
@@ -12,6 +12,7 @@
     "Matias",
     "Andreas",
     "Jonathan",
+    "Lina",
     "Charlotta"
   ],
   "stages": [
@@ -30,7 +31,7 @@
       "actual": null,
       "dist": {
         "Group stage": 2,
-        "R32": 5,
+        "R32": 6,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -38,8 +39,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 29,
-        "R32": 71,
+        "Group stage": 25,
+        "R32": 75,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -56,16 +57,16 @@
       "dist": {
         "Group stage": 1,
         "R32": 2,
-        "R16": 4,
+        "R16": 5,
         "QF": 0,
         "SF": 0,
         "Final": 0,
         "Champion": 0
       },
       "pct": {
-        "Group stage": 14,
-        "R32": 29,
-        "R16": 57,
+        "Group stage": 12,
+        "R32": 25,
+        "R16": 62,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -81,7 +82,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 1,
-        "R16": 5,
+        "R16": 6,
         "QF": 1,
         "SF": 0,
         "Final": 0,
@@ -89,9 +90,9 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 14,
-        "R16": 71,
-        "QF": 14,
+        "R32": 12,
+        "R16": 75,
+        "QF": 12,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -104,7 +105,7 @@
       "group": "A",
       "actual": null,
       "dist": {
-        "Group stage": 6,
+        "Group stage": 7,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -113,8 +114,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 86,
-        "R32": 14,
+        "Group stage": 88,
+        "R32": 12,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -130,7 +131,7 @@
       "actual": null,
       "dist": {
         "Group stage": 2,
-        "R32": 5,
+        "R32": 6,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -138,8 +139,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 29,
-        "R32": 71,
+        "Group stage": 25,
+        "R32": 75,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -155,7 +156,7 @@
       "actual": null,
       "dist": {
         "Group stage": 1,
-        "R32": 3,
+        "R32": 4,
         "R16": 2,
         "QF": 1,
         "SF": 0,
@@ -163,10 +164,10 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 14,
-        "R32": 43,
-        "R16": 29,
-        "QF": 14,
+        "Group stage": 12,
+        "R32": 50,
+        "R16": 25,
+        "QF": 12,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -179,7 +180,7 @@
       "group": "B",
       "actual": null,
       "dist": {
-        "Group stage": 6,
+        "Group stage": 7,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -188,8 +189,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 86,
-        "R32": 14,
+        "Group stage": 88,
+        "R32": 12,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -206,7 +207,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 6,
+        "R16": 7,
         "QF": 1,
         "SF": 0,
         "Final": 0,
@@ -215,8 +216,8 @@
       "pct": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 86,
-        "QF": 14,
+        "R16": 88,
+        "QF": 12,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -232,18 +233,18 @@
         "Group stage": 0,
         "R32": 1,
         "R16": 3,
-        "QF": 1,
+        "QF": 2,
         "SF": 1,
         "Final": 1,
         "Champion": 0
       },
       "pct": {
         "Group stage": 0,
-        "R32": 14,
-        "R16": 43,
-        "QF": 14,
-        "SF": 14,
-        "Final": 14,
+        "R32": 12,
+        "R16": 38,
+        "QF": 25,
+        "SF": 12,
+        "Final": 12,
         "Champion": 0
       },
       "championPct": 0,
@@ -254,7 +255,7 @@
       "group": "C",
       "actual": null,
       "dist": {
-        "Group stage": 7,
+        "Group stage": 8,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -280,7 +281,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 6,
+        "R32": 7,
         "R16": 1,
         "QF": 0,
         "SF": 0,
@@ -289,8 +290,8 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 86,
-        "R16": 14,
+        "R32": 88,
+        "R16": 12,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -305,7 +306,7 @@
       "actual": null,
       "dist": {
         "Group stage": 3,
-        "R32": 4,
+        "R32": 5,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -313,8 +314,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 43,
-        "R32": 57,
+        "Group stage": 38,
+        "R32": 62,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -329,7 +330,7 @@
       "group": "D",
       "actual": null,
       "dist": {
-        "Group stage": 5,
+        "Group stage": 6,
         "R32": 1,
         "R16": 1,
         "QF": 0,
@@ -338,9 +339,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 71,
-        "R32": 14,
-        "R16": 14,
+        "Group stage": 75,
+        "R32": 12,
+        "R16": 12,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -356,16 +357,16 @@
       "dist": {
         "Group stage": 3,
         "R32": 3,
-        "R16": 1,
+        "R16": 2,
         "QF": 0,
         "SF": 0,
         "Final": 0,
         "Champion": 0
       },
       "pct": {
-        "Group stage": 43,
-        "R32": 43,
-        "R16": 14,
+        "Group stage": 38,
+        "R32": 38,
+        "R16": 25,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -382,7 +383,7 @@
         "Group stage": 0,
         "R32": 0,
         "R16": 6,
-        "QF": 1,
+        "QF": 2,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -390,8 +391,8 @@
       "pct": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 86,
-        "QF": 14,
+        "R16": 75,
+        "QF": 25,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -404,7 +405,7 @@
       "group": "D",
       "actual": null,
       "dist": {
-        "Group stage": 0,
+        "Group stage": 1,
         "R32": 6,
         "R16": 1,
         "QF": 0,
@@ -413,9 +414,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 0,
-        "R32": 86,
-        "R16": 14,
+        "Group stage": 12,
+        "R32": 75,
+        "R16": 12,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -429,7 +430,7 @@
       "group": "E",
       "actual": null,
       "dist": {
-        "Group stage": 6,
+        "Group stage": 7,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -438,8 +439,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 86,
-        "R32": 14,
+        "Group stage": 88,
+        "R32": 12,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -455,7 +456,7 @@
       "actual": null,
       "dist": {
         "Group stage": 1,
-        "R32": 5,
+        "R32": 6,
         "R16": 1,
         "QF": 0,
         "SF": 0,
@@ -463,9 +464,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 14,
-        "R32": 71,
-        "R16": 14,
+        "Group stage": 12,
+        "R32": 75,
+        "R16": 12,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -480,7 +481,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 7,
+        "R32": 8,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -506,7 +507,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 7,
+        "R16": 8,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -530,7 +531,7 @@
       "actual": null,
       "dist": {
         "Group stage": 1,
-        "R32": 3,
+        "R32": 4,
         "R16": 1,
         "QF": 2,
         "SF": 0,
@@ -538,10 +539,10 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 14,
-        "R32": 43,
-        "R16": 14,
-        "QF": 29,
+        "Group stage": 12,
+        "R32": 50,
+        "R16": 12,
+        "QF": 25,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -555,7 +556,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 3,
+        "R32": 4,
         "R16": 0,
         "QF": 4,
         "SF": 0,
@@ -564,9 +565,9 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 43,
+        "R32": 50,
         "R16": 0,
-        "QF": 57,
+        "QF": 50,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -583,16 +584,16 @@
         "R32": 6,
         "R16": 0,
         "QF": 1,
-        "SF": 0,
+        "SF": 1,
         "Final": 0,
         "Champion": 0
       },
       "pct": {
         "Group stage": 0,
-        "R32": 86,
+        "R32": 75,
         "R16": 0,
-        "QF": 14,
-        "SF": 0,
+        "QF": 12,
+        "SF": 12,
         "Final": 0,
         "Champion": 0
       },
@@ -604,7 +605,7 @@
       "group": "F",
       "actual": null,
       "dist": {
-        "Group stage": 6,
+        "Group stage": 7,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -613,8 +614,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 86,
-        "R32": 14,
+        "Group stage": 88,
+        "R32": 12,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -631,7 +632,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 1,
-        "R16": 1,
+        "R16": 2,
         "QF": 5,
         "SF": 0,
         "Final": 0,
@@ -639,9 +640,9 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 14,
-        "R16": 14,
-        "QF": 71,
+        "R32": 12,
+        "R16": 25,
+        "QF": 62,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -655,7 +656,7 @@
       "actual": null,
       "dist": {
         "Group stage": 1,
-        "R32": 3,
+        "R32": 4,
         "R16": 3,
         "QF": 0,
         "SF": 0,
@@ -663,9 +664,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 14,
-        "R32": 43,
-        "R16": 43,
+        "Group stage": 12,
+        "R32": 50,
+        "R16": 38,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -680,7 +681,7 @@
       "actual": null,
       "dist": {
         "Group stage": 4,
-        "R32": 3,
+        "R32": 4,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -688,8 +689,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 57,
-        "R32": 43,
+        "Group stage": 50,
+        "R32": 50,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -704,7 +705,7 @@
       "group": "G",
       "actual": null,
       "dist": {
-        "Group stage": 6,
+        "Group stage": 7,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -713,8 +714,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 86,
-        "R32": 14,
+        "Group stage": 88,
+        "R32": 12,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -729,7 +730,7 @@
       "group": "H",
       "actual": null,
       "dist": {
-        "Group stage": 6,
+        "Group stage": 7,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -738,8 +739,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 86,
-        "R32": 14,
+        "Group stage": 88,
+        "R32": 12,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -755,7 +756,7 @@
       "actual": null,
       "dist": {
         "Group stage": 5,
-        "R32": 2,
+        "R32": 3,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -763,8 +764,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 71,
-        "R32": 29,
+        "Group stage": 62,
+        "R32": 38,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -785,21 +786,22 @@
         "QF": 0,
         "SF": 2,
         "Final": 2,
-        "Champion": 2
+        "Champion": 3
       },
       "pct": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 14,
+        "R16": 12,
         "QF": 0,
-        "SF": 29,
-        "Final": 29,
-        "Champion": 29
+        "SF": 25,
+        "Final": 25,
+        "Champion": 38
       },
-      "championPct": 29,
+      "championPct": 38,
       "championBy": [
         "Fillefire",
-        "Matias"
+        "Matias",
+        "Lina"
       ]
     },
     {
@@ -808,7 +810,7 @@
       "actual": null,
       "dist": {
         "Group stage": 1,
-        "R32": 6,
+        "R32": 7,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -816,8 +818,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 14,
-        "R32": 86,
+        "Group stage": 12,
+        "R32": 88,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -836,7 +838,7 @@
         "R32": 0,
         "R16": 0,
         "QF": 0,
-        "SF": 2,
+        "SF": 3,
         "Final": 1,
         "Champion": 4
       },
@@ -845,11 +847,11 @@
         "R32": 0,
         "R16": 0,
         "QF": 0,
-        "SF": 29,
-        "Final": 14,
-        "Champion": 57
+        "SF": 38,
+        "Final": 12,
+        "Champion": 50
       },
-      "championPct": 57,
+      "championPct": 50,
       "championBy": [
         "Lilla K",
         "Nora",
@@ -862,7 +864,7 @@
       "group": "I",
       "actual": null,
       "dist": {
-        "Group stage": 7,
+        "Group stage": 8,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -889,7 +891,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 3,
+        "R16": 4,
         "QF": 1,
         "SF": 3,
         "Final": 0,
@@ -898,9 +900,9 @@
       "pct": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 43,
-        "QF": 14,
-        "SF": 43,
+        "R16": 50,
+        "QF": 12,
+        "SF": 38,
         "Final": 0,
         "Champion": 0
       },
@@ -912,7 +914,7 @@
       "group": "I",
       "actual": null,
       "dist": {
-        "Group stage": 2,
+        "Group stage": 3,
         "R32": 5,
         "R16": 0,
         "QF": 0,
@@ -921,8 +923,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 29,
-        "R32": 71,
+        "Group stage": 38,
+        "R32": 62,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -937,7 +939,7 @@
       "group": "J",
       "actual": null,
       "dist": {
-        "Group stage": 2,
+        "Group stage": 3,
         "R32": 5,
         "R16": 0,
         "QF": 0,
@@ -946,8 +948,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 29,
-        "R32": 71,
+        "Group stage": 38,
+        "R32": 62,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -967,16 +969,16 @@
         "R16": 0,
         "QF": 2,
         "SF": 3,
-        "Final": 2,
+        "Final": 3,
         "Champion": 0
       },
       "pct": {
         "Group stage": 0,
         "R32": 0,
         "R16": 0,
-        "QF": 29,
-        "SF": 43,
-        "Final": 29,
+        "QF": 25,
+        "SF": 38,
+        "Final": 38,
         "Champion": 0
       },
       "championPct": 0,
@@ -988,7 +990,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 6,
+        "R32": 7,
         "R16": 1,
         "QF": 0,
         "SF": 0,
@@ -997,8 +999,8 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 86,
-        "R16": 14,
+        "R32": 88,
+        "R16": 12,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -1012,7 +1014,7 @@
       "group": "J",
       "actual": null,
       "dist": {
-        "Group stage": 7,
+        "Group stage": 8,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -1038,7 +1040,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 5,
+        "R32": 6,
         "R16": 2,
         "QF": 0,
         "SF": 0,
@@ -1047,8 +1049,8 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 71,
-        "R16": 29,
+        "R32": 75,
+        "R16": 25,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -1063,7 +1065,7 @@
       "actual": null,
       "dist": {
         "Group stage": 3,
-        "R32": 4,
+        "R32": 5,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -1071,8 +1073,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 43,
-        "R32": 57,
+        "Group stage": 38,
+        "R32": 62,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -1090,7 +1092,7 @@
         "Group stage": 0,
         "R32": 0,
         "R16": 1,
-        "QF": 4,
+        "QF": 5,
         "SF": 1,
         "Final": 0,
         "Champion": 1
@@ -1098,13 +1100,13 @@
       "pct": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 14,
-        "QF": 57,
-        "SF": 14,
+        "R16": 12,
+        "QF": 62,
+        "SF": 12,
         "Final": 0,
-        "Champion": 14
+        "Champion": 12
       },
-      "championPct": 14,
+      "championPct": 12,
       "championBy": [
         "Jonathan"
       ]
@@ -1114,7 +1116,7 @@
       "group": "K",
       "actual": null,
       "dist": {
-        "Group stage": 7,
+        "Group stage": 8,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -1141,7 +1143,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 2,
-        "R16": 3,
+        "R16": 4,
         "QF": 1,
         "SF": 1,
         "Final": 0,
@@ -1149,10 +1151,10 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 29,
-        "R16": 43,
-        "QF": 14,
-        "SF": 14,
+        "R32": 25,
+        "R16": 50,
+        "QF": 12,
+        "SF": 12,
         "Final": 0,
         "Champion": 0
       },
@@ -1167,7 +1169,7 @@
         "Group stage": 0,
         "R32": 0,
         "R16": 2,
-        "QF": 3,
+        "QF": 4,
         "SF": 1,
         "Final": 1,
         "Champion": 0
@@ -1175,10 +1177,10 @@
       "pct": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 29,
-        "QF": 43,
-        "SF": 14,
-        "Final": 14,
+        "R16": 25,
+        "QF": 50,
+        "SF": 12,
+        "Final": 12,
         "Champion": 0
       },
       "championPct": 0,
@@ -1189,7 +1191,7 @@
       "group": "L",
       "actual": null,
       "dist": {
-        "Group stage": 4,
+        "Group stage": 5,
         "R32": 3,
         "R16": 0,
         "QF": 0,
@@ -1198,8 +1200,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 57,
-        "R32": 43,
+        "Group stage": 62,
+        "R32": 38,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -1214,7 +1216,7 @@
       "group": "L",
       "actual": null,
       "dist": {
-        "Group stage": 7,
+        "Group stage": 8,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -1246,7 +1248,7 @@
         {
           "answer": "Brazil",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Fillefire",
             "Andreas"
@@ -1256,7 +1258,7 @@
         {
           "answer": "Germany",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Lilla K",
             "Jonathan"
@@ -1264,9 +1266,18 @@
           "hit": null
         },
         {
+          "answer": "Argentina",
+          "count": 1,
+          "pct": 12,
+          "players": [
+            "Lina"
+          ],
+          "hit": null
+        },
+        {
           "answer": "France",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Matias"
           ],
@@ -1275,7 +1286,7 @@
         {
           "answer": "Spain",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Nora"
           ],
@@ -1284,7 +1295,7 @@
         {
           "answer": "Switzerland",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Charlotta"
           ],
@@ -1302,7 +1313,7 @@
         {
           "answer": "Haiti",
           "count": 3,
-          "pct": 43,
+          "pct": 38,
           "players": [
             "Fillefire",
             "Nora",
@@ -1313,7 +1324,7 @@
         {
           "answer": "Curaçao",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Matias",
             "Jonathan"
@@ -1323,7 +1334,7 @@
         {
           "answer": "Paraguay",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Lilla K"
           ],
@@ -1332,9 +1343,18 @@
         {
           "answer": "Qatar",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Charlotta"
+          ],
+          "hit": null
+        },
+        {
+          "answer": "South Africa",
+          "count": 1,
+          "pct": 12,
+          "players": [
+            "Lina"
           ],
           "hit": null
         }
@@ -1350,7 +1370,7 @@
         {
           "answer": "200–209",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Matias"
           ],
@@ -1359,7 +1379,7 @@
         {
           "answer": "240–249",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Charlotta"
           ],
@@ -1368,7 +1388,7 @@
         {
           "answer": "250–259",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Nora"
           ],
@@ -1377,7 +1397,7 @@
         {
           "answer": "260–269",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Jonathan"
           ],
@@ -1386,7 +1406,7 @@
         {
           "answer": "290–299",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Lilla K"
           ],
@@ -1395,16 +1415,25 @@
         {
           "answer": "300–309",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Andreas"
           ],
           "hit": null
         },
         {
+          "answer": "350–359",
+          "count": 1,
+          "pct": 12,
+          "players": [
+            "Lina"
+          ],
+          "hit": null
+        },
+        {
           "answer": "390–399",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Fillefire"
           ],
@@ -1420,9 +1449,20 @@
       "status": "tbd",
       "answers": [
         {
+          "answer": "Ousmane Dembélé",
+          "count": 3,
+          "pct": 38,
+          "players": [
+            "Jonathan",
+            "Lina",
+            "Charlotta"
+          ],
+          "hit": null
+        },
+        {
           "answer": "Lamine Yamal",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Fillefire",
             "Matias"
@@ -1430,19 +1470,9 @@
           "hit": null
         },
         {
-          "answer": "Ousmane Dembélé",
-          "count": 2,
-          "pct": 29,
-          "players": [
-            "Jonathan",
-            "Charlotta"
-          ],
-          "hit": null
-        },
-        {
           "answer": "Erling Haaland",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Lilla K"
           ],
@@ -1451,7 +1481,7 @@
         {
           "answer": "Kylian Mbappé",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Andreas"
           ],
@@ -1460,7 +1490,7 @@
         {
           "answer": "Lionel Messi",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Nora"
           ],
@@ -1477,18 +1507,19 @@
       "answers": [
         {
           "answer": "Kylian Mbappé",
-          "count": 2,
-          "pct": 29,
+          "count": 3,
+          "pct": 38,
           "players": [
             "Lilla K",
-            "Fillefire"
+            "Fillefire",
+            "Lina"
           ],
           "hit": null
         },
         {
           "answer": "Ousmane Dembélé",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Matias",
             "Jonathan"
@@ -1498,7 +1529,7 @@
         {
           "answer": "Erlin Haaland",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Andreas"
           ],
@@ -1507,7 +1538,7 @@
         {
           "answer": "Erling Haaland",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Charlotta"
           ],
@@ -1516,7 +1547,7 @@
         {
           "answer": "Lamine Yamal",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Nora"
           ],
@@ -1534,7 +1565,7 @@
         {
           "answer": "Argentina",
           "count": 3,
-          "pct": 43,
+          "pct": 38,
           "players": [
             "Nora",
             "Matias",
@@ -1545,7 +1576,7 @@
         {
           "answer": "England",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Lilla K",
             "Fillefire"
@@ -1553,9 +1584,18 @@
           "hit": null
         },
         {
+          "answer": "Iraq",
+          "count": 1,
+          "pct": 12,
+          "players": [
+            "Lina"
+          ],
+          "hit": null
+        },
+        {
           "answer": "Portugal",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Jonathan"
           ],
@@ -1564,7 +1604,7 @@
         {
           "answer": "Uruguay",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Charlotta"
           ],
@@ -1580,9 +1620,19 @@
       "status": "tbd",
       "answers": [
         {
+          "answer": "1",
+          "count": 2,
+          "pct": 25,
+          "players": [
+            "Lilla K",
+            "Lina"
+          ],
+          "hit": null
+        },
+        {
           "answer": "2",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Andreas",
             "Charlotta"
@@ -1592,25 +1642,16 @@
         {
           "answer": "0",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Fillefire"
           ],
           "hit": null
         },
         {
-          "answer": "1",
-          "count": 1,
-          "pct": 14,
-          "players": [
-            "Lilla K"
-          ],
-          "hit": null
-        },
-        {
           "answer": "3",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Jonathan"
           ],
@@ -1619,7 +1660,7 @@
         {
           "answer": "5",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Nora"
           ],
@@ -1628,7 +1669,7 @@
         {
           "answer": "6",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Matias"
           ],
@@ -1646,7 +1687,7 @@
         {
           "answer": "5",
           "count": 4,
-          "pct": 57,
+          "pct": 50,
           "players": [
             "Lilla K",
             "Nora",
@@ -1656,9 +1697,19 @@
           "hit": null
         },
         {
+          "answer": "7",
+          "count": 2,
+          "pct": 25,
+          "players": [
+            "Fillefire",
+            "Lina"
+          ],
+          "hit": null
+        },
+        {
           "answer": "4",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Matias"
           ],
@@ -1667,18 +1718,9 @@
         {
           "answer": "6",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Andreas"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "7",
-          "count": 1,
-          "pct": 14,
-          "players": [
-            "Fillefire"
           ],
           "hit": null
         }
@@ -1692,9 +1734,19 @@
       "status": "provisional",
       "answers": [
         {
+          "answer": "3",
+          "count": 2,
+          "pct": 25,
+          "players": [
+            "Fillefire",
+            "Lina"
+          ],
+          "hit": null
+        },
+        {
           "answer": "0",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Lilla K"
           ],
@@ -1703,7 +1755,7 @@
         {
           "answer": "10",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Matias"
           ],
@@ -1712,25 +1764,16 @@
         {
           "answer": "12",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Charlotta"
           ],
           "hit": null
         },
         {
-          "answer": "3",
-          "count": 1,
-          "pct": 14,
-          "players": [
-            "Fillefire"
-          ],
-          "hit": null
-        },
-        {
           "answer": "4",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Andreas"
           ],
@@ -1739,7 +1782,7 @@
         {
           "answer": "5",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Nora"
           ],
@@ -1748,7 +1791,7 @@
         {
           "answer": "6",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Jonathan"
           ],
@@ -1765,21 +1808,22 @@
       "answers": [
         {
           "answer": "No",
-          "count": 5,
-          "pct": 71,
+          "count": 6,
+          "pct": 75,
           "players": [
             "Lilla K",
             "Nora",
             "Matias",
             "Andreas",
-            "Jonathan"
+            "Jonathan",
+            "Lina"
           ],
           "hit": null
         },
         {
           "answer": "Yes",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Fillefire",
             "Charlotta"
@@ -1797,7 +1841,7 @@
       "answers": [
         {
           "answer": "Yes",
-          "count": 7,
+          "count": 8,
           "pct": 100,
           "players": [
             "Lilla K",
@@ -1806,6 +1850,7 @@
             "Matias",
             "Andreas",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "hit": null
@@ -1821,14 +1866,15 @@
       "answers": [
         {
           "answer": "No",
-          "count": 6,
-          "pct": 86,
+          "count": 7,
+          "pct": 88,
           "players": [
             "Fillefire",
             "Nora",
             "Matias",
             "Andreas",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "hit": null
@@ -1836,7 +1882,7 @@
         {
           "answer": "Yes",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Lilla K"
           ],
@@ -1854,7 +1900,7 @@
         {
           "answer": "5",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Matias",
             "Charlotta"
@@ -1864,7 +1910,7 @@
         {
           "answer": "6",
           "count": 2,
-          "pct": 29,
+          "pct": 25,
           "players": [
             "Lilla K",
             "Fillefire"
@@ -1872,9 +1918,19 @@
           "hit": null
         },
         {
+          "answer": "8",
+          "count": 2,
+          "pct": 25,
+          "players": [
+            "Andreas",
+            "Lina"
+          ],
+          "hit": null
+        },
+        {
           "answer": "10",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Jonathan"
           ],
@@ -1883,18 +1939,9 @@
         {
           "answer": "4",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Nora"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "8",
-          "count": 1,
-          "pct": 14,
-          "players": [
-            "Andreas"
           ],
           "hit": null
         }
@@ -1910,7 +1957,7 @@
         {
           "answer": "R32",
           "count": 6,
-          "pct": 86,
+          "pct": 75,
           "players": [
             "Lilla K",
             "Fillefire",
@@ -1924,9 +1971,18 @@
         {
           "answer": "QF",
           "count": 1,
-          "pct": 14,
+          "pct": 12,
           "players": [
             "Nora"
+          ],
+          "hit": null
+        },
+        {
+          "answer": "SF",
+          "count": 1,
+          "pct": 12,
+          "players": [
+            "Lina"
           ],
           "hit": null
         }
@@ -1941,12 +1997,13 @@
       "answers": [
         {
           "answer": "Viktor Gyökeres",
-          "count": 4,
-          "pct": 57,
+          "count": 5,
+          "pct": 62,
           "players": [
             "Lilla K",
             "Fillefire",
             "Nora",
+            "Lina",
             "Charlotta"
           ],
           "hit": null
@@ -1954,7 +2011,7 @@
         {
           "answer": "Alexander Isak",
           "count": 3,
-          "pct": 43,
+          "pct": 38,
           "players": [
             "Matias",
             "Andreas",

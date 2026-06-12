@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 20:33",
+    "lastRefresh": "2026-06-12 21:26",
     "maxPoints": 729,
-    "participants": 7,
+    "participants": 8,
     "maxAvailable": 6
   },
   "rows": [
@@ -73,7 +73,18 @@
       "pctMax": 0.3333
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "player": "Lina",
+      "group": 2,
+      "ko": 0,
+      "bonus": 0,
+      "total": 2,
+      "prevRank": null,
+      "pointsToday": 0,
+      "pctMax": 0.3333
+    },
+    {
+      "rank": 8,
       "player": "Charlotta",
       "group": 1,
       "ko": 0,
