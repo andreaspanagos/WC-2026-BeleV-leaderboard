@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 23:23",
+    "lastRefresh": "2026-06-13 09:10",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 9
@@ -23,7 +23,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.4444,
-      "pointsToday": -5,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -1327,7 +1327,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.7778,
-      "pointsToday": 3,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -2631,7 +2631,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.4444,
-      "pointsToday": 1,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
