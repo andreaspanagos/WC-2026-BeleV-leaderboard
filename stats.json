@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-13 09:15",
+    "lastRefresh": "2026-06-14 01:11",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 12
+    "maxAvailable": 15
   },
   "players": [
     "Lilla K",
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "12",
+      "current": "14",
       "status": "provisional",
       "answers": [
         {

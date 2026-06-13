@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-13 09:15",
+    "lastRefresh": "2026-06-14 01:11",
     "maxPoints": 729,
     "participants": 8
   },
@@ -506,14 +506,17 @@
           "kickoff": "2026-06-13 21:00",
           "home": "Qatar",
           "away": "Switzerland",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "0–2",
               "count": 5,
               "pct": 62,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Lilla K",
                 "Nora",
@@ -526,7 +529,7 @@
               "score": "0–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Andreas"
               ]
@@ -535,7 +538,7 @@
               "score": "0–4",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Charlotta"
               ]
@@ -544,7 +547,7 @@
               "score": "1–2",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Jonathan"
               ]

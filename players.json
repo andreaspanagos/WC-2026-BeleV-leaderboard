@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-13 09:15",
+    "lastRefresh": "2026-06-14 01:11",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 12
+    "maxAvailable": 15
   },
   "players": [
     "Lilla K",
@@ -22,8 +22,8 @@
       "group": 5,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.4167,
-      "pointsToday": 1,
+      "pctMax": 0.3333,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -108,10 +108,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -1326,8 +1326,8 @@
       "group": 8,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.6667,
-      "pointsToday": 1,
+      "pctMax": 0.5333,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -1412,10 +1412,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -2630,8 +2630,8 @@
       "group": 3,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.25,
-      "pointsToday": 1,
+      "pctMax": 0.2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -2716,10 +2716,10 @@
           "away": "Switzerland",
           "ph": 1,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -3934,7 +3934,7 @@
       "group": 1,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.0833,
+      "pctMax": 0.0667,
       "pointsToday": 0,
       "games": [
         {
@@ -4020,10 +4020,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -5238,8 +5238,8 @@
       "group": 5,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.4167,
-      "pointsToday": 1,
+      "pctMax": 0.3333,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -5324,10 +5324,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -6542,7 +6542,7 @@
       "group": 4,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.3333,
+      "pctMax": 0.2667,
       "pointsToday": 0,
       "games": [
         {
@@ -6628,10 +6628,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -7846,7 +7846,7 @@
       "group": 2,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.1667,
+      "pctMax": 0.1333,
       "pointsToday": 0,
       "games": [
         {
@@ -7932,10 +7932,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -9150,7 +9150,7 @@
       "group": 2,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.1667,
+      "pctMax": 0.1333,
       "pointsToday": 0,
       "games": [
         {
@@ -9236,10 +9236,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
