@@ -1,46 +1,46 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-13 09:10",
+    "lastRefresh": "2026-06-13 09:15",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 9
+    "maxAvailable": 12
   },
   "rows": [
     {
       "rank": 1,
       "player": "Nora",
-      "group": 7,
+      "group": 8,
       "ko": 0,
       "bonus": 0,
-      "total": 7,
+      "total": 8,
       "prevRank": 1,
-      "pointsToday": 0,
-      "pctMax": 0.7778
+      "pointsToday": 1,
+      "pctMax": 0.6667
     },
     {
       "rank": 2,
       "player": "Fillefire",
-      "group": 4,
+      "group": 5,
       "ko": 0,
       "bonus": 0,
-      "total": 4,
+      "total": 5,
       "prevRank": 2,
-      "pointsToday": 0,
-      "pctMax": 0.4444
+      "pointsToday": 1,
+      "pctMax": 0.4167
     },
     {
       "rank": 2,
       "player": "Lilla K",
-      "group": 4,
+      "group": 5,
       "ko": 0,
       "bonus": 0,
-      "total": 4,
+      "total": 5,
       "prevRank": 2,
-      "pointsToday": 0,
-      "pctMax": 0.4444
+      "pointsToday": 1,
+      "pctMax": 0.4167
     },
     {
-      "rank": 2,
+      "rank": 4,
       "player": "Matias",
       "group": 4,
       "ko": 0,
@@ -48,10 +48,21 @@
       "total": 4,
       "prevRank": 2,
       "pointsToday": 0,
-      "pctMax": 0.4444
+      "pctMax": 0.3333
     },
     {
       "rank": 5,
+      "player": "Jonathan",
+      "group": 3,
+      "ko": 0,
+      "bonus": 0,
+      "total": 3,
+      "prevRank": 5,
+      "pointsToday": 1,
+      "pctMax": 0.25
+    },
+    {
+      "rank": 6,
       "player": "Andreas",
       "group": 2,
       "ko": 0,
@@ -59,21 +70,10 @@
       "total": 2,
       "prevRank": 5,
       "pointsToday": 0,
-      "pctMax": 0.2222
+      "pctMax": 0.1667
     },
     {
-      "rank": 5,
-      "player": "Jonathan",
-      "group": 2,
-      "ko": 0,
-      "bonus": 0,
-      "total": 2,
-      "prevRank": 5,
-      "pointsToday": 0,
-      "pctMax": 0.2222
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "player": "Lina",
       "group": 2,
       "ko": 0,
@@ -81,7 +81,7 @@
       "total": 2,
       "prevRank": 5,
       "pointsToday": 0,
-      "pctMax": 0.2222
+      "pctMax": 0.1667
     },
     {
       "rank": 8,
@@ -92,7 +92,7 @@
       "total": 1,
       "prevRank": 8,
       "pointsToday": 0,
-      "pctMax": 0.1111
+      "pctMax": 0.0833
     }
   ]
 }
