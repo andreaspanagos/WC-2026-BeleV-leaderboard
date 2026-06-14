@@ -77,37 +77,37 @@
     {
       "date": "2026-06-14",
       "standings": {
+        "Jonathan": {
+          "rank": 1,
+          "total": 9
+        },
         "Nora": {
           "rank": 1,
-          "total": 8
+          "total": 9
         },
         "Fillefire": {
-          "rank": 2,
+          "rank": 3,
+          "total": 6
+        },
+        "Andreas": {
+          "rank": 4,
           "total": 5
         },
         "Lilla K": {
-          "rank": 2,
+          "rank": 4,
           "total": 5
         },
-        "Matias": {
-          "rank": 4,
-          "total": 4
-        },
-        "Jonathan": {
-          "rank": 5,
-          "total": 3
-        },
-        "Andreas": {
-          "rank": 6,
-          "total": 2
-        },
         "Lina": {
-          "rank": 6,
-          "total": 2
+          "rank": 4,
+          "total": 5
         },
         "Charlotta": {
-          "rank": 8,
-          "total": 1
+          "rank": 7,
+          "total": 4
+        },
+        "Matias": {
+          "rank": 7,
+          "total": 4
         }
       }
     }
