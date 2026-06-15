@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 09:32",
+    "lastRefresh": "2026-06-15 21:52",
     "maxPoints": 729,
     "participants": 8
   },
@@ -2753,14 +2753,17 @@
           "kickoff": "2026-06-15 18:00",
           "home": "Spain",
           "away": "Cabo Verde",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 0,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "4–0",
               "count": 3,
               "pct": 38,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Nora",
                 "Fillefire",
@@ -2771,7 +2774,7 @@
               "score": "2–0",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Jonathan",
                 "Lilla K"
@@ -2781,7 +2784,7 @@
               "score": "3–0",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Lina",
                 "Matias"
@@ -2791,7 +2794,7 @@
               "score": "4–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Andreas"
               ]
