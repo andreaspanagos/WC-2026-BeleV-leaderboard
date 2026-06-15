@@ -1,98 +1,98 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-14 09:34",
+    "lastRefresh": "2026-06-15 05:27",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 24
+    "maxAvailable": 33
   },
   "rows": [
     {
       "rank": 1,
       "player": "Jonathan",
-      "group": 9,
+      "group": 13,
       "ko": 0,
       "bonus": 0,
-      "total": 9,
-      "prevRank": 5,
-      "pointsToday": 6,
-      "pctMax": 0.375
+      "total": 13,
+      "prevRank": 1,
+      "pointsToday": 4,
+      "pctMax": 0.3939
     },
     {
-      "rank": 1,
+      "rank": 2,
       "player": "Nora",
-      "group": 9,
+      "group": 10,
       "ko": 0,
       "bonus": 0,
-      "total": 9,
+      "total": 10,
       "prevRank": 1,
       "pointsToday": 1,
-      "pctMax": 0.375
+      "pctMax": 0.303
     },
     {
       "rank": 3,
       "player": "Fillefire",
+      "group": 7,
+      "ko": 0,
+      "bonus": 0,
+      "total": 7,
+      "prevRank": 3,
+      "pointsToday": 1,
+      "pctMax": 0.2121
+    },
+    {
+      "rank": 3,
+      "player": "Lina",
+      "group": 7,
+      "ko": 0,
+      "bonus": 0,
+      "total": 7,
+      "prevRank": 4,
+      "pointsToday": 2,
+      "pctMax": 0.2121
+    },
+    {
+      "rank": 5,
+      "player": "Andreas",
       "group": 6,
       "ko": 0,
       "bonus": 0,
       "total": 6,
-      "prevRank": 2,
-      "pointsToday": 1,
-      "pctMax": 0.25
-    },
-    {
-      "rank": 4,
-      "player": "Andreas",
-      "group": 5,
-      "ko": 0,
-      "bonus": 0,
-      "total": 5,
-      "prevRank": 6,
-      "pointsToday": 3,
-      "pctMax": 0.2083
-    },
-    {
-      "rank": 4,
-      "player": "Lilla K",
-      "group": 5,
-      "ko": 0,
-      "bonus": 0,
-      "total": 5,
-      "prevRank": 2,
-      "pointsToday": 0,
-      "pctMax": 0.2083
-    },
-    {
-      "rank": 4,
-      "player": "Lina",
-      "group": 5,
-      "ko": 0,
-      "bonus": 0,
-      "total": 5,
-      "prevRank": 6,
-      "pointsToday": 3,
-      "pctMax": 0.2083
-    },
-    {
-      "rank": 7,
-      "player": "Charlotta",
-      "group": 4,
-      "ko": 0,
-      "bonus": 0,
-      "total": 4,
-      "prevRank": 8,
-      "pointsToday": 3,
-      "pctMax": 0.1667
-    },
-    {
-      "rank": 7,
-      "player": "Matias",
-      "group": 4,
-      "ko": 0,
-      "bonus": 0,
-      "total": 4,
       "prevRank": 4,
-      "pointsToday": 0,
-      "pctMax": 0.1667
+      "pointsToday": 1,
+      "pctMax": 0.1818
+    },
+    {
+      "rank": 5,
+      "player": "Charlotta",
+      "group": 6,
+      "ko": 0,
+      "bonus": 0,
+      "total": 6,
+      "prevRank": 7,
+      "pointsToday": 2,
+      "pctMax": 0.1818
+    },
+    {
+      "rank": 5,
+      "player": "Lilla K",
+      "group": 6,
+      "ko": 0,
+      "bonus": 0,
+      "total": 6,
+      "prevRank": 4,
+      "pointsToday": 1,
+      "pctMax": 0.1818
+    },
+    {
+      "rank": 5,
+      "player": "Matias",
+      "group": 6,
+      "ko": 0,
+      "bonus": 0,
+      "total": 6,
+      "prevRank": 7,
+      "pointsToday": 2,
+      "pctMax": 0.1818
     }
   ]
 }
