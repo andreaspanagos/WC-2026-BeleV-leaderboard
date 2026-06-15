@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 05:27",
+    "lastRefresh": "2026-06-15 09:32",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 33
+    "maxAvailable": 36
   },
   "players": [
     "Jonathan",
@@ -11,8 +11,8 @@
     "Nora",
     "Fillefire",
     "Lina",
-    "Matias",
     "Andreas",
+    "Matias",
     "Charlotta"
   ],
   "stages": [
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "32",
+      "current": "38",
       "status": "provisional",
       "answers": [
         {
@@ -1568,8 +1568,8 @@
           "pct": 38,
           "players": [
             "Nora",
-            "Matias",
-            "Andreas"
+            "Andreas",
+            "Matias"
           ],
           "hit": null
         },
@@ -1815,8 +1815,8 @@
             "Lilla K",
             "Nora",
             "Lina",
-            "Matias",
-            "Andreas"
+            "Andreas",
+            "Matias"
           ],
           "hit": null
         },
@@ -1849,8 +1849,8 @@
             "Nora",
             "Fillefire",
             "Lina",
-            "Matias",
             "Andreas",
+            "Matias",
             "Charlotta"
           ],
           "hit": null
@@ -1873,8 +1873,8 @@
             "Nora",
             "Fillefire",
             "Lina",
-            "Matias",
             "Andreas",
+            "Matias",
             "Charlotta"
           ],
           "hit": null
@@ -1962,8 +1962,8 @@
             "Jonathan",
             "Lilla K",
             "Fillefire",
-            "Matias",
             "Andreas",
+            "Matias",
             "Charlotta"
           ],
           "hit": null
@@ -2014,8 +2014,8 @@
           "pct": 38,
           "players": [
             "Jonathan",
-            "Matias",
-            "Andreas"
+            "Andreas",
+            "Matias"
           ],
           "hit": null
         }
