@@ -1,32 +1,32 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-16 07:59",
+    "lastRefresh": "2026-06-16 08:59",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 39
+    "maxAvailable": 48
   },
   "rows": [
     {
       "rank": 1,
       "player": "Jonathan",
-      "group": 14,
+      "group": 16,
       "ko": 0,
       "bonus": 0,
-      "total": 14,
+      "total": 16,
       "prevRank": 1,
-      "pointsToday": 0,
-      "pctMax": 0.359
+      "pointsToday": 2,
+      "pctMax": 0.3333
     },
     {
       "rank": 2,
       "player": "Nora",
-      "group": 11,
+      "group": 12,
       "ko": 0,
       "bonus": 0,
-      "total": 11,
+      "total": 12,
       "prevRank": 2,
-      "pointsToday": 0,
-      "pctMax": 0.2821
+      "pointsToday": 1,
+      "pctMax": 0.25
     },
     {
       "rank": 3,
@@ -37,7 +37,18 @@
       "total": 8,
       "prevRank": 3,
       "pointsToday": 0,
-      "pctMax": 0.2051
+      "pctMax": 0.1667
+    },
+    {
+      "rank": 3,
+      "player": "Lilla K",
+      "group": 8,
+      "ko": 0,
+      "bonus": 0,
+      "total": 8,
+      "prevRank": 5,
+      "pointsToday": 1,
+      "pctMax": 0.1667
     },
     {
       "rank": 3,
@@ -48,10 +59,10 @@
       "total": 8,
       "prevRank": 3,
       "pointsToday": 0,
-      "pctMax": 0.2051
+      "pctMax": 0.1667
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Andreas",
       "group": 7,
       "ko": 0,
@@ -59,32 +70,21 @@
       "total": 7,
       "prevRank": 5,
       "pointsToday": 0,
-      "pctMax": 0.1795
+      "pctMax": 0.1458
     },
     {
-      "rank": 5,
-      "player": "Lilla K",
+      "rank": 6,
+      "player": "Charlotta",
       "group": 7,
       "ko": 0,
       "bonus": 0,
       "total": 7,
-      "prevRank": 5,
-      "pointsToday": 0,
-      "pctMax": 0.1795
-    },
-    {
-      "rank": 7,
-      "player": "Charlotta",
-      "group": 6,
-      "ko": 0,
-      "bonus": 0,
-      "total": 6,
       "prevRank": 7,
-      "pointsToday": 0,
-      "pctMax": 0.1538
+      "pointsToday": 1,
+      "pctMax": 0.1458
     },
     {
-      "rank": 7,
+      "rank": 8,
       "player": "Matias",
       "group": 6,
       "ko": 0,
@@ -92,7 +92,7 @@
       "total": 6,
       "prevRank": 7,
       "pointsToday": 0,
-      "pctMax": 0.1538
+      "pctMax": 0.125
     }
   ]
 }
