@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 21:52",
+    "lastRefresh": "2026-06-16 07:59",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 39
@@ -23,7 +23,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.359,
-      "pointsToday": 5,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -1327,7 +1327,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1795,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -2631,7 +2631,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2821,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -3935,7 +3935,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2051,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -5239,7 +5239,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2051,
-      "pointsToday": 3,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -6543,7 +6543,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1795,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -7764,7 +7764,7 @@
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
-          "answer": "Erlin Haaland",
+          "answer": "Erling Haaland",
           "hit": null,
           "pts": 10
         },
@@ -7847,7 +7847,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1538,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -9151,7 +9151,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1538,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 21:52",
+    "lastRefresh": "2026-06-16 07:59",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 39
@@ -1517,30 +1517,22 @@
           "hit": null
         },
         {
+          "answer": "Erling Haaland",
+          "count": 2,
+          "pct": 25,
+          "players": [
+            "Andreas",
+            "Charlotta"
+          ],
+          "hit": null
+        },
+        {
           "answer": "Ousmane Dembélé",
           "count": 2,
           "pct": 25,
           "players": [
             "Jonathan",
             "Matias"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Erlin Haaland",
-          "count": 1,
-          "pct": 12,
-          "players": [
-            "Andreas"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Erling Haaland",
-          "count": 1,
-          "pct": 12,
-          "players": [
-            "Charlotta"
           ],
           "hit": null
         },
