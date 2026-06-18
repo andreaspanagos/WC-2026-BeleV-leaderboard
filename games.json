@@ -1,12 +1,12 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-17 09:05",
+    "lastRefresh": "2026-06-18 08:00",
     "maxPoints": 729,
     "participants": 8
   },
   "players": [
-    "Jonathan",
     "Lilla K",
+    "Jonathan",
     "Nora",
     "Lina",
     "Andreas",
@@ -25,8 +25,8 @@
           "count": 7,
           "pct": 88,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Fillefire",
@@ -123,8 +123,8 @@
               "pct": 25,
               "pts": 1,
               "players": [
-                "Jonathan",
-                "Lilla K"
+                "Lilla K",
+                "Jonathan"
               ]
             },
             {
@@ -412,8 +412,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Andreas",
@@ -676,8 +676,8 @@
               "pct": 50,
               "pts": null,
               "players": [
-                "Jonathan",
                 "Lilla K",
+                "Jonathan",
                 "Nora",
                 "Andreas"
               ]
@@ -791,8 +791,8 @@
           "count": 7,
           "pct": 88,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Andreas",
             "Fillefire",
@@ -1081,8 +1081,8 @@
               "pct": 25,
               "pts": null,
               "players": [
-                "Jonathan",
-                "Lilla K"
+                "Lilla K",
+                "Jonathan"
               ]
             },
             {
@@ -1354,8 +1354,8 @@
               "pct": 38,
               "pts": null,
               "players": [
-                "Jonathan",
                 "Lilla K",
+                "Jonathan",
                 "Lina"
               ]
             },
@@ -1581,8 +1581,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Andreas",
@@ -2066,8 +2066,8 @@
               "pct": 50,
               "pts": 1,
               "players": [
-                "Jonathan",
                 "Lilla K",
+                "Jonathan",
                 "Lina",
                 "Fillefire"
               ]
@@ -2331,8 +2331,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Andreas",
@@ -2742,8 +2742,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Andreas",
@@ -2782,8 +2782,8 @@
               "pct": 25,
               "pts": 0,
               "players": [
-                "Jonathan",
-                "Lilla K"
+                "Lilla K",
+                "Jonathan"
               ]
             },
             {
@@ -2836,8 +2836,8 @@
               "pct": 25,
               "pts": 1,
               "players": [
-                "Jonathan",
-                "Lilla K"
+                "Lilla K",
+                "Jonathan"
               ]
             },
             {
@@ -3016,8 +3016,8 @@
               "pct": 50,
               "pts": null,
               "players": [
-                "Jonathan",
                 "Lilla K",
+                "Jonathan",
                 "Lina",
                 "Charlotta"
               ]
@@ -3065,8 +3065,8 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Fillefire",
@@ -3112,8 +3112,8 @@
               "pct": 25,
               "pts": 3,
               "players": [
-                "Jonathan",
-                "Lilla K"
+                "Lilla K",
+                "Jonathan"
               ]
             },
             {
@@ -3287,8 +3287,8 @@
               "pct": 38,
               "pts": null,
               "players": [
-                "Jonathan",
                 "Lilla K",
+                "Jonathan",
                 "Fillefire"
               ]
             },
@@ -3468,8 +3468,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Andreas",
@@ -3847,8 +3847,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Andreas",
@@ -3864,14 +3864,17 @@
           "kickoff": "2026-06-17 19:00",
           "home": "Portugal",
           "away": "Congo DR",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "3–1",
               "count": 4,
               "pct": 50,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Lilla K",
                 "Lina",
@@ -3883,7 +3886,7 @@
               "score": "2–1",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Jonathan",
                 "Andreas"
@@ -3893,7 +3896,7 @@
               "score": "1–0",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Matias"
               ]
@@ -3902,7 +3905,7 @@
               "score": "2–0",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Nora"
               ]
@@ -3914,24 +3917,27 @@
           "kickoff": "2026-06-18 04:00",
           "home": "Uzbekistan",
           "away": "Colombia",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 3
+          },
           "scorelines": [
             {
               "score": "0–0",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 0,
               "players": [
-                "Jonathan",
-                "Lilla K"
+                "Lilla K",
+                "Jonathan"
               ]
             },
             {
               "score": "0–1",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Nora",
                 "Charlotta"
@@ -3941,7 +3947,7 @@
               "score": "0–2",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Fillefire",
                 "Matias"
@@ -3951,7 +3957,7 @@
               "score": "0–3",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas"
               ]
@@ -3960,7 +3966,7 @@
               "score": "1–2",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Lina"
               ]
@@ -4023,8 +4029,8 @@
               "pct": 50,
               "pts": null,
               "players": [
-                "Jonathan",
                 "Lilla K",
+                "Jonathan",
                 "Fillefire",
                 "Charlotta"
               ]
@@ -4139,8 +4145,8 @@
               "pct": 38,
               "pts": null,
               "players": [
-                "Jonathan",
                 "Lilla K",
+                "Jonathan",
                 "Charlotta"
               ]
             },
@@ -4229,14 +4235,17 @@
           "kickoff": "2026-06-17 22:00",
           "home": "England",
           "away": "Croatia",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 4,
+            "ag": 2
+          },
           "scorelines": [
             {
               "score": "1–2",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Jonathan",
                 "Matias"
@@ -4246,7 +4255,7 @@
               "score": "2–2",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Nora",
                 "Fillefire"
@@ -4256,7 +4265,7 @@
               "score": "1–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Charlotta"
               ]
@@ -4265,7 +4274,7 @@
               "score": "2–0",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas"
               ]
@@ -4274,7 +4283,7 @@
               "score": "2–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Lilla K"
               ]
@@ -4283,7 +4292,7 @@
               "score": "3–2",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Lina"
               ]
@@ -4295,14 +4304,17 @@
           "kickoff": "2026-06-18 01:00",
           "home": "Ghana",
           "away": "Panama",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "0–0",
               "count": 3,
               "pct": 38,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Lilla K",
                 "Charlotta",
@@ -4313,7 +4325,7 @@
               "score": "1–0",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 3,
               "players": [
                 "Nora",
                 "Fillefire"
@@ -4323,7 +4335,7 @@
               "score": "1–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Jonathan"
               ]
@@ -4332,7 +4344,7 @@
               "score": "2–0",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas"
               ]
@@ -4341,7 +4353,7 @@
               "score": "2–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Lina"
               ]

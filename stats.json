@@ -1,13 +1,13 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-17 09:05",
+    "lastRefresh": "2026-06-18 08:00",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 60
+    "maxAvailable": 72
   },
   "players": [
-    "Jonathan",
     "Lilla K",
+    "Jonathan",
     "Nora",
     "Lina",
     "Andreas",
@@ -1260,8 +1260,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Jonathan",
-            "Lilla K"
+            "Lilla K",
+            "Jonathan"
           ],
           "hit": null
         },
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "62",
+      "current": "75",
       "status": "provisional",
       "answers": [
         {
@@ -1681,8 +1681,8 @@
           "count": 4,
           "pct": 50,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Charlotta"
           ],
@@ -1803,8 +1803,8 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Andreas",
@@ -1836,8 +1836,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Nora",
             "Lina",
             "Andreas",
@@ -1951,8 +1951,8 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Jonathan",
             "Lilla K",
+            "Jonathan",
             "Andreas",
             "Fillefire",
             "Charlotta",
