@@ -295,6 +295,43 @@
           "total": 17
         }
       }
+    },
+    {
+      "date": "2026-06-20",
+      "standings": {
+        "Nora": {
+          "rank": 1,
+          "total": 28
+        },
+        "Lilla K": {
+          "rank": 2,
+          "total": 26
+        },
+        "Jonathan": {
+          "rank": 3,
+          "total": 25
+        },
+        "Lina": {
+          "rank": 4,
+          "total": 24
+        },
+        "Andreas": {
+          "rank": 5,
+          "total": 23
+        },
+        "Fillefire": {
+          "rank": 5,
+          "total": 23
+        },
+        "Charlotta": {
+          "rank": 7,
+          "total": 22
+        },
+        "Matias": {
+          "rank": 8,
+          "total": 21
+        }
+      }
     }
   ]
 }
