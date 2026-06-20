@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-20 09:13",
+    "lastRefresh": "2026-06-20 21:21",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 96
+    "maxAvailable": 99
   },
   "players": [
     "Lilla K",
@@ -1364,11 +1364,11 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "96",
+      "current": "102",
       "status": "provisional",
       "answers": [
         {
-          "answer": "200–209",
+          "answer": "200â€“209",
           "count": 1,
           "pct": 12,
           "players": [
@@ -1377,7 +1377,7 @@
           "hit": null
         },
         {
-          "answer": "240–249",
+          "answer": "240â€“249",
           "count": 1,
           "pct": 12,
           "players": [
@@ -1386,7 +1386,7 @@
           "hit": null
         },
         {
-          "answer": "250–259",
+          "answer": "250â€“259",
           "count": 1,
           "pct": 12,
           "players": [
@@ -1395,7 +1395,7 @@
           "hit": null
         },
         {
-          "answer": "260–269",
+          "answer": "260â€“269",
           "count": 1,
           "pct": 12,
           "players": [
@@ -1404,7 +1404,7 @@
           "hit": null
         },
         {
-          "answer": "290–299",
+          "answer": "290â€“299",
           "count": 1,
           "pct": 12,
           "players": [
@@ -1413,7 +1413,7 @@
           "hit": null
         },
         {
-          "answer": "300–309",
+          "answer": "300â€“309",
           "count": 1,
           "pct": 12,
           "players": [
@@ -1422,7 +1422,7 @@
           "hit": null
         },
         {
-          "answer": "350–359",
+          "answer": "350â€“359",
           "count": 1,
           "pct": 12,
           "players": [
@@ -1431,7 +1431,7 @@
           "hit": null
         },
         {
-          "answer": "390–399",
+          "answer": "390â€“399",
           "count": 1,
           "pct": 12,
           "players": [
