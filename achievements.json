@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-20 09:13",
+    "lastRefresh": "2026-06-21 09:52",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 96
+    "maxAvailable": 108
   },
   "catalog": [
     {
@@ -151,11 +151,11 @@
     "crystal-ball": 5,
     "untouchable": 2,
     "the-sweep": 0,
-    "perfect-day": 3,
+    "perfect-day": 4,
     "giant-slayer": 8,
     "hot-streak": 3,
     "the-comeback": 0,
-    "day-winner": 3,
+    "day-winner": 4,
     "contrarian-king": 2,
     "on-the-rise": 3,
     "bullseye": 1,
@@ -172,9 +172,19 @@
   "byPlayer": {
     "Lilla K": [
       {
+        "id": "perfect-day",
+        "date": "2026-06-21",
+        "how": "Scored on all 2 games that day"
+      },
+      {
         "id": "giant-slayer",
         "date": "2026-06-16",
         "how": "Saudi Arabia v Uruguay — only 2 players scored"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-21",
+        "how": "Outright top scorer (+2)"
       },
       {
         "id": "on-the-rise",
@@ -331,6 +341,48 @@
         "how": "Points on 3 matchdays running"
       }
     ],
+    "Fillefire": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-12",
+        "how": "Korea Republic 2–1 Czechia — the only exact call"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-14",
+        "how": "Brazil v Morocco — only 2 players scored"
+      },
+      {
+        "id": "on-the-rise",
+        "date": "2026-06-19",
+        "how": "#6 → #5 → #4"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+1)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-12",
+        "how": "Korea Republic 2–1 Czechia — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-13",
+        "how": "USA v Paraguay — rode the 2–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "3 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-13",
+        "how": "Points on 3 matchdays running"
+      }
+    ],
     "Lina": [
       {
         "id": "crystal-ball",
@@ -418,48 +470,6 @@
         "id": "cold-snap",
         "date": "2026-06-13",
         "how": "Blanked all 2 games that day"
-      }
-    ],
-    "Fillefire": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-12",
-        "how": "Korea Republic 2–1 Czechia — the only exact call"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-14",
-        "how": "Brazil v Morocco — only 2 players scored"
-      },
-      {
-        "id": "on-the-rise",
-        "date": "2026-06-19",
-        "how": "#6 → #5 → #4"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+1)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-12",
-        "how": "Korea Republic 2–1 Czechia — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-13",
-        "how": "USA v Paraguay — rode the 2–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "3 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-13",
-        "how": "Points on 3 matchdays running"
       }
     ],
     "Charlotta": [
@@ -557,7 +567,7 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-06-20",
+        "date": "2026-06-21",
         "how": "Last place — rank 8"
       },
       {
