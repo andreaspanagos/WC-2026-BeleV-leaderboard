@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-21 09:52",
+    "lastRefresh": "2026-06-22 08:58",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 108
+    "maxAvailable": 120
   },
   "catalog": [
     {
@@ -148,15 +148,15 @@
     }
   ],
   "rarityCount": {
-    "crystal-ball": 5,
+    "crystal-ball": 6,
     "untouchable": 2,
     "the-sweep": 0,
-    "perfect-day": 4,
+    "perfect-day": 3,
     "giant-slayer": 8,
-    "hot-streak": 3,
+    "hot-streak": 4,
     "the-comeback": 0,
     "day-winner": 4,
-    "contrarian-king": 2,
+    "contrarian-king": 3,
     "on-the-rise": 3,
     "bullseye": 1,
     "off-the-mark": 8,
@@ -172,9 +172,9 @@
   "byPlayer": {
     "Lilla K": [
       {
-        "id": "perfect-day",
-        "date": "2026-06-21",
-        "how": "Scored on all 2 games that day"
+        "id": "crystal-ball",
+        "date": "2026-06-22",
+        "how": "New Zealand 1–3 Egypt — the only exact call"
       },
       {
         "id": "giant-slayer",
@@ -182,9 +182,19 @@
         "how": "Saudi Arabia v Uruguay — only 2 players scored"
       },
       {
-        "id": "day-winner",
+        "id": "hot-streak",
         "date": "2026-06-21",
-        "how": "Outright top scorer (+2)"
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-22",
+        "how": "Outright top scorer (+3)"
+      },
+      {
+        "id": "contrarian-king",
+        "date": "2026-06-22",
+        "how": "Top scorer on a 12%-popularity card"
       },
       {
         "id": "on-the-rise",
@@ -567,7 +577,7 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-06-21",
+        "date": "2026-06-22",
         "how": "Last place — rank 8"
       },
       {
