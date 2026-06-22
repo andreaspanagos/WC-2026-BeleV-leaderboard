@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-22 08:58",
+    "lastRefresh": "2026-06-22 21:21",
     "maxPoints": 729,
     "participants": 8
   },
@@ -11,8 +11,8 @@
     "Fillefire",
     "Lina",
     "Andreas",
-    "Charlotta",
-    "Matias"
+    "Matias",
+    "Charlotta"
   ],
   "groups": [
     {
@@ -30,8 +30,8 @@
             "Jonathan",
             "Fillefire",
             "Lina",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         },
@@ -474,8 +474,8 @@
             "Fillefire",
             "Lina",
             "Andreas",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         }
@@ -800,8 +800,8 @@
               "pct": 25,
               "pts": null,
               "players": [
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -908,8 +908,8 @@
             "Jonathan",
             "Fillefire",
             "Andreas",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         },
@@ -1239,8 +1239,8 @@
               "pct": 25,
               "pts": null,
               "players": [
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -1298,8 +1298,8 @@
               "pts": null,
               "players": [
                 "Lilla K",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -1350,8 +1350,8 @@
             "Fillefire",
             "Lina",
             "Andreas",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         },
@@ -1442,8 +1442,8 @@
               "pts": 0,
               "players": [
                 "Andreas",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -1608,8 +1608,8 @@
               "pct": 25,
               "pts": 0,
               "players": [
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -1740,8 +1740,8 @@
               "pct": 25,
               "pts": null,
               "players": [
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -1811,8 +1811,8 @@
             "Fillefire",
             "Lina",
             "Andreas",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         }
@@ -2185,8 +2185,8 @@
               "players": [
                 "Fillefire",
                 "Andreas",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -2327,8 +2327,8 @@
               "pct": 25,
               "pts": 1,
               "players": [
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -2561,8 +2561,8 @@
               "pts": null,
               "players": [
                 "Lina",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -2673,8 +2673,8 @@
             "Fillefire",
             "Lina",
             "Andreas",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         }
@@ -3140,8 +3140,8 @@
             "Fillefire",
             "Lina",
             "Andreas",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         }
@@ -3367,8 +3367,8 @@
                 "Fillefire",
                 "Lina",
                 "Andreas",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -3680,8 +3680,8 @@
               "pct": 25,
               "pts": 1,
               "players": [
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -3729,8 +3729,8 @@
               "players": [
                 "Jonathan",
                 "Andreas",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -3910,8 +3910,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -3972,8 +3972,8 @@
             "Fillefire",
             "Lina",
             "Andreas",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         }
@@ -3981,25 +3981,25 @@
       "standings": [
         {
           "team": "Argentina",
-          "P": 1,
-          "W": 1,
+          "P": 2,
+          "W": 2,
           "D": 0,
           "L": 0,
-          "GF": 3,
+          "GF": 5,
           "GA": 0,
-          "GD": 3,
-          "Pts": 3,
+          "GD": 5,
+          "Pts": 6,
           "pos": 1
         },
         {
           "team": "Austria",
-          "P": 1,
+          "P": 2,
           "W": 1,
           "D": 0,
-          "L": 0,
+          "L": 1,
           "GF": 3,
-          "GA": 1,
-          "GD": 2,
+          "GA": 3,
+          "GD": 0,
           "Pts": 3,
           "pos": 2
         },
@@ -4047,8 +4047,8 @@
               "players": [
                 "Nora",
                 "Jonathan",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -4099,8 +4099,8 @@
               "pts": 1,
               "players": [
                 "Jonathan",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -4139,14 +4139,17 @@
           "kickoff": "2026-06-22 19:00",
           "home": "Argentina",
           "away": "Austria",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 2,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "1–1",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Jonathan",
                 "Charlotta"
@@ -4156,7 +4159,7 @@
               "score": "2–1",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Nora",
                 "Andreas"
@@ -4166,7 +4169,7 @@
               "score": "1–0",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Matias"
               ]
@@ -4175,7 +4178,7 @@
               "score": "3–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Lina"
               ]
@@ -4184,7 +4187,7 @@
               "score": "3–2",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Lilla K"
               ]
@@ -4193,7 +4196,7 @@
               "score": "4–3",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Fillefire"
               ]
@@ -4264,8 +4267,8 @@
               "pct": 25,
               "pts": null,
               "players": [
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -4401,8 +4404,8 @@
             "Fillefire",
             "Lina",
             "Andreas",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         }
@@ -4587,8 +4590,8 @@
               "players": [
                 "Lilla K",
                 "Nora",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -4822,8 +4825,8 @@
           "pct": 38,
           "players": [
             "Jonathan",
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "correct": null
         }
@@ -4965,8 +4968,8 @@
               "pts": 0,
               "players": [
                 "Lilla K",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -5083,8 +5086,8 @@
                 "Nora",
                 "Jonathan",
                 "Fillefire",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
@@ -5123,8 +5126,8 @@
               "pts": null,
               "players": [
                 "Andreas",
-                "Charlotta",
-                "Matias"
+                "Matias",
+                "Charlotta"
               ]
             },
             {
