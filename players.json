@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-22 21:21",
+    "lastRefresh": "2026-06-23 07:35",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 123
+    "maxAvailable": 132
   },
   "players": [
     "Lilla K",
@@ -17,13 +17,13 @@
   ],
   "detail": {
     "Lilla K": {
-      "rank": 1,
-      "total": 35,
-      "group": 35,
+      "rank": 2,
+      "total": 36,
+      "group": 36,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2846,
-      "pointsToday": 5,
+      "pctMax": 0.2727,
+      "pointsToday": 1,
       "games": [
         {
           "group": "A",
@@ -831,15 +831,15 @@
           "away": "Iraq",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 23:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 8
         },
         {
           "group": "I",
@@ -847,15 +847,15 @@
           "away": "Senegal",
           "ph": 2,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-23 02:00",
           "pct": 38,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "I",
@@ -943,15 +943,15 @@
           "away": "Algeria",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-23 05:00",
           "pct": 25,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "J",
@@ -1681,13 +1681,13 @@
       ]
     },
     "Nora": {
-      "rank": 2,
-      "total": 34,
-      "group": 34,
+      "rank": 1,
+      "total": 38,
+      "group": 38,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2764,
-      "pointsToday": 3,
+      "pctMax": 0.2879,
+      "pointsToday": 4,
       "games": [
         {
           "group": "A",
@@ -2495,15 +2495,15 @@
           "away": "Iraq",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 3,
           "kickoff": "2026-06-22 23:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 8
         },
         {
           "group": "I",
@@ -2511,15 +2511,15 @@
           "away": "Senegal",
           "ph": 1,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 02:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "I",
@@ -2607,15 +2607,15 @@
           "away": "Algeria",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-23 05:00",
           "pct": 25,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "J",
@@ -3346,12 +3346,12 @@
     },
     "Jonathan": {
       "rank": 3,
-      "total": 32,
-      "group": 32,
+      "total": 34,
+      "group": 34,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2602,
-      "pointsToday": 3,
+      "pctMax": 0.2576,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -4159,15 +4159,15 @@
           "away": "Iraq",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 23:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 8
         },
         {
           "group": "I",
@@ -4175,15 +4175,15 @@
           "away": "Senegal",
           "ph": 2,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-23 02:00",
           "pct": 38,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "I",
@@ -4271,15 +4271,15 @@
           "away": "Algeria",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 05:00",
           "pct": 25,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "J",
@@ -5010,12 +5010,12 @@
     },
     "Fillefire": {
       "rank": 4,
-      "total": 31,
-      "group": 31,
+      "total": 33,
+      "group": 33,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.252,
-      "pointsToday": 3,
+      "pctMax": 0.25,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -5823,15 +5823,15 @@
           "away": "Iraq",
           "ph": 4,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 23:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 8
         },
         {
           "group": "I",
@@ -5839,15 +5839,15 @@
           "away": "Senegal",
           "ph": 2,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-23 02:00",
           "pct": 38,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "I",
@@ -5935,15 +5935,15 @@
           "away": "Algeria",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 05:00",
           "pct": 38,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "J",
@@ -6673,12 +6673,12 @@
       ]
     },
     "Lina": {
-      "rank": 5,
-      "total": 30,
-      "group": 30,
+      "rank": 4,
+      "total": 33,
+      "group": 33,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2439,
+      "pctMax": 0.25,
       "pointsToday": 3,
       "games": [
         {
@@ -7487,15 +7487,15 @@
           "away": "Iraq",
           "ph": 3,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 23:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 8
         },
         {
           "group": "I",
@@ -7503,15 +7503,15 @@
           "away": "Senegal",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 02:00",
           "pct": 25,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "I",
@@ -7599,15 +7599,15 @@
           "away": "Algeria",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 05:00",
           "pct": 38,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "J",
@@ -8338,11 +8338,11 @@
     },
     "Andreas": {
       "rank": 6,
-      "total": 29,
-      "group": 29,
+      "total": 32,
+      "group": 32,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2358,
+      "pctMax": 0.2424,
       "pointsToday": 3,
       "games": [
         {
@@ -9151,15 +9151,15 @@
           "away": "Iraq",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 23:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 8
         },
         {
           "group": "I",
@@ -9167,15 +9167,15 @@
           "away": "Senegal",
           "ph": 4,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 02:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "I",
@@ -9263,15 +9263,15 @@
           "away": "Algeria",
           "ph": 0,
           "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 05:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "J",
@@ -10002,11 +10002,11 @@
     },
     "Matias": {
       "rank": 7,
-      "total": 27,
-      "group": 27,
+      "total": 30,
+      "group": 30,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2195,
+      "pctMax": 0.2273,
       "pointsToday": 3,
       "games": [
         {
@@ -10815,15 +10815,15 @@
           "away": "Iraq",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 23:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 8
         },
         {
           "group": "I",
@@ -10831,15 +10831,15 @@
           "away": "Senegal",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 02:00",
           "pct": 25,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "I",
@@ -10927,15 +10927,15 @@
           "away": "Algeria",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 05:00",
           "pct": 38,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "J",
@@ -11666,12 +11666,12 @@
     },
     "Charlotta": {
       "rank": 7,
-      "total": 27,
-      "group": 27,
+      "total": 30,
+      "group": 30,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2195,
-      "pointsToday": 1,
+      "pctMax": 0.2273,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -12479,15 +12479,15 @@
           "away": "Iraq",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 23:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 8
         },
         {
           "group": "I",
@@ -12495,15 +12495,15 @@
           "away": "Senegal",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 3,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 02:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "I",
@@ -12591,15 +12591,15 @@
           "away": "Algeria",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 2,
+          "pts": 1,
           "kickoff": "2026-06-23 05:00",
           "pct": 25,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "J",

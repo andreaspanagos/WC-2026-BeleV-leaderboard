@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-22 21:21",
+    "lastRefresh": "2026-06-23 07:35",
     "maxPoints": 729,
     "participants": 8
   },
@@ -3535,50 +3535,50 @@
       ],
       "standings": [
         {
-          "team": "Norway",
-          "P": 1,
-          "W": 1,
+          "team": "France",
+          "P": 2,
+          "W": 2,
           "D": 0,
           "L": 0,
-          "GF": 4,
+          "GF": 6,
           "GA": 1,
-          "GD": 3,
-          "Pts": 3,
+          "GD": 5,
+          "Pts": 6,
           "pos": 1
         },
         {
-          "team": "France",
-          "P": 1,
-          "W": 1,
+          "team": "Norway",
+          "P": 2,
+          "W": 2,
           "D": 0,
           "L": 0,
-          "GF": 3,
-          "GA": 1,
-          "GD": 2,
-          "Pts": 3,
+          "GF": 7,
+          "GA": 3,
+          "GD": 4,
+          "Pts": 6,
           "pos": 2
         },
         {
           "team": "Senegal",
-          "P": 1,
+          "P": 2,
           "W": 0,
           "D": 0,
-          "L": 1,
-          "GF": 1,
-          "GA": 3,
-          "GD": -2,
+          "L": 2,
+          "GF": 3,
+          "GA": 6,
+          "GD": -3,
           "Pts": 0,
           "pos": 3
         },
         {
           "team": "Iraq",
-          "P": 1,
+          "P": 2,
           "W": 0,
           "D": 0,
-          "L": 1,
+          "L": 2,
           "GF": 1,
-          "GA": 4,
-          "GD": -3,
+          "GA": 7,
+          "GD": -6,
           "Pts": 0,
           "pos": 4
         }
@@ -3718,14 +3718,17 @@
           "kickoff": "2026-06-22 23:00",
           "home": "France",
           "away": "Iraq",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 3,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "2–0",
               "count": 4,
               "pct": 50,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Jonathan",
                 "Andreas",
@@ -3737,7 +3740,7 @@
               "score": "2–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Lilla K"
               ]
@@ -3746,7 +3749,7 @@
               "score": "3–0",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 3,
               "players": [
                 "Nora"
               ]
@@ -3755,7 +3758,7 @@
               "score": "3–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Lina"
               ]
@@ -3764,7 +3767,7 @@
               "score": "4–0",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Fillefire"
               ]
@@ -3776,14 +3779,17 @@
           "kickoff": "2026-06-23 02:00",
           "home": "Norway",
           "away": "Senegal",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 3,
+            "ag": 2
+          },
           "scorelines": [
             {
               "score": "2–2",
               "count": 3,
               "pct": 38,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Lilla K",
                 "Jonathan",
@@ -3794,7 +3800,7 @@
               "score": "2–1",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Lina",
                 "Matias"
@@ -3804,7 +3810,7 @@
               "score": "1–0",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Nora"
               ]
@@ -3813,7 +3819,7 @@
               "score": "2–0",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Charlotta"
               ]
@@ -3822,7 +3828,7 @@
               "score": "4–1",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas"
               ]
@@ -4004,25 +4010,25 @@
           "pos": 2
         },
         {
-          "team": "Jordan",
-          "P": 1,
-          "W": 0,
+          "team": "Algeria",
+          "P": 2,
+          "W": 1,
           "D": 0,
           "L": 1,
-          "GF": 1,
-          "GA": 3,
+          "GF": 2,
+          "GA": 4,
           "GD": -2,
-          "Pts": 0,
+          "Pts": 3,
           "pos": 3
         },
         {
-          "team": "Algeria",
-          "P": 1,
+          "team": "Jordan",
+          "P": 2,
           "W": 0,
           "D": 0,
-          "L": 1,
-          "GF": 0,
-          "GA": 3,
+          "L": 2,
+          "GF": 2,
+          "GA": 5,
           "GD": -3,
           "Pts": 0,
           "pos": 4
@@ -4208,14 +4214,17 @@
           "kickoff": "2026-06-23 05:00",
           "home": "Jordan",
           "away": "Algeria",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 2
+          },
           "scorelines": [
             {
               "score": "0–1",
               "count": 3,
               "pct": 38,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Fillefire",
                 "Lina",
@@ -4226,7 +4235,7 @@
               "score": "0–2",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Jonathan",
                 "Charlotta"
@@ -4236,7 +4245,7 @@
               "score": "1–1",
               "count": 2,
               "pct": 25,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Lilla K",
                 "Nora"
@@ -4246,7 +4255,7 @@
               "score": "0–3",
               "count": 1,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas"
               ]
