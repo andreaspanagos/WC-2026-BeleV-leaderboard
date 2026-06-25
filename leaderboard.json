@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-25 08:07",
+    "lastRefresh": "2026-06-25 09:53",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 197
@@ -9,90 +9,90 @@
     {
       "rank": 1,
       "player": "Lilla K",
-      "group": 45,
+      "group": 54,
       "ko": 15,
       "bonus": 5,
-      "total": 65,
+      "total": 74,
       "prevRank": 2,
-      "pointsToday": 26,
-      "pctMax": 0.3299
+      "pointsToday": 35,
+      "pctMax": 0.3756
     },
     {
       "rank": 2,
       "player": "Nora",
-      "group": 48,
+      "group": 57,
       "ko": 15,
       "bonus": 0,
-      "total": 63,
+      "total": 72,
       "prevRank": 1,
-      "pointsToday": 22,
-      "pctMax": 0.3198
+      "pointsToday": 31,
+      "pctMax": 0.3655
     },
     {
       "rank": 3,
-      "player": "Lina",
-      "group": 45,
+      "player": "Jonathan",
+      "group": 51,
       "ko": 15,
       "bonus": 0,
-      "total": 60,
-      "prevRank": 3,
-      "pointsToday": 22,
-      "pctMax": 0.3046
+      "total": 66,
+      "prevRank": 4,
+      "pointsToday": 30,
+      "pctMax": 0.335
     },
     {
       "rank": 4,
-      "player": "Jonathan",
-      "group": 42,
+      "player": "Lina",
+      "group": 51,
       "ko": 15,
       "bonus": 0,
-      "total": 57,
-      "prevRank": 4,
-      "pointsToday": 21,
-      "pctMax": 0.2893
+      "total": 66,
+      "prevRank": 3,
+      "pointsToday": 28,
+      "pctMax": 0.335
     },
     {
       "rank": 5,
-      "player": "Andreas",
-      "group": 41,
-      "ko": 15,
+      "player": "Charlotta",
+      "group": 45,
+      "ko": 18,
       "bonus": 0,
-      "total": 56,
-      "prevRank": 5,
-      "pointsToday": 21,
-      "pctMax": 0.2843
+      "total": 63,
+      "prevRank": 8,
+      "pointsToday": 31,
+      "pctMax": 0.3198
     },
     {
       "rank": 6,
-      "player": "Charlotta",
-      "group": 36,
-      "ko": 18,
+      "player": "Matias",
+      "group": 47,
+      "ko": 15,
       "bonus": 0,
-      "total": 54,
-      "prevRank": 8,
-      "pointsToday": 22,
-      "pctMax": 0.2741
+      "total": 62,
+      "prevRank": 5,
+      "pointsToday": 27,
+      "pctMax": 0.3147
     },
     {
       "rank": 7,
-      "player": "Matias",
-      "group": 38,
+      "player": "Andreas",
+      "group": 47,
       "ko": 15,
       "bonus": 0,
-      "total": 53,
+      "total": 62,
       "prevRank": 5,
-      "pointsToday": 18,
-      "pctMax": 0.269
+      "pointsToday": 27,
+      "pctMax": 0.3147
     },
     {
       "rank": 8,
       "player": "Fillefire",
-      "group": 39,
+      "group": 48,
       "ko": 12,
       "bonus": 0,
-      "total": 51,
+      "total": 60,
       "prevRank": 5,
-      "pointsToday": 16,
-      "pctMax": 0.2589
+      "pointsToday": 25,
+      "pctMax": 0.3046
     }
   ]
 }

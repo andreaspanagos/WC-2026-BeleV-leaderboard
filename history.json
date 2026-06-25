@@ -486,35 +486,35 @@
       "standings": {
         "Lilla K": {
           "rank": 1,
-          "total": 65
+          "total": 74
         },
         "Nora": {
           "rank": 2,
-          "total": 63
-        },
-        "Lina": {
-          "rank": 3,
-          "total": 60
+          "total": 72
         },
         "Jonathan": {
-          "rank": 4,
-          "total": 57
+          "rank": 3,
+          "total": 66
         },
-        "Andreas": {
-          "rank": 5,
-          "total": 56
+        "Lina": {
+          "rank": 4,
+          "total": 66
         },
         "Charlotta": {
-          "rank": 6,
-          "total": 54
+          "rank": 5,
+          "total": 63
         },
         "Matias": {
+          "rank": 6,
+          "total": 62
+        },
+        "Andreas": {
           "rank": 7,
-          "total": 53
+          "total": 62
         },
         "Fillefire": {
           "rank": 8,
-          "total": 51
+          "total": 60
         }
       }
     }

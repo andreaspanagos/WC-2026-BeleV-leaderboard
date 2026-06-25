@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-25 08:07",
+    "lastRefresh": "2026-06-25 09:53",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 197
@@ -8,11 +8,11 @@
   "players": [
     "Lilla K",
     "Nora",
-    "Lina",
     "Jonathan",
-    "Andreas",
+    "Lina",
     "Charlotta",
     "Matias",
+    "Andreas",
     "Fillefire"
   ],
   "stages": [
@@ -855,8 +855,8 @@
       "championBy": [
         "Lilla K",
         "Nora",
-        "Andreas",
-        "Charlotta"
+        "Charlotta",
+        "Andreas"
       ]
     },
     {
@@ -1453,8 +1453,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Lina",
             "Jonathan",
+            "Lina",
             "Charlotta"
           ],
           "hit": null
@@ -1521,8 +1521,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Andreas",
-            "Charlotta"
+            "Charlotta",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1560,8 +1560,8 @@
           "pct": 38,
           "players": [
             "Nora",
-            "Andreas",
-            "Matias"
+            "Matias",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1626,8 +1626,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Andreas",
-            "Charlotta"
+            "Charlotta",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1805,10 +1805,10 @@
           "players": [
             "Lilla K",
             "Nora",
-            "Lina",
             "Jonathan",
-            "Andreas",
-            "Matias"
+            "Lina",
+            "Matias",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1838,11 +1838,11 @@
           "players": [
             "Lilla K",
             "Nora",
-            "Lina",
             "Jonathan",
-            "Andreas",
+            "Lina",
             "Charlotta",
             "Matias",
+            "Andreas",
             "Fillefire"
           ],
           "hit": false
@@ -1862,11 +1862,11 @@
           "pct": 88,
           "players": [
             "Nora",
-            "Lina",
             "Jonathan",
-            "Andreas",
+            "Lina",
             "Charlotta",
             "Matias",
+            "Andreas",
             "Fillefire"
           ],
           "hit": false
@@ -1953,9 +1953,9 @@
           "players": [
             "Lilla K",
             "Jonathan",
-            "Andreas",
             "Charlotta",
             "Matias",
+            "Andreas",
             "Fillefire"
           ],
           "hit": null
@@ -2006,8 +2006,8 @@
           "pct": 38,
           "players": [
             "Jonathan",
-            "Andreas",
-            "Matias"
+            "Matias",
+            "Andreas"
           ],
           "hit": null
         }
