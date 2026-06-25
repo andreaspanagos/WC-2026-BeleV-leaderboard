@@ -1,19 +1,19 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-24 08:19",
+    "lastRefresh": "2026-06-25 08:07",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 144
+    "maxAvailable": 197
   },
   "players": [
     "Lilla K",
     "Nora",
     "Lina",
     "Jonathan",
-    "Matias",
     "Andreas",
-    "Fillefire",
-    "Charlotta"
+    "Charlotta",
+    "Matias",
+    "Fillefire"
   ],
   "stages": [
     "Group stage",
@@ -28,7 +28,7 @@
     {
       "team": "Czechia",
       "group": "A",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 2,
         "R32": 6,
@@ -53,7 +53,7 @@
     {
       "team": "Korea Republic",
       "group": "A",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 1,
         "R32": 2,
@@ -78,7 +78,7 @@
     {
       "team": "Mexico",
       "group": "A",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 1,
@@ -103,7 +103,7 @@
     {
       "team": "South Africa",
       "group": "A",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 7,
         "R32": 1,
@@ -128,7 +128,7 @@
     {
       "team": "Bosnia & Herzegovina",
       "group": "B",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 2,
         "R32": 6,
@@ -153,7 +153,7 @@
     {
       "team": "Canada",
       "group": "B",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 1,
         "R32": 4,
@@ -178,7 +178,7 @@
     {
       "team": "Qatar",
       "group": "B",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 7,
         "R32": 1,
@@ -203,7 +203,7 @@
     {
       "team": "Switzerland",
       "group": "B",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -228,7 +228,7 @@
     {
       "team": "Brazil",
       "group": "C",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 1,
@@ -253,7 +253,7 @@
     {
       "team": "Haiti",
       "group": "C",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 8,
         "R32": 0,
@@ -278,7 +278,7 @@
     {
       "team": "Morocco",
       "group": "C",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 7,
@@ -303,7 +303,7 @@
     {
       "team": "Scotland",
       "group": "C",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 3,
         "R32": 5,
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "141",
+      "current": "161",
       "status": "provisional",
       "answers": [
         {
@@ -1560,8 +1560,8 @@
           "pct": 38,
           "players": [
             "Nora",
-            "Matias",
-            "Andreas"
+            "Andreas",
+            "Matias"
           ],
           "hit": null
         },
@@ -1807,8 +1807,8 @@
             "Nora",
             "Lina",
             "Jonathan",
-            "Matias",
-            "Andreas"
+            "Andreas",
+            "Matias"
           ],
           "hit": null
         },
@@ -1817,8 +1817,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Fillefire",
-            "Charlotta"
+            "Charlotta",
+            "Fillefire"
           ],
           "hit": null
         }
@@ -1840,10 +1840,10 @@
             "Nora",
             "Lina",
             "Jonathan",
-            "Matias",
             "Andreas",
-            "Fillefire",
-            "Charlotta"
+            "Charlotta",
+            "Matias",
+            "Fillefire"
           ],
           "hit": null
         }
@@ -1864,10 +1864,10 @@
             "Nora",
             "Lina",
             "Jonathan",
-            "Matias",
             "Andreas",
-            "Fillefire",
-            "Charlotta"
+            "Charlotta",
+            "Matias",
+            "Fillefire"
           ],
           "hit": null
         },
@@ -1894,8 +1894,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Matias",
-            "Charlotta"
+            "Charlotta",
+            "Matias"
           ],
           "hit": null
         },
@@ -1953,10 +1953,10 @@
           "players": [
             "Lilla K",
             "Jonathan",
-            "Matias",
             "Andreas",
-            "Fillefire",
-            "Charlotta"
+            "Charlotta",
+            "Matias",
+            "Fillefire"
           ],
           "hit": null
         },
@@ -1995,8 +1995,8 @@
             "Lilla K",
             "Nora",
             "Lina",
-            "Fillefire",
-            "Charlotta"
+            "Charlotta",
+            "Fillefire"
           ],
           "hit": null
         },
@@ -2006,8 +2006,8 @@
           "pct": 38,
           "players": [
             "Jonathan",
-            "Matias",
-            "Andreas"
+            "Andreas",
+            "Matias"
           ],
           "hit": null
         }
