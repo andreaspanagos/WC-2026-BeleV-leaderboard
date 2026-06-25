@@ -1374,7 +1374,7 @@
           "players": [
             "Matias"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "240–249",
@@ -1383,7 +1383,7 @@
           "players": [
             "Charlotta"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "250–259",
@@ -1392,7 +1392,7 @@
           "players": [
             "Nora"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "260–269",
@@ -1401,7 +1401,7 @@
           "players": [
             "Jonathan"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "290–299",
@@ -1410,7 +1410,7 @@
           "players": [
             "Lilla K"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "300–309",
@@ -1419,7 +1419,7 @@
           "players": [
             "Andreas"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "350–359",
@@ -1428,7 +1428,7 @@
           "players": [
             "Lina"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "390–399",
@@ -1437,7 +1437,7 @@
           "players": [
             "Fillefire"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1686,7 +1686,7 @@
             "Jonathan",
             "Charlotta"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "7",
@@ -1696,7 +1696,7 @@
             "Lina",
             "Fillefire"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -1705,7 +1705,7 @@
           "players": [
             "Matias"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "6",
@@ -1714,7 +1714,7 @@
           "players": [
             "Andreas"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1733,7 +1733,7 @@
             "Lina",
             "Fillefire"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "0",
@@ -1742,7 +1742,7 @@
           "players": [
             "Lilla K"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "10",
@@ -1751,7 +1751,7 @@
           "players": [
             "Matias"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "12",
@@ -1760,7 +1760,7 @@
           "players": [
             "Charlotta"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -1769,7 +1769,7 @@
           "players": [
             "Andreas"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "5",
@@ -1778,7 +1778,7 @@
           "players": [
             "Nora"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "6",
@@ -1787,7 +1787,7 @@
           "players": [
             "Jonathan"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1845,7 +1845,7 @@
             "Matias",
             "Fillefire"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1869,7 +1869,7 @@
             "Matias",
             "Fillefire"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Yes",
@@ -1878,7 +1878,7 @@
           "players": [
             "Lilla K"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
