@@ -1245,331 +1245,395 @@
           {
             "team": "Argentina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Australia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Austria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Belgium",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Brazil",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Cabo Verde",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Canada",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Colombia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Congo DR",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Croatia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Curaçao",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Ecuador",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Egypt",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "England",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "France",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Germany",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ghana",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Japan",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Morocco",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Netherlands",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "New Zealand",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Norway",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Portugal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Qatar",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Senegal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Spain",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Sweden",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Switzerland",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "USA",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           }
         ],
         "R16": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Australia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Croatia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Germany",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Japan",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Netherlands",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Switzerland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "QF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Netherlands",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "SF": [
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "Final": [
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "winner": {
           "team": "France",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         },
         "third": {
           "team": "Spain",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         }
       },
       "bonusAns": [
@@ -1579,7 +1643,7 @@
           "answer": "Germany",
           "hit": true,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 5
         },
         {
@@ -1588,7 +1652,7 @@
           "answer": "Paraguay",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -1678,7 +1742,7 @@
           "answer": "Yes",
           "hit": true,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 5
         },
         {
@@ -2939,331 +3003,395 @@
           {
             "team": "Argentina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Austria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Belgium",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Brazil",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Canada",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Colombia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Croatia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Czechia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Côte d'Ivoire",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ecuador",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "England",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "France",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Germany",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ghana",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Iran",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Japan",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Morocco",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Netherlands",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Norway",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Paraguay",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Portugal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Saudi Arabia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Scotland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Senegal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Spain",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Sweden",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Switzerland",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "USA",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Uruguay",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "R16": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Canada",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Croatia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Germany",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Mexico",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Netherlands",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Sweden",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Switzerland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "QF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Netherlands",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Sweden",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "SF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "Final": [
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "winner": {
           "team": "France",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         },
         "third": {
           "team": "Spain",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         }
       },
       "bonusAns": [
@@ -3273,7 +3401,7 @@
           "answer": "Spain",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -3282,7 +3410,7 @@
           "answer": "Haiti",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -3372,7 +3500,7 @@
           "answer": "No",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -4633,331 +4761,395 @@
           {
             "team": "Algeria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Argentina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Austria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Belgium",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Bosnia & Herzegovina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Brazil",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Canada",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Colombia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Congo DR",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Croatia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Czechia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Côte d'Ivoire",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ecuador",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Egypt",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "England",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "France",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Germany",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Japan",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Morocco",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Netherlands",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Norway",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Paraguay",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Portugal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Senegal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Spain",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Sweden",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Switzerland",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "USA",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Uruguay",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "R16": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Canada",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Croatia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Egypt",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Germany",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Mexico",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Netherlands",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Switzerland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "QF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Croatia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Netherlands",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Switzerland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "SF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Croatia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "Final": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "winner": {
           "team": "Spain",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         },
         "third": {
           "team": "France",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         }
       },
       "bonusAns": [
@@ -4967,7 +5159,7 @@
           "answer": "France",
           "hit": true,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 5
         },
         {
@@ -4976,7 +5168,7 @@
           "answer": "Curaçao",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -5066,7 +5258,7 @@
           "answer": "No",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -6327,331 +6519,395 @@
           {
             "team": "Algeria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Argentina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Austria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Belgium",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Bosnia & Herzegovina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Brazil",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Colombia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Congo DR",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Croatia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Czechia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Côte d'Ivoire",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ecuador",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Egypt",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "England",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "France",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Germany",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Iran",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Japan",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Morocco",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Netherlands",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Norway",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Paraguay",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Portugal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Senegal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Spain",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Sweden",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Switzerland",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "USA",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Uruguay",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "R16": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Colombia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Côte d'Ivoire",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Germany",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Netherlands",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Switzerland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "USA",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "QF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Netherlands",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "SF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "Final": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "winner": {
           "team": "Spain",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         },
         "third": {
           "team": "France",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         }
       },
       "bonusAns": [
@@ -6661,7 +6917,7 @@
           "answer": "Brazil",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -6670,7 +6926,7 @@
           "answer": "Haiti",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -6760,7 +7016,7 @@
           "answer": "No",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -8021,331 +8277,395 @@
           {
             "team": "Algeria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Argentina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Australia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Austria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Belgium",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Bosnia & Herzegovina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Brazil",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Canada",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Colombia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Croatia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Côte d'Ivoire",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ecuador",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Egypt",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "England",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "France",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Germany",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Iran",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Japan",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Morocco",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Netherlands",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Norway",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Portugal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Saudi Arabia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Scotland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Spain",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Sweden",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Switzerland",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "USA",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Uruguay",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "R16": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Austria",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Croatia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Egypt",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Germany",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Japan",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Switzerland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "QF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Croatia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Japan",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "SF": [
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "Final": [
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "winner": {
           "team": "Portugal",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         },
         "third": {
           "team": "England",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         }
       },
       "bonusAns": [
@@ -8355,7 +8675,7 @@
           "answer": "Germany",
           "hit": true,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 5
         },
         {
@@ -8364,7 +8684,7 @@
           "answer": "Curaçao",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -8454,7 +8774,7 @@
           "answer": "No",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -9715,331 +10035,395 @@
           {
             "team": "Argentina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Austria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Belgium",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Bosnia & Herzegovina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Brazil",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Canada",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Colombia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Congo DR",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Croatia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Czechia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Côte d'Ivoire",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ecuador",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Egypt",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "England",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "France",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Germany",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Iran",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Japan",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Morocco",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Netherlands",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Norway",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Paraguay",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Portugal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Saudi Arabia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Scotland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Spain",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Sweden",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Switzerland",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Uruguay",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "R16": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Croatia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Germany",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Paraguay",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Sweden",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Switzerland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "QF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Sweden",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "SF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Sweden",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "Final": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "winner": {
           "team": "Spain",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         },
         "third": {
           "team": "France",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         }
       },
       "bonusAns": [
@@ -10049,7 +10433,7 @@
           "answer": "Argentina",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -10058,7 +10442,7 @@
           "answer": "South Africa",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -10148,7 +10532,7 @@
           "answer": "No",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -11409,331 +11793,395 @@
           {
             "team": "Algeria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Argentina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Austria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Belgium",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Bosnia & Herzegovina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Brazil",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Canada",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Colombia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Congo DR",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Croatia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Czechia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Côte d'Ivoire",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ecuador",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Egypt",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "England",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "France",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Germany",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ghana",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Japan",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Morocco",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Netherlands",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Norway",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Portugal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Scotland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Spain",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Sweden",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Switzerland",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "USA",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Uruguay",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "R16": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Colombia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Egypt",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Germany",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Japan",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Korea Republic",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Mexico",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Switzerland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "QF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Japan",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "SF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "Final": [
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "winner": {
           "team": "France",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         },
         "third": {
           "team": "Norway",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         }
       },
       "bonusAns": [
@@ -11743,7 +12191,7 @@
           "answer": "Brazil",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -11752,7 +12200,7 @@
           "answer": "Haiti",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -11842,7 +12290,7 @@
           "answer": "No",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -13103,331 +13551,395 @@
           {
             "team": "Algeria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Argentina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Austria",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Belgium",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Bosnia & Herzegovina",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Brazil",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Canada",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Colombia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Croatia",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Czechia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Côte d'Ivoire",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Ecuador",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Egypt",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "England",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "France",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Germany",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Mexico",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Morocco",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Netherlands",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Norway",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Paraguay",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Portugal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Scotland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Senegal",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "South Africa",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Spain",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Sweden",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Switzerland",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Tunisia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           },
           {
             "team": "USA",
             "hit": true,
-            "pts": 3
+            "pts": 3,
+            "status": "hit"
           },
           {
             "team": "Uruguay",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "R16": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Brazil",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Canada",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Croatia",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "England",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Germany",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Mexico",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Morocco",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Paraguay",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Switzerland",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Turkey",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "miss"
           }
         ],
         "QF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Belgium",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Canada",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Mexico",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Portugal",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "SF": [
           {
             "team": "Argentina",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Norway",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "Final": [
           {
             "team": "France",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           },
           {
             "team": "Spain",
             "hit": false,
-            "pts": 0
+            "pts": 0,
+            "status": "pending"
           }
         ],
         "winner": {
           "team": "France",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         },
         "third": {
           "team": "Norway",
           "hit": false,
-          "pts": 0
+          "pts": 0,
+          "status": "pending"
         }
       },
       "bonusAns": [
@@ -13437,7 +13949,7 @@
           "answer": "Switzerland",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -13446,7 +13958,7 @@
           "answer": "Qatar",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
@@ -13536,7 +14048,7 @@
           "answer": "No",
           "hit": false,
           "pts": 5,
-          "status": "provisional",
+          "status": "decided",
           "earned": 0
         },
         {
