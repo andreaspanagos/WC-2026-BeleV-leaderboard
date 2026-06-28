@@ -5354,6 +5354,14 @@
         "pct": 38,
         "count": 3
       },
+      "homeReach": {
+        "pct": 12,
+        "count": 1
+      },
+      "awayReach": {
+        "pct": 88,
+        "count": 7
+      },
       "status": "scheduled"
     },
     {
@@ -5375,6 +5383,14 @@
       "awayPick": {
         "pct": 25,
         "count": 2
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 62,
+        "count": 5
       },
       "status": "scheduled"
     },
@@ -5398,6 +5414,14 @@
         "pct": 12,
         "count": 1
       },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 8
+      },
       "status": "scheduled"
     },
     {
@@ -5419,6 +5443,14 @@
       "awayPick": {
         "pct": 38,
         "count": 3
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 88,
+        "count": 7
       },
       "status": "scheduled"
     },
@@ -5442,6 +5474,14 @@
         "pct": 25,
         "count": 2
       },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 8
+      },
       "status": "scheduled"
     },
     {
@@ -5461,6 +5501,14 @@
         "count": 1
       },
       "awayPick": {
+        "pct": 100,
+        "count": 8
+      },
+      "homeReach": {
+        "pct": 88,
+        "count": 7
+      },
+      "awayReach": {
         "pct": 100,
         "count": 8
       },
@@ -5486,6 +5534,14 @@
         "pct": 0,
         "count": 0
       },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 8
+      },
       "status": "scheduled"
     },
     {
@@ -5507,6 +5563,14 @@
       "awayPick": {
         "pct": 0,
         "count": 0
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 62,
+        "count": 5
       },
       "status": "scheduled"
     },
@@ -5530,6 +5594,14 @@
         "pct": 0,
         "count": 0
       },
+      "homeReach": {
+        "pct": 88,
+        "count": 7
+      },
+      "awayReach": {
+        "pct": 75,
+        "count": 6
+      },
       "status": "scheduled"
     },
     {
@@ -5551,6 +5623,14 @@
       "awayPick": {
         "pct": 0,
         "count": 0
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 62,
+        "count": 5
       },
       "status": "scheduled"
     },
@@ -5574,6 +5654,14 @@
         "pct": 75,
         "count": 6
       },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 8
+      },
       "status": "scheduled"
     },
     {
@@ -5595,6 +5683,14 @@
       "awayPick": {
         "pct": 12,
         "count": 1
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 8
       },
       "status": "scheduled"
     },
@@ -5618,6 +5714,14 @@
         "pct": 0,
         "count": 0
       },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 62,
+        "count": 5
+      },
       "status": "scheduled"
     },
     {
@@ -5639,6 +5743,14 @@
       "awayPick": {
         "pct": 0,
         "count": 0
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 12,
+        "count": 1
       },
       "status": "scheduled"
     },
@@ -5662,6 +5774,14 @@
         "pct": 0,
         "count": 0
       },
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "awayReach": {
+        "pct": 38,
+        "count": 3
+      },
       "status": "scheduled"
     },
     {
@@ -5684,6 +5804,14 @@
         "pct": 38,
         "count": 3
       },
+      "homeReach": {
+        "pct": 25,
+        "count": 2
+      },
+      "awayReach": {
+        "pct": 88,
+        "count": 7
+      },
       "status": "scheduled"
     },
     {
@@ -5700,6 +5828,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5716,6 +5846,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5732,6 +5864,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5748,6 +5882,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5764,6 +5900,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5780,6 +5918,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5796,6 +5936,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5812,6 +5954,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5828,6 +5972,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5844,6 +5990,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5860,6 +6008,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5876,6 +6026,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5892,6 +6044,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5908,6 +6062,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5924,6 +6080,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     },
     {
@@ -5940,6 +6098,8 @@
       "winner": null,
       "homePick": null,
       "awayPick": null,
+      "homeReach": null,
+      "awayReach": null,
       "status": "pending"
     }
   ]
