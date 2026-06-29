@@ -1,19 +1,19 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-28 20:36",
+    "lastRefresh": "2026-06-29 07:36",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 261
   },
   "players": [
     "Lilla K",
-    "Nora",
     "Matias",
+    "Nora",
     "Fillefire",
     "Jonathan",
-    "Lina",
     "Andreas",
-    "Charlotta"
+    "Charlotta",
+    "Lina"
   ],
   "stages": [
     "Group stage",
@@ -153,7 +153,7 @@
     {
       "team": "Canada",
       "group": "B",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 1,
         "R32": 4,
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "215",
+      "current": "216",
       "status": "provisional",
       "answers": [
         {
@@ -1454,8 +1454,8 @@
           "pct": 38,
           "players": [
             "Jonathan",
-            "Lina",
-            "Charlotta"
+            "Charlotta",
+            "Lina"
           ],
           "hit": null
         },
@@ -1559,8 +1559,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Nora",
             "Matias",
+            "Nora",
             "Andreas"
           ],
           "hit": null
@@ -1804,11 +1804,11 @@
           "pct": 75,
           "players": [
             "Lilla K",
-            "Nora",
             "Matias",
+            "Nora",
             "Jonathan",
-            "Lina",
-            "Andreas"
+            "Andreas",
+            "Lina"
           ],
           "hit": null
         },
@@ -1828,7 +1828,7 @@
       "id": "B11",
       "q": "Host nation reaches R16? (Yes/No)",
       "pts": 5,
-      "current": "TBD",
+      "current": "Yes",
       "status": "provisional",
       "answers": [
         {
@@ -1837,15 +1837,15 @@
           "pct": 100,
           "players": [
             "Lilla K",
-            "Nora",
             "Matias",
+            "Nora",
             "Fillefire",
             "Jonathan",
-            "Lina",
             "Andreas",
-            "Charlotta"
+            "Charlotta",
+            "Lina"
           ],
-          "hit": false
+          "hit": true
         }
       ]
     },
@@ -1861,13 +1861,13 @@
           "count": 7,
           "pct": 88,
           "players": [
-            "Nora",
             "Matias",
+            "Nora",
             "Fillefire",
             "Jonathan",
-            "Lina",
             "Andreas",
-            "Charlotta"
+            "Charlotta",
+            "Lina"
           ],
           "hit": false
         },
@@ -1914,8 +1914,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Lina",
-            "Andreas"
+            "Andreas",
+            "Lina"
           ],
           "hit": null
         },
@@ -1995,8 +1995,8 @@
             "Lilla K",
             "Nora",
             "Fillefire",
-            "Lina",
-            "Charlotta"
+            "Charlotta",
+            "Lina"
           ],
           "hit": null
         },
