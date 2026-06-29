@@ -157,7 +157,7 @@
     "the-comeback": 0,
     "day-winner": 4,
     "contrarian-king": 3,
-    "on-the-rise": 4,
+    "on-the-rise": 3,
     "bullseye": 4,
     "off-the-mark": 8,
     "first-blood": 8,
@@ -257,11 +257,6 @@
         "id": "hot-streak",
         "date": "2026-06-20",
         "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "on-the-rise",
-        "date": "2026-06-29",
-        "how": "#6 → #3 → #2"
       },
       {
         "id": "off-the-mark",
@@ -574,6 +569,11 @@
         "how": "Points on 3 matchdays running"
       },
       {
+        "id": "wooden-spoon",
+        "date": "2026-06-29",
+        "how": "Last place — rank 8"
+      },
+      {
         "id": "snake-eyes",
         "date": "2026-06-14",
         "how": "0 points in 5 straight matches"
@@ -649,11 +649,6 @@
         "id": "steady-hand",
         "date": "2026-06-16",
         "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "wooden-spoon",
-        "date": "2026-06-29",
-        "how": "Last place — rank 8"
       },
       {
         "id": "cold-snap",

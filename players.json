@@ -18,12 +18,12 @@
   "detail": {
     "Lilla K": {
       "rank": 1,
-      "total": 201,
+      "total": 191,
       "group": 90,
       "ko": 81,
-      "bonus": 30,
-      "pctMax": 0.7701,
-      "pointsToday": 15,
+      "bonus": 20,
+      "pctMax": 0.7318,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -1775,13 +1775,13 @@
       ]
     },
     "Matias": {
-      "rank": 2,
-      "total": 188,
+      "rank": 3,
+      "total": 178,
       "group": 78,
       "ko": 90,
-      "bonus": 20,
-      "pctMax": 0.7203,
-      "pointsToday": 21,
+      "bonus": 10,
+      "pctMax": 0.682,
+      "pointsToday": 11,
       "games": [
         {
           "group": "A",
@@ -3533,7 +3533,7 @@
       ]
     },
     "Nora": {
-      "rank": 3,
+      "rank": 2,
       "total": 184,
       "group": 98,
       "ko": 81,
@@ -5292,12 +5292,12 @@
     },
     "Fillefire": {
       "rank": 4,
-      "total": 182,
+      "total": 172,
       "group": 86,
       "ko": 81,
-      "bonus": 15,
-      "pctMax": 0.6973,
-      "pointsToday": 15,
+      "bonus": 5,
+      "pctMax": 0.659,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -7050,12 +7050,12 @@
     },
     "Jonathan": {
       "rank": 5,
-      "total": 178,
+      "total": 168,
       "group": 80,
       "ko": 78,
-      "bonus": 20,
-      "pctMax": 0.682,
-      "pointsToday": 15,
+      "bonus": 10,
+      "pctMax": 0.6437,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -8807,13 +8807,13 @@
       ]
     },
     "Andreas": {
-      "rank": 6,
-      "total": 174,
+      "rank": 7,
+      "total": 164,
       "group": 78,
       "ko": 81,
-      "bonus": 15,
-      "pctMax": 0.6667,
-      "pointsToday": 15,
+      "bonus": 5,
+      "pctMax": 0.6284,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -10565,13 +10565,13 @@
       ]
     },
     "Charlotta": {
-      "rank": 7,
-      "total": 173,
+      "rank": 8,
+      "total": 163,
       "group": 71,
       "ko": 87,
-      "bonus": 15,
-      "pctMax": 0.6628,
-      "pointsToday": 21,
+      "bonus": 5,
+      "pctMax": 0.6245,
+      "pointsToday": 11,
       "games": [
         {
           "group": "A",
@@ -12323,7 +12323,7 @@
       ]
     },
     "Lina": {
-      "rank": 8,
+      "rank": 6,
       "total": 167,
       "group": 87,
       "ko": 75,
