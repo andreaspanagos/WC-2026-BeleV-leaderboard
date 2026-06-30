@@ -1,18 +1,18 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-29 07:36",
+    "lastRefresh": "2026-06-30 09:11",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 261
   },
   "players": [
     "Lilla K",
+    "Charlotta",
     "Matias",
     "Nora",
     "Fillefire",
     "Jonathan",
     "Andreas",
-    "Charlotta",
     "Lina"
   ],
   "stages": [
@@ -228,7 +228,7 @@
     {
       "team": "Brazil",
       "group": "C",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 1,
@@ -278,7 +278,7 @@
     {
       "team": "Morocco",
       "group": "C",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 7,
@@ -353,7 +353,7 @@
     {
       "team": "Paraguay",
       "group": "D",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 3,
         "R32": 3,
@@ -854,9 +854,9 @@
       "championPct": 50,
       "championBy": [
         "Lilla K",
+        "Charlotta",
         "Nora",
-        "Andreas",
-        "Charlotta"
+        "Andreas"
       ]
     },
     {
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "216",
+      "current": "235",
       "status": "provisional",
       "answers": [
         {
@@ -1383,7 +1383,7 @@
           "players": [
             "Charlotta"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "250–259",
@@ -1453,8 +1453,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Jonathan",
             "Charlotta",
+            "Jonathan",
             "Lina"
           ],
           "hit": null
@@ -1521,8 +1521,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Andreas",
-            "Charlotta"
+            "Charlotta",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1626,8 +1626,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Andreas",
-            "Charlotta"
+            "Charlotta",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1673,7 +1673,7 @@
       "id": "B08",
       "q": "Highest scoring single match (goals)",
       "pts": 5,
-      "current": "8",
+      "current": "9",
       "status": "provisional",
       "answers": [
         {
@@ -1682,9 +1682,9 @@
           "pct": 50,
           "players": [
             "Lilla K",
+            "Charlotta",
             "Nora",
-            "Jonathan",
-            "Charlotta"
+            "Jonathan"
           ],
           "hit": false
         },
@@ -1817,8 +1817,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Fillefire",
-            "Charlotta"
+            "Charlotta",
+            "Fillefire"
           ],
           "hit": null
         }
@@ -1837,12 +1837,12 @@
           "pct": 100,
           "players": [
             "Lilla K",
+            "Charlotta",
             "Matias",
             "Nora",
             "Fillefire",
             "Jonathan",
             "Andreas",
-            "Charlotta",
             "Lina"
           ],
           "hit": true
@@ -1861,12 +1861,12 @@
           "count": 7,
           "pct": 88,
           "players": [
+            "Charlotta",
             "Matias",
             "Nora",
             "Fillefire",
             "Jonathan",
             "Andreas",
-            "Charlotta",
             "Lina"
           ],
           "hit": false
@@ -1894,8 +1894,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Matias",
-            "Charlotta"
+            "Charlotta",
+            "Matias"
           ],
           "hit": null
         },
@@ -1952,11 +1952,11 @@
           "pct": 75,
           "players": [
             "Lilla K",
+            "Charlotta",
             "Matias",
             "Fillefire",
             "Jonathan",
-            "Andreas",
-            "Charlotta"
+            "Andreas"
           ],
           "hit": null
         },
@@ -1993,9 +1993,9 @@
           "pct": 62,
           "players": [
             "Lilla K",
+            "Charlotta",
             "Nora",
             "Fillefire",
-            "Charlotta",
             "Lina"
           ],
           "hit": null
