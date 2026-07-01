@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-01 14:41",
+    "lastRefresh": "2026-07-01 15:18",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 261
   },
   "players": [
     "Lilla K",
-    "Charlotta",
     "Matias",
+    "Charlotta",
     "Nora",
     "Jonathan",
     "Fillefire",
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "243",
+      "current": "231",
       "status": "provisional",
       "answers": [
         {
@@ -1383,7 +1383,7 @@
           "players": [
             "Charlotta"
           ],
-          "hit": true
+          "hit": false
         },
         {
           "answer": "250–259",
@@ -1673,7 +1673,7 @@
       "id": "B08",
       "q": "Highest scoring single match (goals)",
       "pts": 5,
-      "current": "9",
+      "current": "8",
       "status": "provisional",
       "answers": [
         {
@@ -1722,7 +1722,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "0",
+      "current": "2",
       "status": "provisional",
       "answers": [
         {
@@ -1742,7 +1742,7 @@
           "players": [
             "Lilla K"
           ],
-          "hit": true
+          "hit": false
         },
         {
           "answer": "10",
@@ -1837,8 +1837,8 @@
           "pct": 100,
           "players": [
             "Lilla K",
-            "Charlotta",
             "Matias",
+            "Charlotta",
             "Nora",
             "Jonathan",
             "Fillefire",
@@ -1861,8 +1861,8 @@
           "count": 7,
           "pct": 88,
           "players": [
-            "Charlotta",
             "Matias",
+            "Charlotta",
             "Nora",
             "Jonathan",
             "Fillefire",
@@ -1894,8 +1894,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Charlotta",
-            "Matias"
+            "Matias",
+            "Charlotta"
           ],
           "hit": null
         },
@@ -1952,8 +1952,8 @@
           "pct": 75,
           "players": [
             "Lilla K",
-            "Charlotta",
             "Matias",
+            "Charlotta",
             "Jonathan",
             "Fillefire",
             "Andreas"

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-01 14:41",
+    "lastRefresh": "2026-07-01 15:18",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 261
@@ -157,7 +157,7 @@
     "the-comeback": 0,
     "day-winner": 4,
     "contrarian-king": 3,
-    "on-the-rise": 4,
+    "on-the-rise": 3,
     "bullseye": 4,
     "off-the-mark": 8,
     "first-blood": 8,
@@ -237,58 +237,6 @@
         "how": "Points on 3 matchdays running"
       }
     ],
-    "Charlotta": [
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-14",
-        "how": "Netherlands v Japan — only 3 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-17",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "on-the-rise",
-        "date": "2026-07-01",
-        "how": "#8 → #3 → #2"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+1)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-14",
-        "how": "Haiti 0–1 Scotland — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-14",
-        "how": "Haiti v Scotland — rode the 0–1 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-14",
-        "how": "3 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-18",
-        "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "snake-eyes",
-        "date": "2026-06-14",
-        "how": "0 points in 5 straight matches"
-      },
-      {
-        "id": "cold-snap",
-        "date": "2026-06-12",
-        "how": "Blanked all 2 games that day"
-      }
-    ],
     "Matias": [
       {
         "id": "crystal-ball",
@@ -348,6 +296,53 @@
       {
         "id": "cold-snap",
         "date": "2026-06-13",
+        "how": "Blanked all 2 games that day"
+      }
+    ],
+    "Charlotta": [
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-14",
+        "how": "Netherlands v Japan — only 3 players scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-17",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+1)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-14",
+        "how": "Haiti 0–1 Scotland — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-14",
+        "how": "Haiti v Scotland — rode the 0–1 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-14",
+        "how": "3 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-18",
+        "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "snake-eyes",
+        "date": "2026-06-14",
+        "how": "0 points in 5 straight matches"
+      },
+      {
+        "id": "cold-snap",
+        "date": "2026-06-12",
         "how": "Blanked all 2 games that day"
       }
     ],

@@ -671,15 +671,15 @@
       "standings": {
         "Lilla K": {
           "rank": 1,
-          "total": 219
-        },
-        "Charlotta": {
-          "rank": 2,
           "total": 214
         },
         "Matias": {
-          "rank": 3,
+          "rank": 2,
           "total": 212
+        },
+        "Charlotta": {
+          "rank": 3,
+          "total": 209
         },
         "Nora": {
           "rank": 4,

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-01 14:41",
+    "lastRefresh": "2026-07-01 15:18",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 261
@@ -11,33 +11,33 @@
       "player": "Lilla K",
       "group": 90,
       "ko": 99,
-      "bonus": 30,
-      "total": 219,
-      "prevRank": 1,
-      "pointsToday": 0,
-      "pctMax": 0.8391
-    },
-    {
-      "rank": 2,
-      "player": "Charlotta",
-      "group": 71,
-      "ko": 123,
-      "bonus": 20,
+      "bonus": 25,
       "total": 214,
-      "prevRank": 2,
+      "prevRank": 1,
       "pointsToday": 0,
       "pctMax": 0.8199
     },
     {
-      "rank": 3,
+      "rank": 2,
       "player": "Matias",
       "group": 78,
       "ko": 114,
       "bonus": 20,
       "total": 212,
-      "prevRank": 3,
+      "prevRank": 2,
       "pointsToday": 0,
       "pctMax": 0.8123
+    },
+    {
+      "rank": 3,
+      "player": "Charlotta",
+      "group": 71,
+      "ko": 123,
+      "bonus": 15,
+      "total": 209,
+      "prevRank": 3,
+      "pointsToday": 0,
+      "pctMax": 0.8008
     },
     {
       "rank": 4,
