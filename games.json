@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-30 09:11",
+    "lastRefresh": "2026-07-01 14:41",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 261
@@ -10,8 +10,8 @@
     "Charlotta",
     "Matias",
     "Nora",
-    "Fillefire",
     "Jonathan",
+    "Fillefire",
     "Andreas",
     "Lina"
   ],
@@ -30,8 +30,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Lina"
           ],
           "correct": true
@@ -479,8 +479,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas",
             "Lina"
           ],
@@ -920,8 +920,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas"
           ],
           "correct": true
@@ -1367,8 +1367,8 @@
           "players": [
             "Charlotta",
             "Matias",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas",
             "Lina"
           ],
@@ -1472,8 +1472,8 @@
               "pts": 1,
               "players": [
                 "Nora",
-                "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Fillefire"
               ]
             },
             {
@@ -1834,8 +1834,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas",
             "Lina"
           ],
@@ -1980,8 +1980,8 @@
               "pct": 25,
               "pts": 0,
               "players": [
-                "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Fillefire"
               ]
             },
             {
@@ -2040,8 +2040,8 @@
               "pts": 3,
               "players": [
                 "Charlotta",
-                "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Fillefire"
               ]
             },
             {
@@ -2163,8 +2163,8 @@
               "players": [
                 "Charlotta",
                 "Nora",
-                "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Fillefire"
               ]
             },
             {
@@ -2428,8 +2428,8 @@
               "pts": 1,
               "players": [
                 "Lilla K",
-                "Fillefire",
                 "Jonathan",
+                "Fillefire",
                 "Lina"
               ]
             },
@@ -2544,8 +2544,8 @@
               "pct": 25,
               "pts": 1,
               "players": [
-                "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Fillefire"
               ]
             },
             {
@@ -2708,8 +2708,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas",
             "Lina"
           ],
@@ -3043,8 +3043,8 @@
               "pct": 25,
               "pts": 1,
               "players": [
-                "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Fillefire"
               ]
             },
             {
@@ -3181,8 +3181,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas",
             "Lina"
           ],
@@ -3565,8 +3565,8 @@
             "Lilla K",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Lina"
           ],
           "correct": true
@@ -3841,8 +3841,8 @@
               "pts": 0,
               "players": [
                 "Lilla K",
-                "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Fillefire"
               ]
             },
             {
@@ -4031,8 +4031,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas",
             "Lina"
           ],
@@ -4472,8 +4472,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas",
             "Lina"
           ],
@@ -4708,8 +4708,8 @@
               "players": [
                 "Lilla K",
                 "Charlotta",
-                "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Fillefire"
               ]
             },
             {
@@ -5174,8 +5174,8 @@
                 "Charlotta",
                 "Matias",
                 "Nora",
-                "Fillefire",
-                "Jonathan"
+                "Jonathan",
+                "Fillefire"
               ]
             },
             {
@@ -5462,10 +5462,10 @@
       "home": "France",
       "away": "Sweden",
       "kickoff": "2026-06-30 23:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 3,
+      "ag": 0,
+      "winner": "France",
       "homePick": {
         "pct": 100,
         "count": 8
@@ -5482,7 +5482,7 @@
         "pct": 100,
         "count": 8
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M78",
@@ -5492,10 +5492,10 @@
       "home": "Côte d'Ivoire",
       "away": "Norway",
       "kickoff": "2026-06-30 19:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 1,
+      "ag": 2,
+      "winner": "Norway",
       "homePick": {
         "pct": 12,
         "count": 1
@@ -5512,7 +5512,7 @@
         "pct": 100,
         "count": 8
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M79",
@@ -5522,10 +5522,10 @@
       "home": "Mexico",
       "away": "Ecuador",
       "kickoff": "2026-07-01 03:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 2,
+      "ag": 0,
+      "winner": "Mexico",
       "homePick": {
         "pct": 88,
         "count": 7
@@ -5542,7 +5542,7 @@
         "pct": 100,
         "count": 8
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M80",
@@ -5820,8 +5820,8 @@
       "round": "R16",
       "label": "Round of 16",
       "home": "Paraguay",
-      "away": null,
-      "kickoff": "",
+      "away": "France",
+      "kickoff": "2026-07-04 23:00",
       "played": false,
       "hg": null,
       "ag": null,
@@ -5830,13 +5830,19 @@
         "pct": 0,
         "count": 0
       },
-      "awayPick": null,
+      "awayPick": {
+        "pct": 100,
+        "count": 8
+      },
       "homeReach": {
         "pct": 25,
         "count": 2
       },
-      "awayReach": null,
-      "status": "pending"
+      "awayReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "status": "scheduled"
     },
     {
       "id": "M90",
@@ -5874,8 +5880,8 @@
       "round": "R16",
       "label": "Round of 16",
       "home": "Brazil",
-      "away": null,
-      "kickoff": "",
+      "away": "Norway",
+      "kickoff": "2026-07-05 22:00",
       "played": false,
       "hg": null,
       "ag": null,
@@ -5884,29 +5890,41 @@
         "pct": 50,
         "count": 4
       },
-      "awayPick": null,
+      "awayPick": {
+        "pct": 50,
+        "count": 4
+      },
       "homeReach": {
         "pct": 88,
         "count": 7
       },
-      "awayReach": null,
-      "status": "pending"
+      "awayReach": {
+        "pct": 100,
+        "count": 8
+      },
+      "status": "scheduled"
     },
     {
       "id": "M92",
       "no": 92,
       "round": "R16",
       "label": "Round of 16",
-      "home": null,
+      "home": "Mexico",
       "away": null,
       "kickoff": "",
       "played": false,
       "hg": null,
       "ag": null,
       "winner": null,
-      "homePick": null,
+      "homePick": {
+        "pct": 12,
+        "count": 1
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 88,
+        "count": 7
+      },
       "awayReach": null,
       "status": "pending"
     },

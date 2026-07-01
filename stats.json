@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-30 09:11",
+    "lastRefresh": "2026-07-01 14:41",
     "maxPoints": 729,
     "participants": 8,
     "maxAvailable": 261
@@ -10,8 +10,8 @@
     "Charlotta",
     "Matias",
     "Nora",
-    "Fillefire",
     "Jonathan",
+    "Fillefire",
     "Andreas",
     "Lina"
   ],
@@ -78,7 +78,7 @@
     {
       "team": "Mexico",
       "group": "A",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 1,
@@ -832,7 +832,7 @@
     {
       "team": "France",
       "group": "I",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -887,7 +887,7 @@
     {
       "team": "Norway",
       "group": "I",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "235",
+      "current": "243",
       "status": "provisional",
       "answers": [
         {
@@ -1829,7 +1829,7 @@
       "q": "Host nation reaches R16? (Yes/No)",
       "pts": 5,
       "current": "Yes",
-      "status": "provisional",
+      "status": "decided",
       "answers": [
         {
           "answer": "Yes",
@@ -1840,8 +1840,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas",
             "Lina"
           ],
@@ -1864,8 +1864,8 @@
             "Charlotta",
             "Matias",
             "Nora",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas",
             "Lina"
           ],
@@ -1944,7 +1944,7 @@
       "q": "How far does Sweden go? (auto from bracket picks)",
       "pts": 10,
       "current": "Round of 32",
-      "status": "provisional",
+      "status": "decided",
       "answers": [
         {
           "answer": "R32",
@@ -1954,11 +1954,11 @@
             "Lilla K",
             "Charlotta",
             "Matias",
-            "Fillefire",
             "Jonathan",
+            "Fillefire",
             "Andreas"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "QF",
@@ -1967,7 +1967,7 @@
           "players": [
             "Nora"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "SF",
@@ -1976,7 +1976,7 @@
           "players": [
             "Lina"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
