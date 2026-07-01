@@ -3,7 +3,7 @@
     "lastRefresh": "2026-07-01 21:38",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 261
+    "maxAvailable": 441
   },
   "players": [
     "Lilla K",
@@ -22,7 +22,7 @@
       "group": 90,
       "ko": 105,
       "bonus": 25,
-      "pctMax": 0.8429,
+      "pctMax": 0.4989,
       "pointsToday": 6,
       "games": [
         {
@@ -1793,7 +1793,7 @@
       "group": 78,
       "ko": 120,
       "bonus": 20,
-      "pctMax": 0.8352,
+      "pctMax": 0.4943,
       "pointsToday": 6,
       "games": [
         {
@@ -3564,7 +3564,7 @@
       "group": 71,
       "ko": 129,
       "bonus": 15,
-      "pctMax": 0.8238,
+      "pctMax": 0.4875,
       "pointsToday": 6,
       "games": [
         {
@@ -5335,7 +5335,7 @@
       "group": 98,
       "ko": 111,
       "bonus": 5,
-      "pctMax": 0.8199,
+      "pctMax": 0.4853,
       "pointsToday": 6,
       "games": [
         {
@@ -7106,7 +7106,7 @@
       "group": 80,
       "ko": 108,
       "bonus": 20,
-      "pctMax": 0.7969,
+      "pctMax": 0.4717,
       "pointsToday": 6,
       "games": [
         {
@@ -8877,7 +8877,7 @@
       "group": 86,
       "ko": 105,
       "bonus": 15,
-      "pctMax": 0.7893,
+      "pctMax": 0.4671,
       "pointsToday": 6,
       "games": [
         {
@@ -10648,7 +10648,7 @@
       "group": 78,
       "ko": 111,
       "bonus": 15,
-      "pctMax": 0.7816,
+      "pctMax": 0.4626,
       "pointsToday": 6,
       "games": [
         {
@@ -12419,7 +12419,7 @@
       "group": 87,
       "ko": 111,
       "bonus": 5,
-      "pctMax": 0.7778,
+      "pctMax": 0.4603,
       "pointsToday": 6,
       "games": [
         {
