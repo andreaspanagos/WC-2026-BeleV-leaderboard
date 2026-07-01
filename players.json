@@ -1772,7 +1772,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Charlotta": {
       "rank": 2,
@@ -3530,7 +3537,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Matias": {
       "rank": 3,
@@ -5288,7 +5302,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Nora": {
       "rank": 4,
@@ -7046,7 +7067,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Jonathan": {
       "rank": 5,
@@ -8804,7 +8832,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Fillefire": {
       "rank": 6,
@@ -10562,7 +10597,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Andreas": {
       "rank": 7,
@@ -12320,7 +12362,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Lina": {
       "rank": 8,
@@ -14078,7 +14127,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     }
   }
 }
