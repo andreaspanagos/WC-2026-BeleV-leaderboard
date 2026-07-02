@@ -1778,7 +1778,18 @@
         "group": 0,
         "ko": 6,
         "bonus": 5,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "bonus",
+            "label": "B03: Total number of goals (all tournament)",
+            "pts": 5
+          }
+        ]
       }
     },
     "Lilla K": {
@@ -3543,7 +3554,13 @@
         "group": 0,
         "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Matias": {
@@ -5308,7 +5325,13 @@
         "group": 0,
         "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Nora": {
@@ -7073,7 +7096,13 @@
         "group": 0,
         "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Fillefire": {
@@ -8838,7 +8867,23 @@
         "group": 0,
         "ko": 12,
         "bonus": 5,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "bonus",
+            "label": "B09: Number of extra-time or penalty shoot-outs in knockout stage",
+            "pts": 5
+          }
+        ]
       }
     },
     "Andreas": {
@@ -10603,7 +10648,13 @@
         "group": 0,
         "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Lina": {
@@ -12368,7 +12419,18 @@
         "group": 0,
         "ko": 6,
         "bonus": 5,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "bonus",
+            "label": "B09: Number of extra-time or penalty shoot-outs in knockout stage",
+            "pts": 5
+          }
+        ]
       }
     },
     "Jonathan": {
