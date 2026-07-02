@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-02 08:30",
+    "lastRefresh": "2026-07-02 23:21",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 453
+    "maxAvailable": 459
   },
   "players": [
     "Charlotta",
@@ -778,7 +778,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "241",
+      "current": "244",
       "status": "provisional",
       "answers": [
         {
