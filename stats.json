@@ -1,15 +1,15 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-03 03:51",
+    "lastRefresh": "2026-07-03 07:21",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 465
+    "maxAvailable": 471
   },
   "players": [
     "Lilla K",
+    "Nora",
     "Matias",
     "Charlotta",
-    "Nora",
     "Fillefire",
     "Andreas",
     "Lina",
@@ -203,7 +203,7 @@
     {
       "team": "Switzerland",
       "group": "B",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -854,8 +854,8 @@
       "championPct": 50,
       "championBy": [
         "Lilla K",
-        "Charlotta",
         "Nora",
+        "Charlotta",
         "Andreas"
       ]
     },
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "247",
+      "current": "249",
       "status": "provisional",
       "answers": [
         {
@@ -1559,8 +1559,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Matias",
             "Nora",
+            "Matias",
             "Andreas"
           ],
           "hit": null
@@ -1682,8 +1682,8 @@
           "pct": 50,
           "players": [
             "Lilla K",
-            "Charlotta",
             "Nora",
+            "Charlotta",
             "Jonathan"
           ],
           "hit": false
@@ -1804,8 +1804,8 @@
           "pct": 75,
           "players": [
             "Lilla K",
-            "Matias",
             "Nora",
+            "Matias",
             "Andreas",
             "Lina",
             "Jonathan"
@@ -1837,9 +1837,9 @@
           "pct": 100,
           "players": [
             "Lilla K",
+            "Nora",
             "Matias",
             "Charlotta",
-            "Nora",
             "Fillefire",
             "Andreas",
             "Lina",
@@ -1861,9 +1861,9 @@
           "count": 7,
           "pct": 88,
           "players": [
+            "Nora",
             "Matias",
             "Charlotta",
-            "Nora",
             "Fillefire",
             "Andreas",
             "Lina",
@@ -1993,8 +1993,8 @@
           "pct": 62,
           "players": [
             "Lilla K",
-            "Charlotta",
             "Nora",
+            "Charlotta",
             "Fillefire",
             "Lina"
           ],
