@@ -1,19 +1,19 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-03 07:21",
+    "lastRefresh": "2026-07-04 08:40",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 471
+    "maxAvailable": 489
   },
   "players": [
+    "Matias",
+    "Fillefire",
     "Lilla K",
     "Nora",
-    "Matias",
-    "Charlotta",
-    "Fillefire",
     "Andreas",
-    "Lina",
-    "Jonathan"
+    "Charlotta",
+    "Jonathan",
+    "Lina"
   ],
   "stages": [
     "Group stage",
@@ -653,7 +653,7 @@
     {
       "team": "Egypt",
       "group": "G",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 1,
         "R32": 4,
@@ -855,8 +855,8 @@
       "championBy": [
         "Lilla K",
         "Nora",
-        "Charlotta",
-        "Andreas"
+        "Andreas",
+        "Charlotta"
       ]
     },
     {
@@ -962,7 +962,7 @@
     {
       "team": "Argentina",
       "group": "J",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1037,7 +1037,7 @@
     {
       "team": "Colombia",
       "group": "K",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 6,
@@ -1315,8 +1315,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Nora",
             "Fillefire",
+            "Nora",
             "Andreas"
           ],
           "hit": false
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "249",
+      "current": "257",
       "status": "provisional",
       "answers": [
         {
@@ -1383,7 +1383,7 @@
           "players": [
             "Charlotta"
           ],
-          "hit": true
+          "hit": false
         },
         {
           "answer": "250–259",
@@ -1401,7 +1401,7 @@
           "players": [
             "Jonathan"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "290–299",
@@ -1454,8 +1454,8 @@
           "pct": 38,
           "players": [
             "Charlotta",
-            "Lina",
-            "Jonathan"
+            "Jonathan",
+            "Lina"
           ],
           "hit": null
         },
@@ -1510,8 +1510,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Lilla K",
             "Fillefire",
+            "Lilla K",
             "Lina"
           ],
           "hit": null
@@ -1521,8 +1521,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Charlotta",
-            "Andreas"
+            "Andreas",
+            "Charlotta"
           ],
           "hit": null
         },
@@ -1559,8 +1559,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Nora",
             "Matias",
+            "Nora",
             "Andreas"
           ],
           "hit": null
@@ -1570,8 +1570,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Lilla K",
-            "Fillefire"
+            "Fillefire",
+            "Lilla K"
           ],
           "hit": null
         },
@@ -1626,8 +1626,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Charlotta",
-            "Andreas"
+            "Andreas",
+            "Charlotta"
           ],
           "hit": null
         },
@@ -1722,7 +1722,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "3",
+      "current": "5",
       "status": "provisional",
       "answers": [
         {
@@ -1733,7 +1733,7 @@
             "Fillefire",
             "Lina"
           ],
-          "hit": true
+          "hit": false
         },
         {
           "answer": "0",
@@ -1778,7 +1778,7 @@
           "players": [
             "Nora"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "6",
@@ -1803,12 +1803,12 @@
           "count": 6,
           "pct": 75,
           "players": [
+            "Matias",
             "Lilla K",
             "Nora",
-            "Matias",
             "Andreas",
-            "Lina",
-            "Jonathan"
+            "Jonathan",
+            "Lina"
           ],
           "hit": null
         },
@@ -1817,8 +1817,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Charlotta",
-            "Fillefire"
+            "Fillefire",
+            "Charlotta"
           ],
           "hit": null
         }
@@ -1836,14 +1836,14 @@
           "count": 8,
           "pct": 100,
           "players": [
+            "Matias",
+            "Fillefire",
             "Lilla K",
             "Nora",
-            "Matias",
-            "Charlotta",
-            "Fillefire",
             "Andreas",
-            "Lina",
-            "Jonathan"
+            "Charlotta",
+            "Jonathan",
+            "Lina"
           ],
           "hit": true
         }
@@ -1861,13 +1861,13 @@
           "count": 7,
           "pct": 88,
           "players": [
-            "Nora",
             "Matias",
-            "Charlotta",
             "Fillefire",
+            "Nora",
             "Andreas",
-            "Lina",
-            "Jonathan"
+            "Charlotta",
+            "Jonathan",
+            "Lina"
           ],
           "hit": false
         },
@@ -1904,8 +1904,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Lilla K",
-            "Fillefire"
+            "Fillefire",
+            "Lilla K"
           ],
           "hit": null
         },
@@ -1951,11 +1951,11 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Lilla K",
             "Matias",
-            "Charlotta",
             "Fillefire",
+            "Lilla K",
             "Andreas",
+            "Charlotta",
             "Jonathan"
           ],
           "hit": true
@@ -1992,10 +1992,10 @@
           "count": 5,
           "pct": 62,
           "players": [
+            "Fillefire",
             "Lilla K",
             "Nora",
             "Charlotta",
-            "Fillefire",
             "Lina"
           ],
           "hit": null
