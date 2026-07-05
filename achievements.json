@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-04 08:40",
+    "lastRefresh": "2026-07-05 15:43",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 489
+    "maxAvailable": 507
   },
   "catalog": [
     {
@@ -351,83 +351,6 @@
         "how": "Points on 3 matchdays running"
       }
     ],
-    "Nora": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-12",
-        "how": "Canada 1–1 Bosnia & Herzegovina — the only exact call"
-      },
-      {
-        "id": "untouchable",
-        "date": "2026-06-14",
-        "how": "Held #1 three update days running"
-      },
-      {
-        "id": "the-sweep",
-        "date": "2026-06-26",
-        "how": "All 6 Group I results correct"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-12",
-        "how": "Scored on all 2 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-12",
-        "how": "Canada v Bosnia & Herzegovina — only 2 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-17",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "day-winner",
-        "date": "2026-06-12",
-        "how": "Outright top scorer (+4)"
-      },
-      {
-        "id": "contrarian-king",
-        "date": "2026-06-12",
-        "how": "Top scorer on a 18%-popularity card"
-      },
-      {
-        "id": "on-the-rise",
-        "date": "2026-07-04",
-        "how": "#5 → #2 → #1"
-      },
-      {
-        "id": "bullseye",
-        "date": "2026-06-25",
-        "how": "2 exact scorelines in a day"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+3)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-11",
-        "how": "Mexico 2–0 South Africa — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-11",
-        "how": "Mexico v South Africa — rode the 2–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "3 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-13",
-        "how": "Points on 3 matchdays running"
-      }
-    ],
     "Andreas": [
       {
         "id": "the-sweep",
@@ -525,6 +448,83 @@
         "id": "cold-snap",
         "date": "2026-06-12",
         "how": "Blanked all 2 games that day"
+      }
+    ],
+    "Nora": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-12",
+        "how": "Canada 1–1 Bosnia & Herzegovina — the only exact call"
+      },
+      {
+        "id": "untouchable",
+        "date": "2026-06-14",
+        "how": "Held #1 three update days running"
+      },
+      {
+        "id": "the-sweep",
+        "date": "2026-06-26",
+        "how": "All 6 Group I results correct"
+      },
+      {
+        "id": "perfect-day",
+        "date": "2026-06-12",
+        "how": "Scored on all 2 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-12",
+        "how": "Canada v Bosnia & Herzegovina — only 2 players scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-17",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-12",
+        "how": "Outright top scorer (+4)"
+      },
+      {
+        "id": "contrarian-king",
+        "date": "2026-06-12",
+        "how": "Top scorer on a 18%-popularity card"
+      },
+      {
+        "id": "on-the-rise",
+        "date": "2026-07-04",
+        "how": "#5 → #2 → #1"
+      },
+      {
+        "id": "bullseye",
+        "date": "2026-06-25",
+        "how": "2 exact scorelines in a day"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+3)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-11",
+        "how": "Mexico 2–0 South Africa — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-11",
+        "how": "Mexico v South Africa — rode the 2–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "3 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-13",
+        "how": "Points on 3 matchdays running"
       }
     ],
     "Jonathan": [
@@ -657,7 +657,7 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-07-04",
+        "date": "2026-07-05",
         "how": "Last place — rank 8"
       },
       {
