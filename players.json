@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 11:32",
+    "lastRefresh": "2026-07-07 20:52",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 543
+    "maxAvailable": 552
   },
   "players": [
     "Lilla K",
@@ -18,12 +18,12 @@
   "detail": {
     "Lilla K": {
       "rank": 1,
-      "total": 295,
+      "total": 304,
       "group": 90,
-      "ko": 180,
+      "ko": 189,
       "bonus": 25,
-      "pctMax": 0.5433,
-      "pointsToday": 18,
+      "pctMax": 0.5507,
+      "pointsToday": 27,
       "games": [
         {
           "group": "A",
@@ -1536,9 +1536,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Belgium",
@@ -1774,11 +1774,16 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 27,
         "group": 0,
-        "ko": 18,
+        "ko": 27,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Belgium → Quarter-final",
@@ -1794,12 +1799,12 @@
     },
     "Andreas": {
       "rank": 2,
-      "total": 291,
+      "total": 300,
       "group": 78,
-      "ko": 198,
+      "ko": 207,
       "bonus": 15,
-      "pctMax": 0.5359,
-      "pointsToday": 18,
+      "pctMax": 0.5435,
+      "pointsToday": 27,
       "games": [
         {
           "group": "A",
@@ -3312,9 +3317,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Belgium",
@@ -3550,11 +3555,16 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 27,
         "group": 0,
-        "ko": 18,
+        "ko": 27,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Belgium → Quarter-final",
@@ -3570,12 +3580,12 @@
     },
     "Fillefire": {
       "rank": 3,
-      "total": 284,
+      "total": 293,
       "group": 86,
-      "ko": 183,
+      "ko": 192,
       "bonus": 15,
-      "pctMax": 0.523,
-      "pointsToday": 18,
+      "pctMax": 0.5308,
+      "pointsToday": 27,
       "games": [
         {
           "group": "A",
@@ -5088,9 +5098,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Belgium",
@@ -5326,11 +5336,16 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 27,
         "group": 0,
-        "ko": 18,
+        "ko": 27,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Belgium → Quarter-final",
@@ -5346,12 +5361,12 @@
     },
     "Matias": {
       "rank": 4,
-      "total": 281,
+      "total": 290,
       "group": 78,
-      "ko": 183,
+      "ko": 192,
       "bonus": 20,
-      "pctMax": 0.5175,
-      "pointsToday": 18,
+      "pctMax": 0.5254,
+      "pointsToday": 27,
       "games": [
         {
           "group": "A",
@@ -6864,9 +6879,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Belgium",
@@ -7102,11 +7117,16 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 27,
         "group": 0,
-        "ko": 18,
+        "ko": 27,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Belgium → Quarter-final",
@@ -7122,12 +7142,12 @@
     },
     "Charlotta": {
       "rank": 4,
-      "total": 281,
+      "total": 290,
       "group": 71,
-      "ko": 195,
+      "ko": 204,
       "bonus": 15,
-      "pctMax": 0.5175,
-      "pointsToday": 18,
+      "pctMax": 0.5254,
+      "pointsToday": 27,
       "games": [
         {
           "group": "A",
@@ -8640,9 +8660,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Belgium",
@@ -8878,11 +8898,16 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 27,
         "group": 0,
-        "ko": 18,
+        "ko": 27,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Belgium → Quarter-final",
@@ -8898,12 +8923,12 @@
     },
     "Nora": {
       "rank": 6,
-      "total": 276,
+      "total": 285,
       "group": 98,
-      "ko": 168,
+      "ko": 177,
       "bonus": 10,
-      "pctMax": 0.5083,
-      "pointsToday": 9,
+      "pctMax": 0.5163,
+      "pointsToday": 18,
       "games": [
         {
           "group": "A",
@@ -10416,9 +10441,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Brazil",
@@ -10654,11 +10679,16 @@
         }
       ],
       "today": {
-        "total": 9,
+        "total": 18,
         "group": 0,
-        "ko": 9,
+        "ko": 18,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Spain → Quarter-final",
@@ -10669,12 +10699,12 @@
     },
     "Jonathan": {
       "rank": 7,
-      "total": 265,
+      "total": 274,
       "group": 80,
-      "ko": 165,
+      "ko": 174,
       "bonus": 20,
-      "pctMax": 0.488,
-      "pointsToday": 0,
+      "pctMax": 0.4964,
+      "pointsToday": 9,
       "games": [
         {
           "group": "A",
@@ -12187,9 +12217,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Croatia",
@@ -12425,21 +12455,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 9,
         "group": 0,
-        "ko": 0,
+        "ko": 9,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          }
+        ]
       }
     },
     "Lina": {
       "rank": 8,
-      "total": 260,
+      "total": 269,
       "group": 87,
-      "ko": 168,
+      "ko": 177,
       "bonus": 5,
-      "pctMax": 0.4788,
-      "pointsToday": 9,
+      "pctMax": 0.4873,
+      "pointsToday": 18,
       "games": [
         {
           "group": "A",
@@ -13952,9 +13988,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Brazil",
@@ -14190,11 +14226,16 @@
         }
       ],
       "today": {
-        "total": 9,
+        "total": 18,
         "group": 0,
-        "ko": 9,
+        "ko": 18,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Spain → Quarter-final",

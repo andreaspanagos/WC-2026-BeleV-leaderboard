@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 11:32",
+    "lastRefresh": "2026-07-07 20:52",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 543
+    "maxAvailable": 552
   },
   "players": [
     "Lilla K",
@@ -6024,10 +6024,10 @@
       "home": "Argentina",
       "away": "Egypt",
       "kickoff": "2026-07-07 18:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 3,
+      "ag": 2,
+      "winner": "Argentina",
       "pens": false,
       "homePick": {
         "pct": 100,
@@ -6045,7 +6045,7 @@
         "pct": 38,
         "count": 3
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M96",
@@ -6176,7 +6176,7 @@
       "no": 100,
       "round": "QF",
       "label": "Quarter-final",
-      "home": null,
+      "home": "Argentina",
       "away": null,
       "kickoff": "",
       "played": false,
@@ -6184,9 +6184,15 @@
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
+      "homePick": {
+        "pct": 75,
+        "count": 6
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
       "awayReach": null,
       "status": "pending"
     },
