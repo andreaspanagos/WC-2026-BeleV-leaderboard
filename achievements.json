@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-06 11:43",
+    "lastRefresh": "2026-07-07 11:32",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 525
+    "maxAvailable": 543
   },
   "catalog": [
     {
@@ -341,68 +341,6 @@
         "how": "Points on 3 matchdays running"
       }
     ],
-    "Jonathan": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-14",
-        "how": "Brazil 1–1 Morocco — the only exact call"
-      },
-      {
-        "id": "untouchable",
-        "date": "2026-06-16",
-        "how": "Held #1 three update days running"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-16",
-        "how": "Scored on all 3 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-14",
-        "how": "Brazil v Morocco — only 2 players scored"
-      },
-      {
-        "id": "day-winner",
-        "date": "2026-06-14",
-        "how": "Outright top scorer (+10)"
-      },
-      {
-        "id": "contrarian-king",
-        "date": "2026-06-14",
-        "how": "Top scorer on a 22%-popularity card"
-      },
-      {
-        "id": "bullseye",
-        "date": "2026-06-14",
-        "how": "3 exact scorelines in a day"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+1)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-14",
-        "how": "Brazil 1–1 Morocco — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-12",
-        "how": "Korea Republic v Czechia — rode the 1–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-14",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-13",
-        "how": "Points on 3 matchdays running"
-      }
-    ],
     "Matias": [
       {
         "id": "crystal-ball",
@@ -589,6 +527,68 @@
         "how": "Points on 3 matchdays running"
       }
     ],
+    "Jonathan": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-14",
+        "how": "Brazil 1–1 Morocco — the only exact call"
+      },
+      {
+        "id": "untouchable",
+        "date": "2026-06-16",
+        "how": "Held #1 three update days running"
+      },
+      {
+        "id": "perfect-day",
+        "date": "2026-06-16",
+        "how": "Scored on all 3 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-14",
+        "how": "Brazil v Morocco — only 2 players scored"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-14",
+        "how": "Outright top scorer (+10)"
+      },
+      {
+        "id": "contrarian-king",
+        "date": "2026-06-14",
+        "how": "Top scorer on a 22%-popularity card"
+      },
+      {
+        "id": "bullseye",
+        "date": "2026-06-14",
+        "how": "3 exact scorelines in a day"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+1)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-14",
+        "how": "Brazil 1–1 Morocco — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-12",
+        "how": "Korea Republic v Czechia — rode the 1–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-14",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-13",
+        "how": "Points on 3 matchdays running"
+      }
+    ],
     "Lina": [
       {
         "id": "crystal-ball",
@@ -657,7 +657,7 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-07-06",
+        "date": "2026-07-07",
         "how": "Last place — rank 8"
       },
       {
