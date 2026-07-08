@@ -6055,11 +6055,11 @@
       "home": "Switzerland",
       "away": "Colombia",
       "kickoff": "2026-07-07 22:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
+      "played": true,
+      "hg": 0,
+      "ag": 0,
       "winner": "Switzerland",
-      "pens": false,
+      "pens": true,
       "homePick": {
         "pct": 12,
         "count": 1
@@ -6076,7 +6076,7 @@
         "pct": 25,
         "count": 2
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M97",
