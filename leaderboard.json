@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 20:52",
+    "lastRefresh": "2026-07-08 09:50",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 552
+    "maxAvailable": 561
   },
   "rows": [
     {
@@ -14,8 +14,8 @@
       "bonus": 25,
       "total": 304,
       "prevRank": 1,
-      "pointsToday": 27,
-      "pctMax": 0.5507
+      "pointsToday": 0,
+      "pctMax": 0.5419
     },
     {
       "rank": 2,
@@ -25,63 +25,63 @@
       "bonus": 15,
       "total": 300,
       "prevRank": 2,
-      "pointsToday": 27,
-      "pctMax": 0.5435
+      "pointsToday": 0,
+      "pctMax": 0.5348
     },
     {
       "rank": 3,
+      "player": "Matias",
+      "group": 78,
+      "ko": 201,
+      "bonus": 20,
+      "total": 299,
+      "prevRank": 4,
+      "pointsToday": 9,
+      "pctMax": 0.533
+    },
+    {
+      "rank": 4,
       "player": "Fillefire",
       "group": 86,
       "ko": 192,
       "bonus": 15,
       "total": 293,
-      "prevRank": 4,
-      "pointsToday": 27,
-      "pctMax": 0.5308
+      "prevRank": 3,
+      "pointsToday": 0,
+      "pctMax": 0.5223
     },
     {
-      "rank": 4,
+      "rank": 5,
       "player": "Charlotta",
       "group": 71,
       "ko": 204,
       "bonus": 15,
       "total": 290,
-      "prevRank": 6,
-      "pointsToday": 27,
-      "pctMax": 0.5254
-    },
-    {
-      "rank": 4,
-      "player": "Matias",
-      "group": 78,
-      "ko": 192,
-      "bonus": 20,
-      "total": 290,
-      "prevRank": 6,
-      "pointsToday": 27,
-      "pctMax": 0.5254
+      "prevRank": 4,
+      "pointsToday": 0,
+      "pctMax": 0.5169
     },
     {
       "rank": 6,
       "player": "Nora",
       "group": 98,
       "ko": 177,
-      "bonus": 10,
-      "total": 285,
-      "prevRank": 3,
-      "pointsToday": 18,
-      "pctMax": 0.5163
+      "bonus": 5,
+      "total": 280,
+      "prevRank": 6,
+      "pointsToday": -5,
+      "pctMax": 0.4991
     },
     {
       "rank": 7,
       "player": "Jonathan",
       "group": 80,
       "ko": 174,
-      "bonus": 20,
-      "total": 274,
-      "prevRank": 5,
-      "pointsToday": 9,
-      "pctMax": 0.4964
+      "bonus": 25,
+      "total": 279,
+      "prevRank": 7,
+      "pointsToday": 5,
+      "pctMax": 0.4973
     },
     {
       "rank": 8,
@@ -91,8 +91,8 @@
       "bonus": 5,
       "total": 269,
       "prevRank": 8,
-      "pointsToday": 18,
-      "pctMax": 0.4873
+      "pointsToday": 0,
+      "pctMax": 0.4795
     }
   ]
 }

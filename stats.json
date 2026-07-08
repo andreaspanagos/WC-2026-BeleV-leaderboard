@@ -1,15 +1,15 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 20:52",
+    "lastRefresh": "2026-07-08 09:50",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 552
+    "maxAvailable": 561
   },
   "players": [
-    "Lilla K",
     "Andreas",
-    "Fillefire",
+    "Lilla K",
     "Matias",
+    "Fillefire",
     "Charlotta",
     "Nora",
     "Jonathan",
@@ -203,7 +203,7 @@
     {
       "team": "Switzerland",
       "group": "B",
-      "actual": "R16",
+      "actual": "QF",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -799,8 +799,8 @@
       },
       "championPct": 38,
       "championBy": [
-        "Fillefire",
         "Matias",
+        "Fillefire",
         "Lina"
       ]
     },
@@ -853,8 +853,8 @@
       },
       "championPct": 50,
       "championBy": [
-        "Lilla K",
         "Andreas",
+        "Lilla K",
         "Charlotta",
         "Nora"
       ]
@@ -1464,8 +1464,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Fillefire",
-            "Matias"
+            "Matias",
+            "Fillefire"
           ],
           "hit": null
         },
@@ -1722,7 +1722,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "5",
+      "current": "6",
       "status": "provisional",
       "answers": [
         {
@@ -1778,7 +1778,7 @@
           "players": [
             "Nora"
           ],
-          "hit": true
+          "hit": false
         },
         {
           "answer": "6",
@@ -1787,7 +1787,7 @@
           "players": [
             "Jonathan"
           ],
-          "hit": false
+          "hit": true
         }
       ]
     },
@@ -1803,8 +1803,8 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Lilla K",
             "Andreas",
+            "Lilla K",
             "Matias",
             "Nora",
             "Jonathan",
@@ -1836,10 +1836,10 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Lilla K",
             "Andreas",
-            "Fillefire",
+            "Lilla K",
             "Matias",
+            "Fillefire",
             "Charlotta",
             "Nora",
             "Jonathan",
@@ -1862,8 +1862,8 @@
           "pct": 88,
           "players": [
             "Andreas",
-            "Fillefire",
             "Matias",
+            "Fillefire",
             "Charlotta",
             "Nora",
             "Jonathan",
@@ -1951,10 +1951,10 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Lilla K",
             "Andreas",
-            "Fillefire",
+            "Lilla K",
             "Matias",
+            "Fillefire",
             "Charlotta",
             "Jonathan"
           ],
