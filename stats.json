@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-10 10:33",
+    "lastRefresh": "2026-07-10 23:25",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 573
+    "maxAvailable": 585
   },
   "players": [
     "Andreas",
@@ -12,8 +12,8 @@
     "Fillefire",
     "Charlotta",
     "Nora",
-    "Jonathan",
-    "Lina"
+    "Lina",
+    "Jonathan"
   ],
   "stages": [
     "Group stage",
@@ -778,7 +778,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": "QF",
+      "actual": "SF",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "282",
+      "current": "285",
       "status": "provisional",
       "answers": [
         {
@@ -1410,7 +1410,7 @@
           "players": [
             "Lilla K"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "300–309",
@@ -1454,8 +1454,8 @@
           "pct": 38,
           "players": [
             "Charlotta",
-            "Jonathan",
-            "Lina"
+            "Lina",
+            "Jonathan"
           ],
           "hit": null
         },
@@ -1807,8 +1807,8 @@
             "Lilla K",
             "Matias",
             "Nora",
-            "Jonathan",
-            "Lina"
+            "Lina",
+            "Jonathan"
           ],
           "hit": null
         },
@@ -1842,8 +1842,8 @@
             "Fillefire",
             "Charlotta",
             "Nora",
-            "Jonathan",
-            "Lina"
+            "Lina",
+            "Jonathan"
           ],
           "hit": true
         }
@@ -1866,8 +1866,8 @@
             "Fillefire",
             "Charlotta",
             "Nora",
-            "Jonathan",
-            "Lina"
+            "Lina",
+            "Jonathan"
           ],
           "hit": false
         },
