@@ -1,6 +1,17 @@
 {
-  "lastRun": "2026-07-08T09:50:57",
+  "lastRun": "2026-07-10T10:33:47",
   "applied": [
+    {
+      "round": "QF",
+      "label": "M97",
+      "home": "France",
+      "away": "Morocco",
+      "hg": 2,
+      "ag": 0,
+      "winner": "France",
+      "pens": false,
+      "when": "2026-07-10T10:33:47"
+    },
     {
       "round": "R16",
       "label": "M96",

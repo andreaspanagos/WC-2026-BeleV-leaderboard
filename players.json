@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-08 09:50",
+    "lastRefresh": "2026-07-10 10:33",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 561
+    "maxAvailable": 573
   },
   "players": [
     "Andreas",
@@ -18,12 +18,12 @@
   "detail": {
     "Andreas": {
       "rank": 2,
-      "total": 300,
+      "total": 312,
       "group": 78,
-      "ko": 207,
+      "ko": 219,
       "bonus": 15,
-      "pctMax": 0.5348,
-      "pointsToday": 0,
+      "pctMax": 0.5445,
+      "pointsToday": 12,
       "games": [
         {
           "group": "A",
@@ -1592,9 +1592,9 @@
           },
           {
             "team": "France",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 12,
+            "status": "hit"
           },
           {
             "team": "Norway",
@@ -1774,21 +1774,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 12,
         "group": 0,
-        "ko": 0,
+        "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "France → Semi-final",
+            "pts": 12
+          }
+        ]
       }
     },
     "Lilla K": {
       "rank": 1,
-      "total": 304,
+      "total": 316,
       "group": 90,
-      "ko": 189,
+      "ko": 201,
       "bonus": 25,
-      "pctMax": 0.5419,
-      "pointsToday": 0,
+      "pctMax": 0.5515,
+      "pointsToday": 12,
       "games": [
         {
           "group": "A",
@@ -3357,9 +3363,9 @@
           },
           {
             "team": "France",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 12,
+            "status": "hit"
           },
           {
             "team": "Portugal",
@@ -3539,21 +3545,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 12,
         "group": 0,
-        "ko": 0,
+        "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "France → Semi-final",
+            "pts": 12
+          }
+        ]
       }
     },
     "Matias": {
       "rank": 3,
-      "total": 299,
+      "total": 311,
       "group": 78,
-      "ko": 201,
+      "ko": 213,
       "bonus": 20,
-      "pctMax": 0.533,
-      "pointsToday": 9,
+      "pctMax": 0.5428,
+      "pointsToday": 12,
       "games": [
         {
           "group": "A",
@@ -5128,9 +5140,9 @@
           },
           {
             "team": "France",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 12,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -5304,27 +5316,27 @@
         }
       ],
       "today": {
-        "total": 9,
+        "total": 12,
         "group": 0,
-        "ko": 9,
+        "ko": 12,
         "bonus": 0,
         "items": [
           {
             "type": "ko",
-            "label": "Switzerland → Quarter-final",
-            "pts": 9
+            "label": "France → Semi-final",
+            "pts": 12
           }
         ]
       }
     },
     "Fillefire": {
       "rank": 4,
-      "total": 293,
+      "total": 305,
       "group": 86,
-      "ko": 192,
+      "ko": 204,
       "bonus": 15,
-      "pctMax": 0.5223,
-      "pointsToday": 0,
+      "pctMax": 0.5323,
+      "pointsToday": 12,
       "games": [
         {
           "group": "A",
@@ -6899,9 +6911,9 @@
           },
           {
             "team": "France",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 12,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -7075,21 +7087,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 12,
         "group": 0,
-        "ko": 0,
+        "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "France → Semi-final",
+            "pts": 12
+          }
+        ]
       }
     },
     "Charlotta": {
       "rank": 5,
-      "total": 290,
+      "total": 302,
       "group": 71,
-      "ko": 204,
+      "ko": 216,
       "bonus": 15,
-      "pctMax": 0.5169,
-      "pointsToday": 0,
+      "pctMax": 0.5271,
+      "pointsToday": 12,
       "games": [
         {
           "group": "A",
@@ -8658,9 +8676,9 @@
           },
           {
             "team": "France",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 12,
+            "status": "hit"
           },
           {
             "team": "Norway",
@@ -8840,21 +8858,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 12,
         "group": 0,
-        "ko": 0,
+        "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "France → Semi-final",
+            "pts": 12
+          }
+        ]
       }
     },
     "Nora": {
       "rank": 6,
-      "total": 280,
+      "total": 292,
       "group": 98,
-      "ko": 177,
+      "ko": 189,
       "bonus": 5,
-      "pctMax": 0.4991,
-      "pointsToday": -5,
+      "pctMax": 0.5096,
+      "pointsToday": 12,
       "games": [
         {
           "group": "A",
@@ -10429,9 +10453,9 @@
           },
           {
             "team": "France",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 12,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -10605,27 +10629,27 @@
         }
       ],
       "today": {
-        "total": -5,
+        "total": 12,
         "group": 0,
-        "ko": 0,
-        "bonus": -5,
+        "ko": 12,
+        "bonus": 0,
         "items": [
           {
-            "type": "bonus",
-            "label": "B09: Number of extra-time or penalty shoot-outs in knockout stage",
-            "pts": -5
+            "type": "ko",
+            "label": "France → Semi-final",
+            "pts": 12
           }
         ]
       }
     },
     "Jonathan": {
       "rank": 7,
-      "total": 279,
+      "total": 291,
       "group": 80,
-      "ko": 174,
+      "ko": 186,
       "bonus": 25,
-      "pctMax": 0.4973,
-      "pointsToday": 5,
+      "pctMax": 0.5079,
+      "pointsToday": 12,
       "games": [
         {
           "group": "A",
@@ -12194,9 +12218,9 @@
           },
           {
             "team": "France",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 12,
+            "status": "hit"
           },
           {
             "team": "Norway",
@@ -12376,27 +12400,27 @@
         }
       ],
       "today": {
-        "total": 5,
+        "total": 12,
         "group": 0,
-        "ko": 0,
-        "bonus": 5,
+        "ko": 12,
+        "bonus": 0,
         "items": [
           {
-            "type": "bonus",
-            "label": "B09: Number of extra-time or penalty shoot-outs in knockout stage",
-            "pts": 5
+            "type": "ko",
+            "label": "France → Semi-final",
+            "pts": 12
           }
         ]
       }
     },
     "Lina": {
       "rank": 8,
-      "total": 269,
+      "total": 281,
       "group": 87,
-      "ko": 177,
+      "ko": 189,
       "bonus": 5,
-      "pctMax": 0.4795,
-      "pointsToday": 0,
+      "pctMax": 0.4904,
+      "pointsToday": 12,
       "games": [
         {
           "group": "A",
@@ -13965,9 +13989,9 @@
           },
           {
             "team": "France",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 12,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -14147,11 +14171,17 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 12,
         "group": 0,
-        "ko": 0,
+        "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "France → Semi-final",
+            "pts": 12
+          }
+        ]
       }
     }
   }

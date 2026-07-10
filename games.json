@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-08 09:50",
+    "lastRefresh": "2026-07-10 10:33",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 561
+    "maxAvailable": 573
   },
   "players": [
     "Andreas",
@@ -6086,10 +6086,10 @@
       "home": "France",
       "away": "Morocco",
       "kickoff": "2026-07-09 22:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 2,
+      "ag": 0,
+      "winner": "France",
       "pens": false,
       "homePick": {
         "pct": 100,
@@ -6107,7 +6107,7 @@
         "pct": 0,
         "count": 0
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M98",
@@ -6207,7 +6207,7 @@
       "no": 101,
       "round": "SF",
       "label": "Semi-final",
-      "home": null,
+      "home": "France",
       "away": null,
       "kickoff": "",
       "played": false,
@@ -6215,9 +6215,15 @@
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
+      "homePick": {
+        "pct": 62,
+        "count": 5
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
       "awayReach": null,
       "status": "pending"
     },
@@ -6245,7 +6251,7 @@
       "no": 103,
       "round": "Bronze",
       "label": "Third-place",
-      "home": null,
+      "home": "France",
       "away": null,
       "kickoff": "",
       "played": false,
@@ -6253,9 +6259,15 @@
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
+      "homePick": {
+        "pct": 38,
+        "count": 3
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 100,
+        "count": 8
+      },
       "awayReach": null,
       "status": "pending"
     },
