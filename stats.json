@@ -3,7 +3,7 @@
     "lastRefresh": "2026-07-10 23:25",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 585
+    "maxAvailable": 600
   },
   "players": [
     "Andreas",
@@ -1551,8 +1551,8 @@
       "id": "B06",
       "q": "Most yellow cards, team",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "Egypt",
+      "status": "provisional",
       "answers": [
         {
           "answer": "Argentina",
@@ -1563,7 +1563,7 @@
             "Matias",
             "Nora"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "England",
@@ -1573,7 +1573,7 @@
             "Lilla K",
             "Fillefire"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Iraq",
@@ -1582,7 +1582,7 @@
           "players": [
             "Lina"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Portugal",
@@ -1591,7 +1591,7 @@
           "players": [
             "Jonathan"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Uruguay",
@@ -1600,7 +1600,7 @@
           "players": [
             "Charlotta"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1608,8 +1608,8 @@
       "id": "B07",
       "q": "Fastest goal, minute",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "2",
+      "status": "provisional",
       "answers": [
         {
           "answer": "1",
@@ -1619,7 +1619,7 @@
             "Lilla K",
             "Lina"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "2",
@@ -1629,7 +1629,7 @@
             "Andreas",
             "Charlotta"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "0",
@@ -1638,7 +1638,7 @@
           "players": [
             "Fillefire"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "3",
@@ -1647,7 +1647,7 @@
           "players": [
             "Jonathan"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "5",
@@ -1656,7 +1656,7 @@
           "players": [
             "Nora"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "6",
@@ -1665,7 +1665,7 @@
           "players": [
             "Matias"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1886,8 +1886,8 @@
       "id": "B13",
       "q": "Most yellow cards, single match",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "8",
+      "status": "provisional",
       "answers": [
         {
           "answer": "5",
@@ -1897,7 +1897,7 @@
             "Matias",
             "Charlotta"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "6",
@@ -1907,7 +1907,7 @@
             "Lilla K",
             "Fillefire"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "8",
@@ -1917,7 +1917,7 @@
             "Andreas",
             "Lina"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "10",
@@ -1926,7 +1926,7 @@
           "players": [
             "Jonathan"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -1935,7 +1935,7 @@
           "players": [
             "Nora"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },

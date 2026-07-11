@@ -3,7 +3,7 @@
     "lastRefresh": "2026-07-10 23:25",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 585
+    "maxAvailable": 600
   },
   "players": [
     "Andreas",
@@ -17,13 +17,13 @@
   ],
   "detail": {
     "Andreas": {
-      "rank": 2,
-      "total": 324,
+      "rank": 1,
+      "total": 334,
       "group": 78,
       "ko": 231,
-      "bonus": 15,
-      "pctMax": 0.5538,
-      "pointsToday": 24,
+      "bonus": 25,
+      "pctMax": 0.5567,
+      "pointsToday": 10,
       "games": [
         {
           "group": "A",
@@ -1686,19 +1686,19 @@
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Argentina",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "2",
-          "hit": null,
+          "hit": true,
           "pts": 5,
-          "status": "tbd",
-          "earned": 0
+          "status": "provisional",
+          "earned": 5
         },
         {
           "id": "B08",
@@ -1749,10 +1749,10 @@
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "8",
-          "hit": null,
+          "hit": true,
           "pts": 5,
-          "status": "tbd",
-          "earned": 0
+          "status": "provisional",
+          "earned": 5
         },
         {
           "id": "B15",
@@ -1774,32 +1774,32 @@
         }
       ],
       "today": {
-        "total": 24,
+        "total": 10,
         "group": 0,
-        "ko": 24,
-        "bonus": 0,
+        "ko": 0,
+        "bonus": 10,
         "items": [
           {
-            "type": "ko",
-            "label": "France → Semi-final",
-            "pts": 12
+            "type": "bonus",
+            "label": "B07: Fastest goal, minute",
+            "pts": 5
           },
           {
-            "type": "ko",
-            "label": "Spain → Semi-final",
-            "pts": 12
+            "type": "bonus",
+            "label": "B13: Most yellow cards, single match",
+            "pts": 5
           }
         ]
       }
     },
     "Lilla K": {
-      "rank": 1,
+      "rank": 2,
       "total": 328,
       "group": 90,
       "ko": 213,
       "bonus": 25,
-      "pctMax": 0.5607,
-      "pointsToday": 24,
+      "pctMax": 0.5467,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -3462,18 +3462,18 @@
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "England",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "1",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -3525,9 +3525,9 @@
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "6",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -3550,22 +3550,11 @@
         }
       ],
       "today": {
-        "total": 24,
+        "total": 0,
         "group": 0,
-        "ko": 24,
+        "ko": 0,
         "bonus": 0,
-        "items": [
-          {
-            "type": "ko",
-            "label": "France → Semi-final",
-            "pts": 12
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Semi-final",
-            "pts": 12
-          }
-        ]
+        "items": []
       }
     },
     "Matias": {
@@ -3574,8 +3563,8 @@
       "group": 78,
       "ko": 225,
       "bonus": 20,
-      "pctMax": 0.5521,
-      "pointsToday": 24,
+      "pctMax": 0.5383,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -5238,18 +5227,18 @@
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Argentina",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "6",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -5301,9 +5290,9 @@
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "5",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -5326,32 +5315,21 @@
         }
       ],
       "today": {
-        "total": 24,
+        "total": 0,
         "group": 0,
-        "ko": 24,
+        "ko": 0,
         "bonus": 0,
-        "items": [
-          {
-            "type": "ko",
-            "label": "France → Semi-final",
-            "pts": 12
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Semi-final",
-            "pts": 12
-          }
-        ]
+        "items": []
       }
     },
     "Fillefire": {
-      "rank": 4,
+      "rank": 5,
       "total": 317,
       "group": 86,
       "ko": 216,
       "bonus": 15,
-      "pctMax": 0.5419,
-      "pointsToday": 24,
+      "pctMax": 0.5283,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -7014,18 +6992,18 @@
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "England",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "0",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -7077,9 +7055,9 @@
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "6",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -7102,32 +7080,21 @@
         }
       ],
       "today": {
-        "total": 24,
+        "total": 0,
         "group": 0,
-        "ko": 24,
+        "ko": 0,
         "bonus": 0,
-        "items": [
-          {
-            "type": "ko",
-            "label": "France → Semi-final",
-            "pts": 12
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Semi-final",
-            "pts": 12
-          }
-        ]
+        "items": []
       }
     },
     "Charlotta": {
-      "rank": 5,
-      "total": 314,
+      "rank": 4,
+      "total": 319,
       "group": 71,
       "ko": 228,
-      "bonus": 15,
-      "pctMax": 0.5368,
-      "pointsToday": 24,
+      "bonus": 20,
+      "pctMax": 0.5317,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -8790,19 +8757,19 @@
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Uruguay",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "2",
-          "hit": null,
+          "hit": true,
           "pts": 5,
-          "status": "tbd",
-          "earned": 0
+          "status": "provisional",
+          "earned": 5
         },
         {
           "id": "B08",
@@ -8853,9 +8820,9 @@
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "5",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -8878,20 +8845,15 @@
         }
       ],
       "today": {
-        "total": 24,
+        "total": 5,
         "group": 0,
-        "ko": 24,
-        "bonus": 0,
+        "ko": 0,
+        "bonus": 5,
         "items": [
           {
-            "type": "ko",
-            "label": "France → Semi-final",
-            "pts": 12
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Semi-final",
-            "pts": 12
+            "type": "bonus",
+            "label": "B07: Fastest goal, minute",
+            "pts": 5
           }
         ]
       }
@@ -8902,8 +8864,8 @@
       "group": 98,
       "ko": 201,
       "bonus": 5,
-      "pctMax": 0.5197,
-      "pointsToday": 24,
+      "pctMax": 0.5067,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -10566,18 +10528,18 @@
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Argentina",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "5",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -10629,9 +10591,9 @@
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "4",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -10654,32 +10616,21 @@
         }
       ],
       "today": {
-        "total": 24,
+        "total": 0,
         "group": 0,
-        "ko": 24,
+        "ko": 0,
         "bonus": 0,
-        "items": [
-          {
-            "type": "ko",
-            "label": "France → Semi-final",
-            "pts": 12
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Semi-final",
-            "pts": 12
-          }
-        ]
+        "items": []
       }
     },
     "Lina": {
       "rank": 7,
-      "total": 293,
+      "total": 298,
       "group": 87,
       "ko": 201,
-      "bonus": 5,
-      "pctMax": 0.5009,
-      "pointsToday": 24,
+      "bonus": 10,
+      "pctMax": 0.4967,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -12342,18 +12293,18 @@
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Iraq",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "1",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -12405,10 +12356,10 @@
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "8",
-          "hit": null,
+          "hit": true,
           "pts": 5,
-          "status": "tbd",
-          "earned": 0
+          "status": "provisional",
+          "earned": 5
         },
         {
           "id": "B15",
@@ -12430,20 +12381,15 @@
         }
       ],
       "today": {
-        "total": 24,
+        "total": 5,
         "group": 0,
-        "ko": 24,
-        "bonus": 0,
+        "ko": 0,
+        "bonus": 5,
         "items": [
           {
-            "type": "ko",
-            "label": "France → Semi-final",
-            "pts": 12
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Semi-final",
-            "pts": 12
+            "type": "bonus",
+            "label": "B13: Most yellow cards, single match",
+            "pts": 5
           }
         ]
       }
@@ -12454,8 +12400,8 @@
       "group": 80,
       "ko": 186,
       "bonus": 25,
-      "pctMax": 0.4974,
-      "pointsToday": 12,
+      "pctMax": 0.485,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -14118,18 +14064,18 @@
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Portugal",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "3",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -14181,9 +14127,9 @@
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "10",
-          "hit": null,
+          "hit": false,
           "pts": 5,
-          "status": "tbd",
+          "status": "provisional",
           "earned": 0
         },
         {
@@ -14206,17 +14152,11 @@
         }
       ],
       "today": {
-        "total": 12,
+        "total": 0,
         "group": 0,
-        "ko": 12,
+        "ko": 0,
         "bonus": 0,
-        "items": [
-          {
-            "type": "ko",
-            "label": "France → Semi-final",
-            "pts": 12
-          }
-        ]
+        "items": []
       }
     }
   }
