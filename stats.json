@@ -1,13 +1,13 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-10 23:25",
+    "lastRefresh": "2026-07-12 16:57",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 600
+    "maxAvailable": 624
   },
   "players": [
-    "Andreas",
     "Lilla K",
+    "Andreas",
     "Matias",
     "Fillefire",
     "Charlotta",
@@ -853,8 +853,8 @@
       },
       "championPct": 50,
       "championBy": [
-        "Andreas",
         "Lilla K",
+        "Andreas",
         "Charlotta",
         "Nora"
       ]
@@ -962,7 +962,7 @@
     {
       "team": "Argentina",
       "group": "J",
-      "actual": "QF",
+      "actual": "SF",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1164,7 +1164,7 @@
     {
       "team": "England",
       "group": "L",
-      "actual": "QF",
+      "actual": "SF",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "285",
+      "current": "292",
       "status": "provisional",
       "answers": [
         {
@@ -1722,7 +1722,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "6",
+      "current": "8",
       "status": "provisional",
       "answers": [
         {
@@ -1787,7 +1787,7 @@
           "players": [
             "Jonathan"
           ],
-          "hit": true
+          "hit": false
         }
       ]
     },
@@ -1803,8 +1803,8 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Nora",
             "Lina",
@@ -1836,8 +1836,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Fillefire",
             "Charlotta",
@@ -1951,8 +1951,8 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Fillefire",
             "Charlotta",

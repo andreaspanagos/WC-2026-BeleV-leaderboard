@@ -1,13 +1,13 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-10 23:25",
+    "lastRefresh": "2026-07-12 16:57",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 600
+    "maxAvailable": 624
   },
   "players": [
-    "Andreas",
     "Lilla K",
+    "Andreas",
     "Matias",
     "Fillefire",
     "Charlotta",
@@ -475,8 +475,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Fillefire",
             "Charlotta",
@@ -798,8 +798,8 @@
               "pct": 50,
               "pts": 3,
               "players": [
-                "Andreas",
                 "Lilla K",
+                "Andreas",
                 "Nora",
                 "Jonathan"
               ]
@@ -851,8 +851,8 @@
               "pct": 38,
               "pts": 0,
               "players": [
-                "Andreas",
                 "Lilla K",
+                "Andreas",
                 "Nora"
               ]
             },
@@ -916,8 +916,8 @@
           "count": 7,
           "pct": 88,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Fillefire",
             "Charlotta",
@@ -1830,8 +1830,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Fillefire",
             "Charlotta",
@@ -2050,8 +2050,8 @@
               "pct": 25,
               "pts": 1,
               "players": [
-                "Andreas",
-                "Lilla K"
+                "Lilla K",
+                "Andreas"
               ]
             },
             {
@@ -2480,8 +2480,8 @@
               "pct": 62,
               "pts": 1,
               "players": [
-                "Andreas",
                 "Lilla K",
+                "Andreas",
                 "Fillefire",
                 "Nora",
                 "Lina"
@@ -2605,8 +2605,8 @@
               "pct": 38,
               "pts": 0,
               "players": [
-                "Andreas",
                 "Lilla K",
+                "Andreas",
                 "Fillefire"
               ]
             },
@@ -2704,8 +2704,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Fillefire",
             "Charlotta",
@@ -3177,8 +3177,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Fillefire",
             "Charlotta",
@@ -3460,8 +3460,8 @@
               "pct": 38,
               "pts": 3,
               "players": [
-                "Andreas",
                 "Lilla K",
+                "Andreas",
                 "Charlotta"
               ]
             },
@@ -4027,8 +4027,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Fillefire",
             "Charlotta",
@@ -4118,8 +4118,8 @@
               "pct": 25,
               "pts": 3,
               "players": [
-                "Andreas",
-                "Lilla K"
+                "Lilla K",
+                "Andreas"
               ]
             },
             {
@@ -4468,8 +4468,8 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Matias",
             "Fillefire",
             "Charlotta",
@@ -4893,8 +4893,8 @@
           "count": 5,
           "pct": 62,
           "players": [
-            "Andreas",
             "Lilla K",
+            "Andreas",
             "Fillefire",
             "Nora",
             "Lina"
@@ -6148,10 +6148,10 @@
       "home": "Norway",
       "away": "England",
       "kickoff": "2026-07-11 23:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 1,
+      "ag": 2,
+      "winner": "England",
       "pens": false,
       "homePick": {
         "pct": 38,
@@ -6169,7 +6169,7 @@
         "pct": 75,
         "count": 6
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M100",
@@ -6179,10 +6179,10 @@
       "home": "Argentina",
       "away": "Switzerland",
       "kickoff": "2026-07-12 03:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 3,
+      "ag": 1,
+      "winner": "Argentina",
       "pens": false,
       "homePick": {
         "pct": 75,
@@ -6200,7 +6200,7 @@
         "pct": 12,
         "count": 1
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M101",
@@ -6209,7 +6209,7 @@
       "label": "Semi-final",
       "home": "France",
       "away": "Spain",
-      "kickoff": "",
+      "kickoff": "2026-07-14 21:00",
       "played": false,
       "hg": null,
       "ag": null,
@@ -6238,19 +6238,31 @@
       "no": 102,
       "round": "SF",
       "label": "Semi-final",
-      "home": null,
-      "away": null,
-      "kickoff": "",
+      "home": "England",
+      "away": "Argentina",
+      "kickoff": "2026-07-15 21:00",
       "played": false,
       "hg": null,
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
-      "awayPick": null,
-      "homeReach": null,
-      "awayReach": null,
-      "status": "pending"
+      "homePick": {
+        "pct": 12,
+        "count": 1
+      },
+      "awayPick": {
+        "pct": 38,
+        "count": 3
+      },
+      "homeReach": {
+        "pct": 25,
+        "count": 2
+      },
+      "awayReach": {
+        "pct": 75,
+        "count": 6
+      },
+      "status": "scheduled"
     },
     {
       "id": "M103",
@@ -6258,7 +6270,7 @@
       "round": "Bronze",
       "label": "Third-place",
       "home": "France",
-      "away": null,
+      "away": "Argentina",
       "kickoff": "",
       "played": false,
       "hg": null,
@@ -6269,13 +6281,19 @@
         "pct": 38,
         "count": 3
       },
-      "awayPick": null,
+      "awayPick": {
+        "pct": 0,
+        "count": 0
+      },
       "homeReach": {
         "pct": 100,
         "count": 8
       },
-      "awayReach": null,
-      "status": "pending"
+      "awayReach": {
+        "pct": 75,
+        "count": 6
+      },
+      "status": "scheduled"
     },
     {
       "id": "M104",

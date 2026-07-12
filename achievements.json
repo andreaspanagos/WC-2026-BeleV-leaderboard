@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-10 23:25",
+    "lastRefresh": "2026-07-12 16:57",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 600
+    "maxAvailable": 624
   },
   "catalog": [
     {
@@ -170,58 +170,6 @@
     "free-fall": 0
   },
   "byPlayer": {
-    "Andreas": [
-      {
-        "id": "the-sweep",
-        "date": "2026-06-28",
-        "how": "All 6 Group J results correct"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-28",
-        "how": "Scored on all 4 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-17",
-        "how": "England v Croatia — only 3 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-23",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+1)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-14",
-        "how": "Haiti 0–1 Scotland — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-14",
-        "how": "Haiti v Scotland — rode the 0–1 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-16",
-        "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "cold-snap",
-        "date": "2026-06-13",
-        "how": "Blanked all 2 games that day"
-      }
-    ],
     "Lilla K": [
       {
         "id": "crystal-ball",
@@ -287,6 +235,58 @@
         "id": "steady-hand",
         "date": "2026-06-13",
         "how": "Points on 3 matchdays running"
+      }
+    ],
+    "Andreas": [
+      {
+        "id": "the-sweep",
+        "date": "2026-06-28",
+        "how": "All 6 Group J results correct"
+      },
+      {
+        "id": "perfect-day",
+        "date": "2026-06-28",
+        "how": "Scored on all 4 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-17",
+        "how": "England v Croatia — only 3 players scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-23",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+1)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-14",
+        "how": "Haiti 0–1 Scotland — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-14",
+        "how": "Haiti v Scotland — rode the 0–1 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-16",
+        "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "cold-snap",
+        "date": "2026-06-13",
+        "how": "Blanked all 2 games that day"
       }
     ],
     "Matias": [
@@ -667,7 +667,7 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-07-10",
+        "date": "2026-07-12",
         "how": "Last place — rank 8"
       }
     ]
