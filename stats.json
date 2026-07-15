@@ -1,18 +1,18 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-12 16:57",
+    "lastRefresh": "2026-07-15 21:31",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 624
+    "maxAvailable": 639
   },
   "players": [
-    "Lilla K",
     "Andreas",
     "Matias",
+    "Lilla K",
     "Fillefire",
     "Charlotta",
-    "Nora",
     "Lina",
+    "Nora",
     "Jonathan"
   ],
   "stages": [
@@ -778,7 +778,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": "SF",
+      "actual": "Final",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -853,8 +853,8 @@
       },
       "championPct": 50,
       "championBy": [
-        "Lilla K",
         "Andreas",
+        "Lilla K",
         "Charlotta",
         "Nora"
       ]
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "292",
+      "current": "294",
       "status": "provisional",
       "answers": [
         {
@@ -1803,11 +1803,11 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Lilla K",
             "Andreas",
             "Matias",
-            "Nora",
+            "Lilla K",
             "Lina",
+            "Nora",
             "Jonathan"
           ],
           "hit": null
@@ -1836,13 +1836,13 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Lilla K",
             "Andreas",
             "Matias",
+            "Lilla K",
             "Fillefire",
             "Charlotta",
-            "Nora",
             "Lina",
+            "Nora",
             "Jonathan"
           ],
           "hit": true
@@ -1865,8 +1865,8 @@
             "Matias",
             "Fillefire",
             "Charlotta",
-            "Nora",
             "Lina",
+            "Nora",
             "Jonathan"
           ],
           "hit": false
@@ -1951,9 +1951,9 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Lilla K",
             "Andreas",
             "Matias",
+            "Lilla K",
             "Fillefire",
             "Charlotta",
             "Jonathan"
@@ -1995,8 +1995,8 @@
             "Lilla K",
             "Fillefire",
             "Charlotta",
-            "Nora",
-            "Lina"
+            "Lina",
+            "Nora"
           ],
           "hit": null
         },
