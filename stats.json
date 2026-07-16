@@ -1,15 +1,15 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-15 21:31",
+    "lastRefresh": "2026-07-16 16:32",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 639
+    "maxAvailable": 654
   },
   "players": [
-    "Andreas",
     "Matias",
-    "Lilla K",
     "Fillefire",
+    "Andreas",
+    "Lilla K",
     "Charlotta",
     "Lina",
     "Nora",
@@ -962,7 +962,7 @@
     {
       "team": "Argentina",
       "group": "J",
-      "actual": "SF",
+      "actual": "Final",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1250,8 +1250,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Andreas",
-            "Fillefire"
+            "Fillefire",
+            "Andreas"
           ],
           "hit": false
         },
@@ -1315,8 +1315,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Andreas",
             "Fillefire",
+            "Andreas",
             "Nora"
           ],
           "hit": false
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "294",
+      "current": "297",
       "status": "provisional",
       "answers": [
         {
@@ -1419,7 +1419,7 @@
           "players": [
             "Andreas"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "350–359",
@@ -1510,8 +1510,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Lilla K",
             "Fillefire",
+            "Lilla K",
             "Lina"
           ],
           "hit": null
@@ -1559,8 +1559,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Andreas",
             "Matias",
+            "Andreas",
             "Nora"
           ],
           "hit": false
@@ -1570,8 +1570,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Lilla K",
-            "Fillefire"
+            "Fillefire",
+            "Lilla K"
           ],
           "hit": false
         },
@@ -1803,8 +1803,8 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Andreas",
             "Matias",
+            "Andreas",
             "Lilla K",
             "Lina",
             "Nora",
@@ -1836,10 +1836,10 @@
           "count": 8,
           "pct": 100,
           "players": [
-            "Andreas",
             "Matias",
-            "Lilla K",
             "Fillefire",
+            "Andreas",
+            "Lilla K",
             "Charlotta",
             "Lina",
             "Nora",
@@ -1861,9 +1861,9 @@
           "count": 7,
           "pct": 88,
           "players": [
-            "Andreas",
             "Matias",
             "Fillefire",
+            "Andreas",
             "Charlotta",
             "Lina",
             "Nora",
@@ -1904,8 +1904,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Lilla K",
-            "Fillefire"
+            "Fillefire",
+            "Lilla K"
           ],
           "hit": false
         },
@@ -1951,10 +1951,10 @@
           "count": 6,
           "pct": 75,
           "players": [
-            "Andreas",
             "Matias",
-            "Lilla K",
             "Fillefire",
+            "Andreas",
+            "Lilla K",
             "Charlotta",
             "Jonathan"
           ],
@@ -1992,8 +1992,8 @@
           "count": 5,
           "pct": 62,
           "players": [
-            "Lilla K",
             "Fillefire",
+            "Lilla K",
             "Charlotta",
             "Lina",
             "Nora"
@@ -2005,8 +2005,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Andreas",
             "Matias",
+            "Andreas",
             "Jonathan"
           ],
           "hit": null

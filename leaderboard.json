@@ -1,76 +1,76 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-15 21:31",
+    "lastRefresh": "2026-07-16 16:32",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 639
+    "maxAvailable": 654
   },
   "rows": [
     {
       "rank": 1,
+      "player": "Matias",
+      "group": 78,
+      "ko": 267,
+      "bonus": 20,
+      "total": 365,
+      "prevRank": 2,
+      "pointsToday": 15,
+      "pctMax": 0.5581
+    },
+    {
+      "rank": 2,
       "player": "Andreas",
       "group": 78,
       "ko": 258,
       "bonus": 25,
       "total": 361,
       "prevRank": 1,
-      "pointsToday": 15,
-      "pctMax": 0.5649
-    },
-    {
-      "rank": 2,
-      "player": "Matias",
-      "group": 78,
-      "ko": 252,
-      "bonus": 20,
-      "total": 350,
-      "prevRank": 3,
-      "pointsToday": 15,
-      "pctMax": 0.5477
+      "pointsToday": 0,
+      "pctMax": 0.552
     },
     {
       "rank": 3,
+      "player": "Fillefire",
+      "group": 86,
+      "ko": 258,
+      "bonus": 15,
+      "total": 359,
+      "prevRank": 5,
+      "pointsToday": 15,
+      "pctMax": 0.5489
+    },
+    {
+      "rank": 4,
       "player": "Charlotta",
       "group": 71,
       "ko": 255,
       "bonus": 20,
       "total": 346,
-      "prevRank": 4,
-      "pointsToday": 15,
-      "pctMax": 0.5415
+      "prevRank": 3,
+      "pointsToday": 0,
+      "pctMax": 0.5291
     },
     {
-      "rank": 4,
+      "rank": 5,
       "player": "Lilla K",
       "group": 90,
       "ko": 225,
       "bonus": 30,
       "total": 345,
-      "prevRank": 2,
+      "prevRank": 4,
       "pointsToday": 0,
-      "pctMax": 0.5399
-    },
-    {
-      "rank": 5,
-      "player": "Fillefire",
-      "group": 86,
-      "ko": 243,
-      "bonus": 15,
-      "total": 344,
-      "prevRank": 5,
-      "pointsToday": 15,
-      "pctMax": 0.5383
+      "pctMax": 0.5275
     },
     {
       "rank": 6,
       "player": "Lina",
       "group": 87,
-      "ko": 228,
+      "ko": 243,
       "bonus": 10,
-      "total": 325,
-      "prevRank": 7,
+      "total": 340,
+      "prevRank": 6,
       "pointsToday": 15,
-      "pctMax": 0.5086
+      "pctMax": 0.5199
     },
     {
       "rank": 7,
@@ -79,9 +79,9 @@
       "ko": 213,
       "bonus": 5,
       "total": 316,
-      "prevRank": 6,
+      "prevRank": 7,
       "pointsToday": 0,
-      "pctMax": 0.4945
+      "pctMax": 0.4832
     },
     {
       "rank": 8,
@@ -92,7 +92,7 @@
       "total": 298,
       "prevRank": 8,
       "pointsToday": 0,
-      "pctMax": 0.4664
+      "pctMax": 0.4557
     }
   ]
 }
