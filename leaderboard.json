@@ -1,13 +1,27 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-21 17:34",
+    "lastRefresh": "2026-07-21 18:25",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 684
+    "maxAvailable": 729,
+    "tournamentComplete": true,
+    "champion": "Spain",
+    "third": "England"
   },
   "rows": [
     {
       "rank": 1,
+      "player": "Fillefire",
+      "group": 86,
+      "ko": 288,
+      "bonus": 30,
+      "total": 404,
+      "prevRank": 3,
+      "pointsToday": 45,
+      "pctMax": 0.5542
+    },
+    {
+      "rank": 2,
       "player": "Matias",
       "group": 78,
       "ko": 297,
@@ -15,21 +29,21 @@
       "total": 400,
       "prevRank": 1,
       "pointsToday": 35,
-      "pctMax": 0.5848
-    },
-    {
-      "rank": 2,
-      "player": "Fillefire",
-      "group": 86,
-      "ko": 288,
-      "bonus": 15,
-      "total": 389,
-      "prevRank": 3,
-      "pointsToday": 30,
-      "pctMax": 0.5687
+      "pctMax": 0.5487
     },
     {
       "rank": 3,
+      "player": "Lina",
+      "group": 87,
+      "ko": 273,
+      "bonus": 20,
+      "total": 380,
+      "prevRank": 6,
+      "pointsToday": 40,
+      "pctMax": 0.5213
+    },
+    {
+      "rank": 4,
       "player": "Andreas",
       "group": 78,
       "ko": 258,
@@ -37,40 +51,29 @@
       "total": 371,
       "prevRank": 2,
       "pointsToday": 10,
-      "pctMax": 0.5424
-    },
-    {
-      "rank": 4,
-      "player": "Lina",
-      "group": 87,
-      "ko": 273,
-      "bonus": 10,
-      "total": 370,
-      "prevRank": 6,
-      "pointsToday": 30,
-      "pctMax": 0.5409
+      "pctMax": 0.5089
     },
     {
       "rank": 5,
       "player": "Charlotta",
       "group": 71,
       "ko": 255,
-      "bonus": 20,
-      "total": 346,
+      "bonus": 25,
+      "total": 351,
       "prevRank": 4,
-      "pointsToday": 0,
-      "pctMax": 0.5058
+      "pointsToday": 5,
+      "pctMax": 0.4815
     },
     {
       "rank": 6,
       "player": "Lilla K",
       "group": 90,
       "ko": 225,
-      "bonus": 30,
-      "total": 345,
+      "bonus": 35,
+      "total": 350,
       "prevRank": 5,
-      "pointsToday": 0,
-      "pctMax": 0.5044
+      "pointsToday": 5,
+      "pctMax": 0.4801
     },
     {
       "rank": 7,
@@ -81,18 +84,18 @@
       "total": 321,
       "prevRank": 7,
       "pointsToday": 5,
-      "pctMax": 0.4693
+      "pctMax": 0.4403
     },
     {
       "rank": 8,
       "player": "Jonathan",
       "group": 80,
-      "ko": 198,
+      "ko": 213,
       "bonus": 20,
-      "total": 298,
+      "total": 313,
       "prevRank": 8,
-      "pointsToday": 0,
-      "pctMax": 0.4357
+      "pointsToday": 15,
+      "pctMax": 0.4294
     }
   ]
 }
