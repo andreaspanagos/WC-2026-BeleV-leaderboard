@@ -1,17 +1,17 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-16 16:32",
+    "lastRefresh": "2026-07-21 17:34",
     "maxPoints": 729,
     "participants": 8,
-    "maxAvailable": 654
+    "maxAvailable": 684
   },
   "players": [
     "Matias",
     "Fillefire",
+    "Lina",
     "Andreas",
     "Lilla K",
     "Charlotta",
-    "Lina",
     "Nora",
     "Jonathan"
   ],
@@ -778,7 +778,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": "Final",
+      "actual": "Champion",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1364,7 +1364,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "297",
+      "current": "298",
       "status": "provisional",
       "answers": [
         {
@@ -1453,8 +1453,8 @@
           "count": 3,
           "pct": 38,
           "players": [
-            "Charlotta",
             "Lina",
+            "Charlotta",
             "Jonathan"
           ],
           "hit": null
@@ -1511,8 +1511,8 @@
           "pct": 38,
           "players": [
             "Fillefire",
-            "Lilla K",
-            "Lina"
+            "Lina",
+            "Lilla K"
           ],
           "hit": null
         },
@@ -1551,7 +1551,7 @@
       "id": "B06",
       "q": "Most yellow cards, team",
       "pts": 5,
-      "current": "Egypt",
+      "current": "Argentina",
       "status": "provisional",
       "answers": [
         {
@@ -1563,7 +1563,7 @@
             "Andreas",
             "Nora"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "England",
@@ -1616,8 +1616,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Lilla K",
-            "Lina"
+            "Lina",
+            "Lilla K"
           ],
           "hit": false
         },
@@ -1722,7 +1722,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "8",
+      "current": "9",
       "status": "provisional",
       "answers": [
         {
@@ -1804,9 +1804,9 @@
           "pct": 75,
           "players": [
             "Matias",
+            "Lina",
             "Andreas",
             "Lilla K",
-            "Lina",
             "Nora",
             "Jonathan"
           ],
@@ -1838,10 +1838,10 @@
           "players": [
             "Matias",
             "Fillefire",
+            "Lina",
             "Andreas",
             "Lilla K",
             "Charlotta",
-            "Lina",
             "Nora",
             "Jonathan"
           ],
@@ -1863,9 +1863,9 @@
           "players": [
             "Matias",
             "Fillefire",
+            "Lina",
             "Andreas",
             "Charlotta",
-            "Lina",
             "Nora",
             "Jonathan"
           ],
@@ -1914,8 +1914,8 @@
           "count": 2,
           "pct": 25,
           "players": [
-            "Andreas",
-            "Lina"
+            "Lina",
+            "Andreas"
           ],
           "hit": true
         },
@@ -1993,9 +1993,9 @@
           "pct": 62,
           "players": [
             "Fillefire",
+            "Lina",
             "Lilla K",
             "Charlotta",
-            "Lina",
             "Nora"
           ],
           "hit": null
